@@ -10,8 +10,8 @@ items:
   descendants_targets: []
   path: "/pages/prestations"
   file: content/fr/pages/prestations/_index.html
-- title: Projets
-  slug: projets
+- title: Pianos
+  slug: pianos
   target: "/projets/"
   kind: page
   new_tab: false
