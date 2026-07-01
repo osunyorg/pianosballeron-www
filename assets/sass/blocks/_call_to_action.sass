@@ -1,0 +1,62 @@
+.block-call_to_action
+
+    // footer cta (landscape image as bg)
+    .footer-contents.contents-full-width &
+        position: relative
+        .call_to_action
+            &.call_to_action--with-image
+                > div
+                    position: relative
+                    z-index: 2
+                    .block-title
+                        @include h2
+                    .description
+                        p
+                            @include body-text
+                            text-transform: none
+                figure
+                    bottom: 0
+                    left: 0
+                    opacity: 0.46
+                    pointer-events: none
+                    position: absolute
+                    right: 0
+                    top: 0
+                    .lightbox-button,
+                    picture
+                        height: 100%
+                        img
+                            object-fit: cover
+                    &::after
+                        background: var(--color-text)
+                        background: linear-gradient(0deg,rgba(0, 0, 0, 1) 0%, rgba(255, 255, 255, 0) 100%)
+                        bottom: 0
+                        content: ''
+                        height: 100%
+                        left: 0
+                        position: absolute
+                        right: 0
+                
+        @include media-breakpoint-up(desktop)
+            .block-content
+                padding-bottom: space(13)
+                padding-top: space(82)
+            .call_to_action
+                &.call_to_action--with-image
+                    > div
+                        align-items: center
+                        display: flex
+                        grid-column: 1/13
+                        justify-content: space-between
+                        .block-title
+                            width: columns(7)
+                        .description
+                            width: columns(7)
+                        .actions
+                            margin-top: 0
+                            a:first-child
+                                margin-top: 0
+                                margin-left: 0
+
+                    figure::after
+                        height: 50%

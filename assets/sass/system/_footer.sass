@@ -1,0 +1,23 @@
+footer#document-footer
+    @include media-breakpoint-up(desktop)
+        padding-top: space(56)
+        .container
+            flex-direction: column
+            align-items: center
+            &:first-child
+                padding-bottom: 0
+            + .container
+                padding-top: space(51)
+
+        .footer-legals
+            width: 100%
+            &, ul
+                display: flex
+                flex-wrap: wrap
+                gap: space(15)
+                justify-content: center
+            a, p
+                color: var(--color-text-alt)
+            li + li, 
+            p
+                margin-top: 0
