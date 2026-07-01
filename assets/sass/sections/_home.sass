@@ -1,4 +1,24 @@
 .page__home
     .hero
+        padding-bottom: 0
         h1
             max-width: 12ch
+
+    .blocks
+        .block:not(.block-posts)
+            .block-title
+                @include h1
+
+        .block-chapter:not(.block-chapter--with-image)
+            .text
+                display: flex
+                gap: var(--grid-gutter)
+                width: columns(12)
+                .top
+                    width: columns(4)
+                .rich-text
+                    flex: 1
+
+        .block-posts
+            border-top: 1px solid var(--color-text)
+            padding-top: var(--grid-gutter)
