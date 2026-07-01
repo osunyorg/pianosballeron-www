@@ -28,16 +28,24 @@
                         height: 100%
                         img
                             object-fit: cover
-                    &::after
-                        background: var(--color-text)
-                        background: linear-gradient(0deg,rgba(0, 0, 0, 1) 0%, rgba(255, 255, 255, 0) 100%)
-                        bottom: 0
-                        content: ''
-                        height: 100%
-                        left: 0
-                        position: absolute
-                        right: 0
+                            height: 100%
+                &::after
+                    background: var(--color-text)
+                    background: linear-gradient(0deg,rgba(0, 0, 0, 1) 0%, rgba(255, 255, 255, 0) 100%)
+                    bottom: 0
+                    content: ''
+                    height: 100%
+                    left: 0
+                    position: absolute
+                    right: 0
                 
+        @include media-breakpoint-down(desktop)
+        
+            .call_to_action
+                &.call_to_action--with-image
+                    figure
+                        margin-bottom: 0
+
         @include media-breakpoint-up(desktop)
             .block-content
                 padding-bottom: space(13)
