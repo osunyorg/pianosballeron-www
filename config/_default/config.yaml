@@ -2,7 +2,7 @@ theme: osuny
 _merge: deep
 params:
   summary:
-    position: hero
+    position: content
   search:
     active: true
   logo:
@@ -11,3 +11,14 @@ params:
   home:
     head:
       title: site
+
+  projects:
+    index:
+      options:
+        summary: false
+    single:
+      meta:
+        position: hero
+        options:
+          year: false
+          with_labels: false

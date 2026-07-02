@@ -1,0 +1,14 @@
+blocks:
+  projects:
+    title: Pianos
+    
+projects:
+  count:
+    one: "1 piano"
+    other: "{{ .Count }} pianos"
+  next: Piano suivant
+  none: Aucun piano
+  previous: Piano précédent
+  see_all: Voir tous les pianos
+  see_all_in_category: Voir tous les pianos “{{ .Title }}”
+  title: Pianos

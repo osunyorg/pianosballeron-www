@@ -1,16 +1,35 @@
-// header#document-header
-//     @include media-breakpoint-up(desktop)
-//         .logo
-//             position: absolute
-//             left: 50%
-//             transform: translateX(-50%)
-//         .menu
-//             width: 100%
-//             ul
-//                 > li:nth-child(3)
-//                     margin-left: auto
-//                 a
-//                     text-transform: uppercase
+header#document-header
+    .left-menu
+        @include meta
+        a
+            &:not(.active)
+                text-decoration: none
+
+    @include media-breakpoint-up(desktop)
+        a.active
+            text-decoration: underline
+        .left-menu
+            @include meta
+            align-items: baseline
+            display: flex
+            order: -1
+            a
+                padding: $spacing-1 $spacing-2
+                &:not(.active)
+                    text-decoration: none
+
+    @include media-breakpoint-down(desktop)
+        .left-menu
+            display: none
+            width: 100%
+            html.has-menu-opened &
+                display: block
+            li:not(:last-child)
+                border-bottom: var(--border-width) solid var(--color-border)
+            a
+                display: block
+                padding-bottom: $spacing-3
+                padding-top: $spacing-3
 
 // icons
 @font-face
