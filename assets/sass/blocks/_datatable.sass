@@ -1,0 +1,11 @@
+.block-datatable 
+    table
+        thead
+            @include body-text
+
+        @include media-breakpoint-up(desktop)
+            tr, td
+                th:first-child
+                    width: columns(4)
+                    + th
+                        margin-left: var(--grid-gutter)

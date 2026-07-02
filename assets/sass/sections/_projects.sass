@@ -15,6 +15,13 @@
             @include body-text
             color: var(--color-text)
 
+        @include media-breakpoint-up(desktop)
+            .project-categories
+                margin-top: $spacing-3
+                a
+                    text-decoration: none
+
+// page
 .projects__page
     .hero
         .hero-text
@@ -26,6 +33,7 @@
                     font-weight: normal
                     line-height: 100%
                     margin-top: $spacing-1
+
         .dropdown-share
             left: 0
             right: unset
@@ -51,7 +59,7 @@
         padding-bottom: $spacing-2
         margin-bottom: 0
         .lead p
-            @include h2
+            text-transform: uppercase
         + .blocks
             .block-datatable:first-child
                 margin-top: 0
@@ -59,7 +67,6 @@
     @include media-breakpoint-up(desktop)
         .hero
             .content
-                align-items: center
                 position: relative
             .hero-text
                 gap: var(--grid-gutter)

@@ -15,6 +15,12 @@
                         p
                             @include body-text
                             text-transform: none
+                    .actions
+                        a:first-child
+                            --btn-background: transparent
+                            --btn-color: var(--color-background)
+                            --btn-hover-background: var(--color-background)
+                            --btn-hover-color: var(--color-text)
                 figure
                     bottom: 0
                     left: 0
@@ -40,7 +46,6 @@
                     right: 0
                 
         @include media-breakpoint-down(desktop)
-        
             .call_to_action
                 &.call_to_action--with-image
                     figure
