@@ -41,11 +41,13 @@
             .dropdown-menu
                 @include button-reset
             button
-                padding: 0
-                align-items: baseline
-                min-width: unset
-                width: unset
+                @include meta
                 border-bottom: 1px solid var(--color-text)
+                padding: 0
+                min-width: unset
+                align-items: baseline
+                text-transform: uppercase
+                width: unset
             .dropdown-menu
                 background: var(--color-background)
                 .share
@@ -53,6 +55,11 @@
                         padding-bottom: 0
                     a:first-child
                         padding-left: 0
+
+        figure
+            img
+                aspect-ratio: 1
+                object-fit: cover
 
     .block-summary
         border-bottom: 1px solid var(--color-text)

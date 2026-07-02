@@ -2,8 +2,15 @@
 
     // footer cta (landscape image as bg)
     .footer-contents.contents-full-width &
-        position: relative
+        background: none
+        margin-top: 0
         overflow: hidden
+        position: relative
+        .block-content
+            background-color: var(--cta-background-color)
+            margin-left: 0
+            margin-right: 0
+            position: relative
         .call_to_action
             &.call_to_action--with-image
                 > div
@@ -21,6 +28,8 @@
                             --btn-color: var(--color-background)
                             --btn-hover-background: var(--color-background)
                             --btn-hover-color: var(--color-text)
+                            &:hover
+                                --btn-hover-border: 1px solid var(--btn-hover-background)
                 figure
                     bottom: 0
                     left: 0
@@ -53,8 +62,7 @@
 
         @include media-breakpoint-up(desktop)
             .block-content
-                padding-bottom: space(13)
-                padding-top: space(82)
+                padding: space(82) space(9) space(13)
             .call_to_action
                 &.call_to_action--with-image
                     > div
@@ -70,7 +78,7 @@
                             margin-top: 0
                             a:first-child
                                 margin-top: 0
-                                margin-left: 0
+                                margin-right: 0
 
                     figure::after
                         height: 50%

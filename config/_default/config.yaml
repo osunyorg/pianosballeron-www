@@ -12,6 +12,9 @@ params:
     head:
       title: site
 
+  breadcrumb:
+    position: footer
+
   posts:
     single:
       meta:
