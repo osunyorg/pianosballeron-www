@@ -1,2 +1,11 @@
 .hero
     padding-bottom: 0
+
+body[class*="__page"]
+    .hero
+        h1
+            @include h2
+
+    @include media-breakpoint-up(desktop)
+        .hero
+            padding-bottom: space(23)

@@ -12,8 +12,18 @@ params:
     head:
       title: site
 
+  posts:
+    single:
+      meta:
+        position: hero
+        options:
+          with_labels: false
+
   projects:
     index:
+      taxonomies:
+        display: true
+        layout: inline
       options:
         summary: false
     single:
