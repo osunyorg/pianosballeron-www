@@ -55,6 +55,12 @@
                     right: 0
                 
         @include media-breakpoint-down(desktop)
+            // specific for footer
+            .call_to_action
+                padding: var(--grid-gutter)
+
+
+        @include media-breakpoint-down(desktop)
             .call_to_action
                 &.call_to_action--with-image
                     figure
