@@ -1,4 +1,14 @@
 footer#document-footer
+    padding-top: space(30)
+    .footer-legals
+        a, p
+            color: var(--color-text-alt)
+
+    @include media-breakpoint-down(desktop)
+        .footer-logo
+            display: flex
+            justify-content: center
+
     @include media-breakpoint-up(desktop)
         padding-top: space(56)
         .container
@@ -16,8 +26,6 @@ footer#document-footer
                 flex-wrap: wrap
                 gap: space(15)
                 justify-content: center
-            a, p
-                color: var(--color-text-alt)
             li + li, 
             p
                 margin-top: 0
