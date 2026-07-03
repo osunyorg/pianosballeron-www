@@ -28,13 +28,14 @@
     .hero
         .hero-text
             h1
+                @include h1
                 span
                     @include h3
                     color: var(--color-text)
                     font-family: $body-font-family
                     font-weight: normal
                     line-height: 100%
-                    margin-top: $spacing-1
+                    margin-top: $spacing-3
 
         .dropdown-share
             display: none

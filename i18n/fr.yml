@@ -1,5 +1,5 @@
 backlinks:
-  projects: Pianos mentionnant {{ . }}
+  projects: Pianos
 
 blocks:
   projects:
