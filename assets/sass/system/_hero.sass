@@ -1,22 +1,41 @@
 .hero
     padding-bottom: 0
+    .single-meta
+        a
+            text-decoration: none
+            &:hover
+                text-decoration: underline
 
-body[class*="__page"]
-    .hero
+    @include media-breakpoint-up(desktop)
+        .single-meta.hero-meta
+            row-gap: $spacing-3
+
+    // smaller title
+    body[class*="__page"] &
         h1
             @include h2
 
-    @include media-breakpoint-up(desktop)
-        .hero
+        @include media-breakpoint-up(desktop)
             padding-bottom: space(23)
             .content
                 align-items: center
 
-body[class*="__section"],
-.page__home
-    .hero
+    .pages__section &,
+    .page__home &
+        padding-bottom: space(20)
+
+    // landscape image
+    body[class*="__section"] &,
+    .page__home &
         .content
             flex-direction: column
             gap: var(--grid-gutter)
         figure
             width: 100%
+            img
+                aspect-ratio: 1560/778
+                object-fit: cover
+
+        @include media-breakpoint-down(desktop)
+            figure
+                margin: 0

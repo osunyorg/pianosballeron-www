@@ -1,6 +1,5 @@
 .page__home
     .hero
-        margin-bottom: space(37)
         h1
             max-width: 12ch
 
@@ -15,13 +14,28 @@
             padding-top: var(--grid-gutter)
 
     @include media-breakpoint-up(desktop)
+        margin-bottom: space(37)
         .blocks
-            .block-chapter:not(.block-chapter--with-image)
-                .text
-                    display: flex
-                    gap: var(--grid-gutter)
-                    width: columns(12)
+            .block-chapter
+                .top
+                    margin-bottom: space(15)
+                .rich-text
+                    width: columns(6)
+                .notes
+                    a:only-child
+                        text-transform: uppercase
+                        text-decoration-color: inherit
+
+                &:not(.block-chapter--with-image)
+                    .text
+                        display: flex
+                        gap: var(--grid-gutter)
+                        width: columns(12)
+                        flex-wrap: wrap
+                        .top
+                            width: columns(5)
+                        .notes
+                            margin-left: offset(5)
+                &.block-chapter--with-image
                     .top
-                        width: columns(5)
-                    .rich-text
-                        flex: 1
+                        padding-right: offset(1)

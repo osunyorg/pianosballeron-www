@@ -6,3 +6,22 @@ ul[class*="-categories"]:not(.taxonomy-categories-list),
             color: var(--color-background) !important
             padding: space() $spacing-1
             text-decoration: none
+
+
+// section
+.section-taxonomies-container
+    .taxonomies-list--inline
+        padding-right: var(--grid-gutter)
+        position: absolute
+        right: 0
+        top: 0
+        transform: translateY(-100%)
+        margin-top: var(--grid-gutter-negative)
+    .taxonomies-list--inline,
+    .taxonomy-categories-list
+        display: flex
+        gap: var(--grid-gutter)
+        a
+            text-decoration: none
+            &:hover
+                text-decoration: underline

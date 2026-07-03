@@ -26,6 +26,10 @@ params:
       backlinks: true
 
   posts:
+    index:
+      taxonomies:
+        display: true
+        layout: inline
     single:
       meta:
         position: hero
