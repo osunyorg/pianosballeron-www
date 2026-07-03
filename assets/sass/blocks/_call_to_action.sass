@@ -1,4 +1,8 @@
 .block-call_to_action
+    .call_to_action
+        .actions
+            a:first-child
+                --btn-min-width: unset
 
     // footer cta (landscape image as bg)
     .footer-contents.contents-full-width &
@@ -12,6 +16,7 @@
             margin-right: 0
             position: relative
         .call_to_action
+
             &.call_to_action--with-image
                 > div
                     position: relative
@@ -28,7 +33,6 @@
                             --btn-color: var(--color-background)
                             --btn-hover-background: var(--color-background)
                             --btn-hover-color: var(--color-text)
-                            --btn-min-width: unset
                             &:hover
                                 --btn-hover-border: 1px solid var(--btn-hover-background)
                 figure
