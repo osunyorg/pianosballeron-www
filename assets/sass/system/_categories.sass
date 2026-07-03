@@ -25,3 +25,9 @@ ul[class*="-categories"]:not(.taxonomy-categories-list),
             text-decoration: none
             &:hover
                 text-decoration: underline
+
+.single-meta.content-meta.with-labels
+    @include in-page-without-sidebar
+        .taxonomies
+            .taxonomy-title
+                margin-bottom: space(4)
