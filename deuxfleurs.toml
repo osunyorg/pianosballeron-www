@@ -14,3 +14,7 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 [headers.values]
 Cache-Control = "max-age=31536000, no-transform, public"
 
+[[redirects]]
+from = "/projets/2025-piano-pleyel/index.html"
+to = "/projets/2025-piano-pleyel-1927/"
+
