@@ -47,10 +47,14 @@ from = "/organisations/categories/marques/index.html"
 to = "/organisations/categories/manufactures/"
 
 [[redirects]]
+from = "/projets/2025-piano-pleyel-1927/index.html"
+to = "/pianos/2025-piano-pleyel-1927/"
+
+[[redirects]]
 from = "/projets/2008-piano-bechstein/index.html"
 to = "/projets/2008-piano-bechstein-1930/"
 
 [[redirects]]
 from = "/projets/2025-piano-pleyel/index.html"
-to = "/projets/2025-piano-pleyel-1927/"
+to = "/pianos/2025-piano-pleyel-1927/"
 
