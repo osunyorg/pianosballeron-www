@@ -1,8 +1,9 @@
 footer#document-footer
     padding-bottom: var(--grid-gutter)
     padding-top: space(30)
-    .footer-legals
-        a, p
+    .footer-legals,
+    .footer-social
+        li, a, p
             color: var(--color-text-alt)
 
     @include media-breakpoint-down(desktop)
@@ -31,8 +32,6 @@ footer#document-footer
                 margin-bottom: $spacing-3
                 li + li
                     margin-top: 0
-                li, a
-                    color: var(--color-text-alt)
 
         .footer-legals
             width: 100%
