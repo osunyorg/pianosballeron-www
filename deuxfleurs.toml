@@ -32,7 +32,7 @@ to = "/projets/2007-piano-bechstein-1910/"
 
 [[redirects]]
 from = "/projets/2025-piano-gaveau/index.html"
-to = "/projets/2025-piano-gaveau-1932/"
+to = "/pianos/2025-piano-gaveau-1932/"
 
 [[redirects]]
 from = "/projets/index.html"
@@ -57,6 +57,10 @@ to = "/pianos/2025-piano-pleyel-1927/"
 [[redirects]]
 from = "/projets/2008-piano-bechstein/index.html"
 to = "/projets/2008-piano-bechstein-1930/"
+
+[[redirects]]
+from = "/projets/2025-piano-gaveau-1932/index.html"
+to = "/pianos/2025-piano-gaveau-1932/"
 
 [[redirects]]
 from = "/projets/2025-piano-pleyel/index.html"
