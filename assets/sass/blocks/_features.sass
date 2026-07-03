@@ -1,9 +1,12 @@
-.block-features 
+.block-features
+    &--list 
+        .features 
+            .feature 
+                figure.media--image 
+                    img
+                        aspect-ratio: unset
+
     .features 
         .feature 
-            figure.media--image 
-                img
-                    aspect-ratio: unset
-
             .name
                 @include h4
