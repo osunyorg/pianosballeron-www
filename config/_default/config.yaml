@@ -21,7 +21,7 @@ params:
         disabled: true
 
   organizations:
-    prefer_image_over_logo: true
+    prefer_image_over_logo: false
     single:
       backlinks: true
 
