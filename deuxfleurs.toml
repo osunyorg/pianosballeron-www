@@ -15,20 +15,36 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
+from = "/projets/2007-piano-czapka-1918/index.html"
+to = "/pianos/2007-piano-czapka-1918/"
+
+[[redirects]]
 from = "/projets/2013-piano-erard-1/index.html"
-to = "/projets/2013-piano-erard-1862/"
+to = "/pianos/2013-piano-erard-1862/"
 
 [[redirects]]
 from = "/projets/2004-piano-erard/index.html"
-to = "/projets/2004-piano-erard-1926/"
+to = "/pianos/2004-piano-erard-1926/"
+
+[[redirects]]
+from = "/projets/restaure/index.html"
+to = "/pianos/restaure/"
 
 [[redirects]]
 from = "/projets/2007-piano-czapka/index.html"
-to = "/projets/2007-piano-czapka-1918/"
+to = "/pianos/2007-piano-czapka-1918/"
 
 [[redirects]]
 from = "/projets/2007-piano-bechstein-1/index.html"
-to = "/projets/2007-piano-bechstein-1910/"
+to = "/pianos/2007-piano-bechstein-1910/"
+
+[[redirects]]
+from = "/projets/a-vendre/index.html"
+to = "/pianos/a-vendre/"
+
+[[redirects]]
+from = "/projets/2009-piano-erard-1918/index.html"
+to = "/pianos/2009-piano-erard-1918/"
 
 [[redirects]]
 from = "/projets/2025-piano-gaveau/index.html"
@@ -39,12 +55,20 @@ from = "/projets/index.html"
 to = "/pianos/"
 
 [[redirects]]
+from = "/projets/2008-piano-bechstein-1930/index.html"
+to = "/pianos/2008-piano-bechstein-1930/"
+
+[[redirects]]
 from = "/actualites/articles/index.html"
 to = "/actualites/article/"
 
 [[redirects]]
 from = "/projets/2009-piano-erard-2/index.html"
-to = "/projets/2009-piano-erard-1918/"
+to = "/pianos/2009-piano-erard-1918/"
+
+[[redirects]]
+from = "/projets/vendu/index.html"
+to = "/pianos/vendu/"
 
 [[redirects]]
 from = "/organisations/categories/marques/index.html"
@@ -56,7 +80,11 @@ to = "/pianos/2025-piano-pleyel-1927/"
 
 [[redirects]]
 from = "/projets/2008-piano-bechstein/index.html"
-to = "/projets/2008-piano-bechstein-1930/"
+to = "/pianos/2008-piano-bechstein-1930/"
+
+[[redirects]]
+from = "/projets/2007-piano-bechstein-1910/index.html"
+to = "/pianos/2007-piano-bechstein-1910/"
 
 [[redirects]]
 from = "/projets/2025-piano-gaveau-1932/index.html"
@@ -65,4 +93,12 @@ to = "/pianos/2025-piano-gaveau-1932/"
 [[redirects]]
 from = "/projets/2025-piano-pleyel/index.html"
 to = "/pianos/2025-piano-pleyel-1927/"
+
+[[redirects]]
+from = "/projets/2004-piano-erard-1926/index.html"
+to = "/pianos/2004-piano-erard-1926/"
+
+[[redirects]]
+from = "/projets/2013-piano-erard-1862/index.html"
+to = "/pianos/2013-piano-erard-1862/"
 
