@@ -12,7 +12,7 @@ items:
   file: content/fr/pages/prestations/_index.html
 - title: Pianos
   slug: pianos
-  target: "/projets/"
+  target: "/pianos/"
   kind: page
   new_tab: false
   children: []
