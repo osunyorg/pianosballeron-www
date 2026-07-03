@@ -1,3 +1,6 @@
+backlinks:
+  projects: Pianos mentionnant {{ . }}
+
 blocks:
   projects:
     title: Pianos

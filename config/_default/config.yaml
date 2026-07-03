@@ -20,6 +20,11 @@ params:
       in_hero:
         disabled: true
 
+  organizations:
+    prefer_image_over_logo: true
+    single:
+      backlinks: true
+
   posts:
     single:
       meta:
