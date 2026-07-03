@@ -39,6 +39,10 @@ from = "/projets/index.html"
 to = "/pianos/"
 
 [[redirects]]
+from = "/actualites/articles/index.html"
+to = "/actualites/article/"
+
+[[redirects]]
 from = "/projets/2009-piano-erard-2/index.html"
 to = "/projets/2009-piano-erard-1918/"
 
