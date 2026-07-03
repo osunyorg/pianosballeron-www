@@ -23,10 +23,6 @@ from = "/projets/2004-piano-erard/index.html"
 to = "/projets/2004-piano-erard-1926/"
 
 [[redirects]]
-from = "/projets/2026-piano-pleyel-1/index.html"
-to = "/projets/2026-piano-pleyel-1905/"
-
-[[redirects]]
 from = "/projets/2007-piano-czapka/index.html"
 to = "/projets/2007-piano-czapka-1918/"
 
@@ -41,6 +37,10 @@ to = "/projets/2025-piano-gaveau-1932/"
 [[redirects]]
 from = "/projets/2009-piano-erard-2/index.html"
 to = "/projets/2009-piano-erard-1918/"
+
+[[redirects]]
+from = "/organisations/categories/marques/index.html"
+to = "/organisations/categories/manufactures/"
 
 [[redirects]]
 from = "/projets/2008-piano-bechstein/index.html"
