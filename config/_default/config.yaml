@@ -15,6 +15,11 @@ params:
   breadcrumb:
     position: footer
 
+  components:
+    lightbox:
+      in_hero:
+        disabled: true
+
   posts:
     single:
       meta:
@@ -35,3 +40,15 @@ params:
         options:
           year: false
           with_labels: false
+
+  image_sizes:
+    sections:
+      home:
+        hero:
+          desktop:  1880
+      projects:
+        hero:
+          desktop:  1880
+      pages:
+        hero:
+          desktop:  1880
