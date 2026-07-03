@@ -1,4 +1,5 @@
 footer#document-footer
+    padding-bottom: var(--grid-gutter)
     padding-top: space(30)
     .footer-legals
         a, p
@@ -18,6 +19,20 @@ footer#document-footer
                 padding-bottom: 0
             + .container
                 padding-top: space(51)
+
+        .footer-social
+            order: -1
+            width: 100%
+            .site-links
+                display: flex
+                gap: var(--grid-gutter)
+                flex-wrap: wrap
+                justify-content: center
+                margin-bottom: $spacing-3
+                li + li
+                    margin-top: 0
+                li, a
+                    color: var(--color-text-alt)
 
         .footer-legals
             width: 100%
