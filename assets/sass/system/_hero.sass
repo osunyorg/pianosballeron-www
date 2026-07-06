@@ -1,5 +1,5 @@
 .hero
-    padding-bottom: 0
+    padding-bottom: space(20)
 
     @include media-breakpoint-up(desktop)
         .single-meta.hero-meta
@@ -16,10 +16,8 @@
                 align-items: center
 
     // landscape image
-    body[class*="__section"]:not(.projects__section) &,
-    body[class*="__term"] &,
+    body[class*="__section"] &,
     .page__home &
-        padding-bottom: space(20)
         .content
             flex-direction: column
             gap: var(--grid-gutter)
