@@ -1,10 +1,5 @@
 .hero
     padding-bottom: 0
-    .single-meta
-        a
-            text-decoration: none
-            &:hover
-                text-decoration: underline
 
     @include media-breakpoint-up(desktop)
         .single-meta.hero-meta
@@ -20,14 +15,10 @@
             .content
                 align-items: center
 
-    .pages__section &,
-    .page__home &,
-    .posts__section &
-        padding-bottom: space(20)
-
     // landscape image
-    body[class*="__section"] &,
+    body[class*="__section"]:not(.projects__section) &,
     .page__home &
+        padding-bottom: space(20)
         .content
             flex-direction: column
             gap: var(--grid-gutter)

@@ -6,7 +6,10 @@ ul[class*="-categories"]:not(.taxonomy-categories-list),
             color: var(--color-background) !important
             padding: space() $spacing-1
             text-decoration: none
-
+            border: 1px solid var(--color-text)
+            &:hover
+                color: var(--color-text) !important
+                background: var(--color-background)
 
 // section
 .section-taxonomies-container
@@ -21,10 +24,6 @@ ul[class*="-categories"]:not(.taxonomy-categories-list),
     .taxonomy-categories-list
         display: flex
         gap: var(--grid-gutter)
-        a
-            text-decoration: none
-            &:hover
-                text-decoration: underline
 
 .single-meta.content-meta.with-labels
     @include in-page-without-sidebar
