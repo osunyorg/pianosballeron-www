@@ -91,6 +91,10 @@ from = "/projets/2025-piano-gaveau-1932/index.html"
 to = "/pianos/2025-piano-gaveau-1932/"
 
 [[redirects]]
+from = "/actualites/2025-01-01-sylvie-fouanon-restauratrice-de-pianos-anciens-a-paris/index.html"
+to = "/actualites/2025-06-01-sylvie-fouanon-restauratrice-de-pianos-anciens-a-paris/"
+
+[[redirects]]
 from = "/projets/2025-piano-pleyel/index.html"
 to = "/pianos/2025-piano-pleyel-1927/"
 
