@@ -27,6 +27,10 @@ from = "/projets/2004-piano-erard/index.html"
 to = "/pianos/2004-piano-erard-1926/"
 
 [[redirects]]
+from = "/attrapes/index.html"
+to = "/lexique-sur-le-piano/attrapes/"
+
+[[redirects]]
 from = "/projets/restaure/index.html"
 to = "/pianos/restaure/"
 
