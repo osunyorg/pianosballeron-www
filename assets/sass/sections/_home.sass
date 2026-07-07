@@ -7,23 +7,26 @@
         .block:not(.block-posts)
             .block-title
                 @include h1
-
+        
+        .block-chapter
+            .notes
+                a:only-child
+                    text-transform: uppercase
+                    text-decoration-color: inherit
 
         .block-posts
             border-top: 1px solid var(--color-text)
             padding-top: var(--grid-gutter)
 
     @include media-breakpoint-up(desktop)
+        .hero
+            padding-bottom: space(30)
         .blocks
             .block-chapter
                 .top
                     margin-bottom: space(15)
                 .rich-text
                     width: columns(6)
-                .notes
-                    a:only-child
-                        text-transform: uppercase
-                        text-decoration-color: inherit
 
                 &:not(.block-chapter--with-image)
                     .text

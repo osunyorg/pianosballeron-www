@@ -25,15 +25,20 @@ header#document-header
                 padding-left: 0
 
     @include media-breakpoint-down(desktop)
-        .nav-search
-            border-bottom: var(--border-width) solid var(--color-border)
+
+        .menu
+            order: 2
+            margin-top: 0
+            li:last-child
+                border-bottom: 0
 
         .left-menu
             display: none
+            margin-top: $spacing-3
             width: 100%
             html.has-menu-opened &
                 display: block
-            li:not(:last-child)
+            li
                 border-bottom: var(--border-width) solid var(--color-border)
             a
                 display: block
