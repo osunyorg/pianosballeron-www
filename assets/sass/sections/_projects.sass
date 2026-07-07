@@ -10,6 +10,12 @@
                     aspect-ratio: 1
                     object-fit: cover
 
+        @include media-breakpoint-down(desktop)
+            .project
+                .media
+                    margin-left: 0
+                    margin-right: 0
+
     .project
         .project-subtitle
             @include body-text
