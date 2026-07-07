@@ -1,0 +1,46 @@
+{{/*  TODO: Create a generic previous / next section for single section  */}}
+{{ $previous_label := .previous_label | default (i18n "posts.previous") }}
+{{ $next_label := .next_label | default (i18n "posts.next") }}
+{{ $reversed := .reversed | default false }}
+
+{{ with .context }}
+
+  {{ $previous_content := .PrevInSection }}
+  {{ $next_content := .NextInSection }}
+
+  {{/*  Change previous next object for project in a category which has a bodyclass "scoped-siblings-navigation"  */}}
+  {{ $project_categories := .GetTerms "projects_categories" }}
+  {{ $to_sell_category := where $project_categories "Params.bodyclass" "in" "page-scoped-siblings-navigation" }}
+
+  {{ if $to_sell_category }}
+    {{ $projects_to_sell := (index $to_sell_category 0).Pages }}
+    {{ $previous_content = $projects_to_sell.Prev . }}
+    {{ $next_content = $projects_to_sell.Next . }}
+  {{ else }}
+    {{ if $reversed }}
+      {{ $previous_content = .NextInSection }}
+      {{ $next_content = .PrevInSection }}
+    {{ end }}
+  {{ end }}
+
+  {{ if or $previous_content $next_content }}
+    <div class="block block-siblings-navigation">
+      <div class="container">
+        <div class="block-content">
+          <nav class="siblings-navigation" aria-label="{{ i18n "commons.pagination.between.posts" }}">
+            <ul>
+              {{ partial "commons/single/siblings-navigation/previous.html" (dict
+                "label" $previous_label
+                "page" $previous_content
+              ) }}
+              {{ partial "commons/single/siblings-navigation/next.html" (dict
+                "label" $next_label
+                "page" $next_content
+              ) }}
+            </ul>
+          </nav>
+        </div>
+      </div>
+    </div>
+  {{ end }}
+{{ end }}
