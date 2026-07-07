@@ -15,3 +15,6 @@ projects:
   see_all: Voir tous les pianos
   see_all_in_category: Voir tous les pianos “{{ .Title }}”
   title: Pianos
+  to_sell:
+    next: Piano à vendre suivant
+    prev: Piano à vendre précédent

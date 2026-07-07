@@ -16,6 +16,8 @@
     {{ $projects_to_sell := (index $to_sell_category 0).Pages }}
     {{ $previous_content = $projects_to_sell.Prev . }}
     {{ $next_content = $projects_to_sell.Next . }}
+    {{ $previous_label =  i18n "projects.to_sell.prev" }}
+    {{ $next_label = i18n "projects.to_sell.next" }}
   {{ else }}
     {{ if $reversed }}
       {{ $previous_content = .NextInSection }}
