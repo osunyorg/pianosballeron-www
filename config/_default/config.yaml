@@ -34,6 +34,7 @@ params:
       meta:
         position: hero
         options:
+          authors: false
           reading_time: false
           updated_at: false
           with_labels: false
