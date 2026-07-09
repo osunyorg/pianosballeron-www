@@ -16,7 +16,10 @@
             margin-right: 0
             position: relative
         .call_to_action
-
+            .actions
+                a
+                    @include meta
+                    text-transform: uppercase
             &.call_to_action--with-image
                 > div
                     position: relative
