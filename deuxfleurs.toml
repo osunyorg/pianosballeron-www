@@ -31,10 +31,6 @@ from = "/attrapes/index.html"
 to = "/lexique-sur-le-piano/attrapes/"
 
 [[redirects]]
-from = "/projets/restaure/index.html"
-to = "/pianos/restaure/"
-
-[[redirects]]
 from = "/projets/2007-piano-czapka/index.html"
 to = "/pianos/2007-piano-czapka-1918/"
 
