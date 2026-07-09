@@ -1,14 +1,19 @@
 .projects
     &--grid
-        @include in-page-without-sidebar
-            @include grid(3)
-            row-gap: $spacing-5
-
         .project
             .media
                 img
                     aspect-ratio: 1
                     object-fit: cover
+
+        @include in-page-without-sidebar
+            @include grid(3)
+            row-gap: $spacing-5
+
+        @include media-breakpoint-up(desktop)
+            .project
+                .media
+                    margin-bottom: $spacing-1
 
         @include media-breakpoint-down(desktop)
             .project
@@ -24,7 +29,6 @@
         @include media-breakpoint-up(desktop)
             .project-categories
                 margin-top: $spacing-3
-
 
 // section
 .projects__section
