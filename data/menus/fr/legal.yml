@@ -10,8 +10,8 @@ items:
   descendants_targets: []
   path: "/pages/mentions-legales"
   file: content/fr/pages/mentions-legales/_index.html
-- title: Questions fréquentes
-  slug: questions-frequentes
+- title: FAQ
+  slug: faq
   target: "/questions-frequentes/"
   kind: page
   new_tab: false
@@ -19,8 +19,8 @@ items:
   descendants_targets: []
   path: "/pages/questions-frequentes"
   file: content/fr/pages/questions-frequentes/_index.html
-- title: Les livres sur le piano
-  slug: les-livres-sur-le-piano
+- title: Livres
+  slug: livres
   target: "/les-livres-sur-le-piano/"
   kind: page
   new_tab: false
