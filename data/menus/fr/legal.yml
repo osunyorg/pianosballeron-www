@@ -1,15 +1,6 @@
 ---
 title: Menu du pied de page
 items:
-- title: Univers du piano
-  slug: univers-du-piano
-  target: "/univers-du-piano/"
-  kind: page
-  new_tab: false
-  children: []
-  descendants_targets: []
-  path: "/pages/univers-du-piano"
-  file: content/fr/pages/univers-du-piano/_index.html
 - title: Partenaires
   slug: partenaires
   target: "/partenaires/"
