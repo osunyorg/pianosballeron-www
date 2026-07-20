@@ -32,7 +32,7 @@ to = "/univers-du-piano/questions-frequentes/"
 
 [[redirects]]
 from = "/attrapes/index.html"
-to = "/lexique-sur-le-piano/attrapes/"
+to = "/univers-du-piano/lexique-sur-le-piano/attrapes/"
 
 [[redirects]]
 from = "/projets/2007-piano-czapka/index.html"
@@ -41,6 +41,10 @@ to = "/pianos/2007-piano-czapka-1918/"
 [[redirects]]
 from = "/projets/2007-piano-bechstein-1/index.html"
 to = "/pianos/2007-piano-bechstein-1910/"
+
+[[redirects]]
+from = "/lexique-sur-le-piano/agrafe-des-cordes-de-piano/index.html"
+to = "/univers-du-piano/lexique-sur-le-piano/agrafe-des-cordes-de-piano/"
 
 [[redirects]]
 from = "/projets/a-vendre/index.html"
@@ -71,6 +75,10 @@ from = "/projets/2009-piano-erard-2/index.html"
 to = "/pianos/2009-piano-erard-1918/"
 
 [[redirects]]
+from = "/lexique-sur-le-piano/barre-de-repos-des-marteaux/index.html"
+to = "/univers-du-piano/lexique-sur-le-piano/barre-de-repos-des-marteaux/"
+
+[[redirects]]
 from = "/projets/vendu/index.html"
 to = "/pianos/vendu/"
 
@@ -89,6 +97,10 @@ to = "/univers-du-piano/les-livres-sur-le-piano/"
 [[redirects]]
 from = "/projets/2008-piano-bechstein/index.html"
 to = "/pianos/2008-piano-bechstein-1930/"
+
+[[redirects]]
+from = "/questions-frequentes/quest-que-laccord-dun-piano/index.html"
+to = "/univers-du-piano/questions-frequentes/quest-que-laccord-dun-piano/"
 
 [[redirects]]
 from = "/projets/2007-piano-bechstein-1910/index.html"
@@ -117,4 +129,8 @@ to = "/pianos/2013-piano-erard-1862/"
 [[redirects]]
 from = "/lexique-sur-le-piano/index.html"
 to = "/univers-du-piano/lexique-sur-le-piano/"
+
+[[redirects]]
+from = "/lexique-sur-le-piano/attrapes/index.html"
+to = "/univers-du-piano/lexique-sur-le-piano/attrapes/"
 
