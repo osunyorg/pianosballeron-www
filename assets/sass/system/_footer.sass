@@ -52,3 +52,18 @@ footer#document-footer
         .footer-legals
             &, ul
                 gap: space(15)
+
+// footer's blocks
+.footer-contents
+    .block-links.block--option-icons-true
+        @include media-breakpoint-up(desktop)
+            .links
+                > li
+                    align-items: center
+                    flex-direction: row
+                    a
+                        @include meta
+                        color: var(--color-text-alt)
+                        text-transform: uppercase
+                        &::after
+                            content: none
