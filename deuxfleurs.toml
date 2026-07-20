@@ -75,6 +75,10 @@ from = "/projets/2009-piano-erard-2/index.html"
 to = "/pianos/2009-piano-erard-1918/"
 
 [[redirects]]
+from = "/les-grandes-marques-de-pianos-marques-et-manufactures-de-pianos/index.html"
+to = "/univers-du-piano/les-grandes-marques-de-pianos-marques-et-manufactures-de-pianos/"
+
+[[redirects]]
 from = "/lexique-sur-le-piano/barre-de-repos-des-marteaux/index.html"
 to = "/univers-du-piano/lexique-sur-le-piano/barre-de-repos-des-marteaux/"
 
