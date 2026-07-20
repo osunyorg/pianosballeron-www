@@ -1,9 +1,45 @@
 default:
 contents_reading_time:
-  seconds: 9
+  seconds: 12
   text: >-
     moins d'une minute
 contents:
+  - kind: block
+    template: links
+
+
+    ranks:
+      base: 2
+    top:
+      active: false
+
+    data:
+
+      layout: grid
+      options:
+        icons: true
+
+      links:
+        - 
+          title: >-
+            Instagram
+
+          url: >-
+            https://instagram.com/atelier_pianos_balleron
+          external: true
+          image:
+            id: "8dd539d4-3ec1-403a-a5f3-3d655565d47a"
+        - 
+          title: >-
+            LinkedIn
+
+          url: >-
+            https://www.linkedin.com/company/pianos-balleron/
+          external: true
+          image:
+            id: "0e94a8d4-c31f-4b60-b898-7a00fe50b4f3"
+
+
   - kind: block
     template: call_to_action
     title: >-
@@ -36,24 +72,6 @@ contents:
           url: >-
             https://www.collectionballeron.fr/
           target_blank: true
-
-
-  - kind: block
-    template: links
-
-
-    ranks:
-      base: 2
-    top:
-      active: false
-
-    data:
-
-      layout: cards
-      options:
-        icons: false
-
-      links:
 
 
 
