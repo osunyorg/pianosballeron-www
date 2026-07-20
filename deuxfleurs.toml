@@ -27,6 +27,10 @@ from = "/projets/2004-piano-erard/index.html"
 to = "/pianos/2004-piano-erard-1926/"
 
 [[redirects]]
+from = "/questions-frequentes/index.html"
+to = "/univers-du-piano/questions-frequentes/"
+
+[[redirects]]
 from = "/attrapes/index.html"
 to = "/lexique-sur-le-piano/attrapes/"
 
@@ -79,6 +83,10 @@ from = "/projets/2025-piano-pleyel-1927/index.html"
 to = "/pianos/2025-piano-pleyel-1927/"
 
 [[redirects]]
+from = "/les-livres-sur-le-piano/index.html"
+to = "/univers-du-piano/les-livres-sur-le-piano/"
+
+[[redirects]]
 from = "/projets/2008-piano-bechstein/index.html"
 to = "/pianos/2008-piano-bechstein-1930/"
 
@@ -105,4 +113,8 @@ to = "/pianos/2004-piano-erard-1926/"
 [[redirects]]
 from = "/projets/2013-piano-erard-1862/index.html"
 to = "/pianos/2013-piano-erard-1862/"
+
+[[redirects]]
+from = "/lexique-sur-le-piano/index.html"
+to = "/univers-du-piano/lexique-sur-le-piano/"
 

@@ -10,24 +10,6 @@ items:
   descendants_targets: []
   path: "/pages/mentions-legales"
   file: content/fr/pages/mentions-legales/_index.html
-- title: FAQ
-  slug: faq
-  target: "/questions-frequentes/"
-  kind: page
-  new_tab: false
-  children: []
-  descendants_targets: []
-  path: "/pages/questions-frequentes"
-  file: content/fr/pages/questions-frequentes/_index.html
-- title: Livres
-  slug: livres
-  target: "/les-livres-sur-le-piano/"
-  kind: page
-  new_tab: false
-  children: []
-  descendants_targets: []
-  path: "/pages/les-livres-sur-le-piano"
-  file: content/fr/pages/les-livres-sur-le-piano/_index.html
 - title: Partenaires
   slug: partenaires
   target: "/partenaires/"
