@@ -38,4 +38,22 @@ contents:
           target_blank: true
 
 
+  - kind: block
+    template: links
+
+
+    ranks:
+      base: 2
+    top:
+      active: false
+
+    data:
+
+      layout: cards
+      options:
+        icons: false
+
+      links:
+
+
 
