@@ -67,6 +67,10 @@ from = "/projets/2008-piano-bechstein-1930/index.html"
 to = "/pianos/2008-piano-bechstein-1930/"
 
 [[redirects]]
+from = "/le-piano-numerique-peut-il-remplacer-le-piano-classique/index.html"
+to = "/univers-du-piano/questions-frequentes/le-piano-numerique-peut-il-remplacer-le-piano-classique/"
+
+[[redirects]]
 from = "/actualites/articles/index.html"
 to = "/actualites/article/"
 
