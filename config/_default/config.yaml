@@ -65,3 +65,6 @@ params:
       pages:
         hero:
           desktop:  1880
+        layouts:
+          grid:
+            desktop:  930
