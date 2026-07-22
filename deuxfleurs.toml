@@ -55,6 +55,10 @@ from = "/projets/2009-piano-erard-1918/index.html"
 to = "/pianos/2009-piano-erard-1918/"
 
 [[redirects]]
+from = "/pianos/vendu/index.html"
+to = "/pianos/vendus/"
+
+[[redirects]]
 from = "/projets/2025-piano-gaveau/index.html"
 to = "/pianos/2025-piano-gaveau-1932/"
 
@@ -88,7 +92,7 @@ to = "/univers-du-piano/lexique-sur-le-piano/barre-de-repos-des-marteaux/"
 
 [[redirects]]
 from = "/projets/vendu/index.html"
-to = "/pianos/vendu/"
+to = "/pianos/vendus/"
 
 [[redirects]]
 from = "/organisations/categories/marques/index.html"
