@@ -251,6 +251,10 @@ from = "/univers-du-piano/lexique-sur-le-piano/index.html"
 to = "/fr/univers-du-piano/lexique-sur-le-piano/"
 
 [[redirects]]
+from = "/ja/projets/a-vendre/index.html"
+to = "/ja/projets/for-sale/"
+
+[[redirects]]
 from = "/pianos/2025-piano-gaveau-1932/index.html"
 to = "/fr/pianos/2025-piano-gaveau-1932/"
 
@@ -357,6 +361,10 @@ to = "/fr/pianos/2004-piano-erard-1926/"
 [[redirects]]
 from = "/projets/2025-piano-gaveau-1932/index.html"
 to = "/fr/pianos/2025-piano-gaveau-1932/"
+
+[[redirects]]
+from = "/ja/projets/vendus/index.html"
+to = "/ja/projets/sold/"
 
 [[redirects]]
 from = "/actualites/2025-01-01-sylvie-fouanon-restauratrice-de-pianos-anciens-a-paris/index.html"
