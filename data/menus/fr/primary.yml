@@ -3,7 +3,7 @@ title: Menu de droite
 items:
 - title: À propos
   slug: a-propos
-  target: "/a-propos/"
+  target: "/fr/a-propos/"
   kind: page
   new_tab: false
   children: []
@@ -12,7 +12,7 @@ items:
   file: content/fr/pages/a-propos/_index.html
 - title: Actualités
   slug: actualites
-  target: "/actualites/"
+  target: "/fr/actualites/"
   kind: page
   new_tab: false
   children: []

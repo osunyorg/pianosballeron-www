@@ -3,7 +3,7 @@ title: Menu du pied de page
 items:
 - title: Partenaires
   slug: partenaires
-  target: "/partenaires/"
+  target: "/fr/partenaires/"
   kind: page
   new_tab: false
   children: []
@@ -12,7 +12,7 @@ items:
   file: content/fr/pages/partenaires/_index.html
 - title: Mentions légales
   slug: mentions-legales
-  target: "/mentions-legales/"
+  target: "/fr/mentions-legales/"
   kind: page
   new_tab: false
   children: []
@@ -21,7 +21,7 @@ items:
   file: content/fr/pages/mentions-legales/_index.html
 - title: Plan du site
   slug: plan-du-site
-  target: "/plan-du-site/"
+  target: "/fr/plan-du-site/"
   kind: page
   new_tab: false
   children: []
