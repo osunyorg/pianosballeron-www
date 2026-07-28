@@ -1,0 +1,41 @@
+default:
+contents_reading_time:
+  seconds: 9
+  text: >-
+    less than a minute
+contents:
+  - kind: block
+    template: call_to_action
+    title: >-
+      Découvrez la collection balleron
+    slug: >-
+      decouvrez-la-collection-balleron
+    ranks:
+      base: 2
+      self: 2
+    top:
+      active: true
+      title: 
+        value: >-
+          Découvrez la collection balleron
+        heading: 2
+      description: >-
+        <p>La Collection Balleron est une initiative de Sylvie Fouanon, Maître  d'Art, entourée d'une équipe de professionnels au service de la musique.</p>
+    data:
+      layout: accent_background
+      text: >-
+        <p>La Collection Balleron est une initiative de Sylvie Fouanon, Maître  d'Art, entourée d'une équipe de professionnels au service de la musique.</p>
+      image:
+        id: "03e02c19-6807-44e5-9673-e76e3612d779"
+
+
+      buttons:
+        - 
+          title: >-
+            Voir le site
+          url: >-
+            https://www.collectionballeron.fr/
+          target_blank: true
+
+
+
