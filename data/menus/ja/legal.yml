@@ -1,0 +1,40 @@
+---
+title: Menu du pied de page
+items:
+- title: パートナー
+  slug: ''
+  target: "/ja/partners/"
+  kind: page
+  new_tab: false
+  children: []
+  descendants_targets: []
+  path: "/pages/partners"
+  file: content/ja/pages/partners/_index.html
+- title: コンタクト
+  slug: ''
+  target: "/ja/contact/"
+  kind: page
+  new_tab: false
+  children: []
+  descendants_targets: []
+  path: "/pages/contact"
+  file: content/ja/pages/contact/_index.html
+- title: 運営者情報
+  slug: ''
+  target: "/ja/legal-notice/"
+  kind: page
+  new_tab: false
+  children: []
+  descendants_targets: []
+  path: "/pages/legal-notice"
+  file: content/ja/pages/legal-notice/_index.html
+- title: サイトマップ
+  slug: ''
+  target: "/ja/sitemap/"
+  kind: page
+  new_tab: false
+  children: []
+  descendants_targets: []
+  path: "/pages/sitemap"
+  file: content/ja/pages/sitemap/_index.html
+
