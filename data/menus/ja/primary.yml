@@ -3,13 +3,13 @@ title: Menu de droite
 items:
 - title: 紹介
   slug: ''
-  target: "/ja/a-propos/"
+  target: "/ja/about/"
   kind: page
   new_tab: false
   children: []
   descendants_targets: []
-  path: "/pages/a-propos"
-  file: content/ja/pages/a-propos/_index.html
+  path: "/pages/about"
+  file: content/ja/pages/about/_index.html
 - title: ニュース
   slug: ''
   target: "/ja/actualites/"

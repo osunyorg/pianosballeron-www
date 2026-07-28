@@ -283,6 +283,10 @@ from = "/univers-du-piano/questions-frequentes/pourquoi-accorder-le-piano/index.
 to = "/fr/univers-du-piano/questions-frequentes/pourquoi-accorder-le-piano/"
 
 [[redirects]]
+from = "/ja/a-propos/index.html"
+to = "/ja/about/"
+
+[[redirects]]
 from = "/projets/2009-piano-erard-2/index.html"
 to = "/fr/pianos/2009-piano-erard-1918/"
 
