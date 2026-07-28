@@ -1,0 +1,77 @@
+default:
+contents_reading_time:
+  seconds: 12
+  text: >-
+    moins d'une minute
+contents:
+  - kind: block
+    template: links
+
+
+    ranks:
+      base: 2
+    top:
+      active: false
+
+    data:
+
+      layout: grid
+      options:
+        icons: true
+
+      links:
+        - 
+          title: >-
+            Instagram
+
+          url: >-
+            https://instagram.com/atelier_pianos_balleron
+          external: true
+          image:
+            id: "8dd539d4-3ec1-403a-a5f3-3d655565d47a"
+        - 
+          title: >-
+            LinkedIn
+
+          url: >-
+            https://www.linkedin.com/company/pianos-balleron/
+          external: true
+          image:
+            id: "0e94a8d4-c31f-4b60-b898-7a00fe50b4f3"
+
+
+  - kind: block
+    template: call_to_action
+    title: >-
+      Découvrez la collection balleron
+    slug: >-
+      decouvrez-la-collection-balleron
+    ranks:
+      base: 2
+      self: 2
+    top:
+      active: true
+      title: 
+        value: >-
+          Découvrez la collection balleron
+        heading: 2
+      description: >-
+        <p>La Collection Balleron est une initiative de Sylvie Fouanon, Maître  d'Art, entourée d'une équipe de professionnels au service de la musique.</p>
+    data:
+      layout: accent_background
+      text: >-
+        <p>La Collection Balleron est une initiative de Sylvie Fouanon, Maître  d'Art, entourée d'une équipe de professionnels au service de la musique.</p>
+      image:
+        id: "03e02c19-6807-44e5-9673-e76e3612d779"
+
+
+      buttons:
+        - 
+          title: >-
+            Voir le site
+          url: >-
+            https://www.collectionballeron.fr/
+          target_blank: true
+
+
+
