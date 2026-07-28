@@ -319,6 +319,10 @@ from = "/organisations/erard/index.html"
 to = "/fr/organisations/erard/"
 
 [[redirects]]
+from = "/en/organizations/categories/partenaires/index.html"
+to = "/en/organizations/categories/partners/"
+
+[[redirects]]
 from = "/plan-du-site/index.html"
 to = "/fr/plan-du-site/"
 
