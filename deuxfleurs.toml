@@ -207,6 +207,10 @@ from = "/organisations/jczapka/index.html"
 to = "/fr/organisations/jczapka/"
 
 [[redirects]]
+from = "/ja/plan-du-site/index.html"
+to = "/ja/sitemap/"
+
+[[redirects]]
 from = "/organisations/bluthner/index.html"
 to = "/fr/organisations/bluthner/"
 
