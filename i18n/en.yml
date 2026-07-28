@@ -1,0 +1,20 @@
+backlinks:
+  projects: Pianos
+
+blocks:
+  projects:
+    title: Pianos
+    
+projects:
+  count:
+    one: "1 piano"
+    other: "{{ .Count }} pianos"
+  next: Next piano
+  none: Aucun piano
+  previous: Previous piano
+  see_all: See all pianos
+  see_all_in_category: See all pianos “{{ .Title }}”
+  title: Pianos
+  to_sell:
+    next: Next piano for sell
+    prev: Previous piano for sell

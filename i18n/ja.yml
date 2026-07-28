@@ -1,0 +1,20 @@
+backlinks:
+  projects: ピアノ
+
+blocks:
+  projects:
+    title: ピアノ
+
+projects:
+  count:
+    one: "1台のピアノ"
+    other: "{{ .Count }}台のピアノ"
+  next: 次のピアノ
+  none: ピアノはありません
+  previous: 前のピアノ
+  see_all: 全てのピアノを見る
+  see_all_in_category: "「{{ .Title }}」の全ピアノを見る"
+  title: ピアノ
+  to_sell:
+    next: 次の販売中のピアノ
+    prev: 前の販売中のピアノ
