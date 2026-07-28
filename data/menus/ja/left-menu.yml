@@ -1,0 +1,22 @@
+---
+title: Menu de gauche
+items:
+- title: サービス
+  slug: ''
+  target: "/ja/prestations/"
+  kind: page
+  new_tab: false
+  children: []
+  descendants_targets: []
+  path: "/pages/prestations"
+  file: content/ja/pages/prestations/_index.html
+- title: ピアノ
+  slug: ''
+  target: "/ja/projets/"
+  kind: page
+  new_tab: false
+  children: []
+  descendants_targets: []
+  path: "/projects"
+  file: content/ja/projects/_index.html
+
