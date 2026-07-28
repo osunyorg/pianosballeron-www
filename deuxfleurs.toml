@@ -1,0 +1,460 @@
+[[cors]]
+allowed_origins = "*"
+allowed_methods = ["GET", "POST"]
+allowed_headers = "*"
+
+[[headers]]
+for = ["**/*.woff2", "**/*.woff", "**/*.svg", "**/*.ttf", "**/*.otf", "**/*.eot", "**/*.js", "**/*.css"]
+compress = "gzip"
+[headers.values]
+Cache-Control = "max-age=31536000, no-transform, public"
+
+[[headers]]
+for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
+[headers.values]
+Cache-Control = "max-age=31536000, no-transform, public"
+
+[[redirects]]
+from = "/organisations/schiedmayer/index.html"
+to = "/fr/organisations/schiedmayer/"
+
+[[redirects]]
+from = "/prestations/index.html"
+to = "/fr/prestations/"
+
+[[redirects]]
+from = "/projets/2007-piano-czapka-1918/index.html"
+to = "/fr/pianos/2007-piano-czapka-1918/"
+
+[[redirects]]
+from = "/projets/2013-piano-erard-1/index.html"
+to = "/fr/pianos/2013-piano-erard-1862/"
+
+[[redirects]]
+from = "/projets/2004-piano-erard/index.html"
+to = "/fr/pianos/2004-piano-erard-1926/"
+
+[[redirects]]
+from = "/organisations/etsey/index.html"
+to = "/fr/organisations/etsey/"
+
+[[redirects]]
+from = "/pianos/2025-piano-pleyel-1927/index.html"
+to = "/fr/pianos/2025-piano-pleyel-1927/"
+
+[[redirects]]
+from = "/organisations/steinway/index.html"
+to = "/fr/organisations/steinway/"
+
+[[redirects]]
+from = "/personnes/sylvie-fouanon/index.html"
+to = "/fr/personnes/sylvie-fouanon/"
+
+[[redirects]]
+from = "/questions-frequentes/index.html"
+to = "/fr/univers-du-piano/questions-frequentes/"
+
+[[redirects]]
+from = "/univers-du-piano/questions-frequentes/le-piano-numerique-peut-il-remplacer-le-piano-classique/index.html"
+to = "/fr/univers-du-piano/questions-frequentes/le-piano-numerique-peut-il-remplacer-le-piano-classique/"
+
+[[redirects]]
+from = "/pianos/index.html"
+to = "/fr/pianos/"
+
+[[redirects]]
+from = "/attrapes/index.html"
+to = "/fr/univers-du-piano/lexique-sur-le-piano/attrapes/"
+
+[[redirects]]
+from = "/organisations/cyrille-jourdain/index.html"
+to = "/fr/organisations/cyrille-jourdain/"
+
+[[redirects]]
+from = "/pianos/2007-piano-czapka-1918/index.html"
+to = "/fr/pianos/2007-piano-czapka-1918/"
+
+[[redirects]]
+from = "/univers-du-piano/questions-frequentes/index.html"
+to = "/fr/univers-du-piano/questions-frequentes/"
+
+[[redirects]]
+from = "/projets/2007-piano-czapka/index.html"
+to = "/fr/pianos/2007-piano-czapka-1918/"
+
+[[redirects]]
+from = "/projets/2007-piano-bechstein-1/index.html"
+to = "/fr/pianos/2007-piano-bechstein-1910/"
+
+[[redirects]]
+from = "/lexique-sur-le-piano/agrafe-des-cordes-de-piano/index.html"
+to = "/fr/univers-du-piano/lexique-sur-le-piano/agrafe-des-cordes-de-piano/"
+
+[[redirects]]
+from = "/univers-du-piano/questions-frequentes/quest-que-laccord-dun-piano/index.html"
+to = "/fr/univers-du-piano/questions-frequentes/quest-que-laccord-dun-piano/"
+
+[[redirects]]
+from = "/univers-du-piano/les-grandes-marques-de-pianos-marques-et-manufactures-de-pianos/index.html"
+to = "/fr/univers-du-piano/les-grandes-marques-de-pianos-marques-et-manufactures-de-pianos/"
+
+[[redirects]]
+from = "/en/restored-pianos/a-vendre/index.html"
+to = "/en/restored-pianos/for-sale/"
+
+[[redirects]]
+from = "/organisations/kriegelstein/index.html"
+to = "/fr/organisations/kriegelstein/"
+
+[[redirects]]
+from = "/organisations/les-grands-ateliers-de-france/index.html"
+to = "/fr/organisations/les-grands-ateliers-de-france/"
+
+[[redirects]]
+from = "/univers-du-piano/questions-frequentes/les-risques-de-lachat-dun-piano-par-petites-annonces/index.html"
+to = "/fr/univers-du-piano/questions-frequentes/les-risques-de-lachat-dun-piano-par-petites-annonces/"
+
+[[redirects]]
+from = "/actualites/2025-06-01-sylvie-fouanon-restauratrice-de-pianos-anciens-a-paris/index.html"
+to = "/fr/actualites/2025-06-01-sylvie-fouanon-restauratrice-de-pianos-anciens-a-paris/"
+
+[[redirects]]
+from = "/projets/a-vendre/index.html"
+to = "/fr/pianos/a-vendre/"
+
+[[redirects]]
+from = "/pianos/2013-piano-erard-1862/index.html"
+to = "/fr/pianos/2013-piano-erard-1862/"
+
+[[redirects]]
+from = "/actualites/article/index.html"
+to = "/fr/actualites/article/"
+
+[[redirects]]
+from = "/personnes/akiko-wada/index.html"
+to = "/fr/personnes/akiko-wada/"
+
+[[redirects]]
+from = "/personnes/categories/eleves/index.html"
+to = "/fr/personnes/categories/eleves/"
+
+[[redirects]]
+from = "/organisations/categories/manufactures/index.html"
+to = "/fr/organisations/categories/manufactures/"
+
+[[redirects]]
+from = "/offres/index.html"
+to = "/fr/offres/"
+
+[[redirects]]
+from = "/projets/2009-piano-erard-1918/index.html"
+to = "/fr/pianos/2009-piano-erard-1918/"
+
+[[redirects]]
+from = "/pianos/vendu/index.html"
+to = "/fr/pianos/vendus/"
+
+[[redirects]]
+from = "/projets/2025-piano-gaveau/index.html"
+to = "/fr/pianos/2025-piano-gaveau-1932/"
+
+[[redirects]]
+from = "/projets/index.html"
+to = "/fr/pianos/"
+
+[[redirects]]
+from = "/univers-du-piano/questions-frequentes/quest-ce-quun-piano-ancien/index.html"
+to = "/fr/univers-du-piano/questions-frequentes/quest-ce-quun-piano-ancien/"
+
+[[redirects]]
+from = "/organisations/gaveau/index.html"
+to = "/fr/organisations/gaveau/"
+
+[[redirects]]
+from = "/projets/2008-piano-bechstein-1930/index.html"
+to = "/fr/pianos/2008-piano-bechstein-1930/"
+
+[[redirects]]
+from = "/actualites/2026-06-22-reussir-editions-debats-publique/index.html"
+to = "/fr/actualites/2026-06-22-reussir-editions-debats-publique/"
+
+[[redirects]]
+from = "/actualites/2021-08-18-bertrand-chamayou-avec-lorchestre-les-siecles-festival-berlioz/index.html"
+to = "/fr/actualites/2021-08-18-bertrand-chamayou-avec-lorchestre-les-siecles-festival-berlioz/"
+
+[[redirects]]
+from = "/univers-du-piano/questions-frequentes/le-transport-des-pianos-une-affaire-de-specialistes/index.html"
+to = "/fr/univers-du-piano/questions-frequentes/le-transport-des-pianos-une-affaire-de-specialistes/"
+
+[[redirects]]
+from = "/personnes/marion-laine/index.html"
+to = "/fr/personnes/marion-laine/"
+
+[[redirects]]
+from = "/le-piano-numerique-peut-il-remplacer-le-piano-classique/index.html"
+to = "/fr/univers-du-piano/questions-frequentes/le-piano-numerique-peut-il-remplacer-le-piano-classique/"
+
+[[redirects]]
+from = "/pianos/2008-piano-bechstein-1930/index.html"
+to = "/fr/pianos/2008-piano-bechstein-1930/"
+
+[[redirects]]
+from = "/organisations/roller-et-blanchet/index.html"
+to = "/fr/organisations/roller-et-blanchet/"
+
+[[redirects]]
+from = "/organisations/jczapka/index.html"
+to = "/fr/organisations/jczapka/"
+
+[[redirects]]
+from = "/organisations/bluthner/index.html"
+to = "/fr/organisations/bluthner/"
+
+[[redirects]]
+from = "/organisations/ibach/index.html"
+to = "/fr/organisations/ibach/"
+
+[[redirects]]
+from = "/univers-du-piano/questions-frequentes/pourquoi-restaurer-un-piano-ancien/index.html"
+to = "/fr/univers-du-piano/questions-frequentes/pourquoi-restaurer-un-piano-ancien/"
+
+[[redirects]]
+from = "/partenaires/index.html"
+to = "/fr/partenaires/"
+
+[[redirects]]
+from = "/univers-du-piano/lexique-sur-le-piano/attrapes/index.html"
+to = "/fr/univers-du-piano/lexique-sur-le-piano/attrapes/"
+
+[[redirects]]
+from = "/univers-du-piano/questions-frequentes/quest-ce-quune-restauration-de-piano/index.html"
+to = "/fr/univers-du-piano/questions-frequentes/quest-ce-quune-restauration-de-piano/"
+
+[[redirects]]
+from = "/organisations/bosendorfer/index.html"
+to = "/fr/organisations/bosendorfer/"
+
+[[redirects]]
+from = "/organisations/categories/partenaires/index.html"
+to = "/fr/organisations/categories/partenaires/"
+
+[[redirects]]
+from = "/actualites/articles/index.html"
+to = "/fr/actualites/article/"
+
+[[redirects]]
+from = "/pianos/a-vendre/index.html"
+to = "/fr/pianos/a-vendre/"
+
+[[redirects]]
+from = "/univers-du-piano/lexique-sur-le-piano/index.html"
+to = "/fr/univers-du-piano/lexique-sur-le-piano/"
+
+[[redirects]]
+from = "/pianos/2025-piano-gaveau-1932/index.html"
+to = "/fr/pianos/2025-piano-gaveau-1932/"
+
+[[redirects]]
+from = "/organisations/pape/index.html"
+to = "/fr/organisations/pape/"
+
+[[redirects]]
+from = "/personnes/equipe-editoriale/index.html"
+to = "/fr/personnes/equipe-editoriale/"
+
+[[redirects]]
+from = "/pianos/2009-piano-erard-1918/index.html"
+to = "/fr/pianos/2009-piano-erard-1918/"
+
+[[redirects]]
+from = "/univers-du-piano/lexique-sur-le-piano/barre-de-repos-des-marteaux/index.html"
+to = "/fr/univers-du-piano/lexique-sur-le-piano/barre-de-repos-des-marteaux/"
+
+[[redirects]]
+from = "/en/posts/parution-presse/index.html"
+to = "/en/posts/press/"
+
+[[redirects]]
+from = "/univers-du-piano/questions-frequentes/pourquoi-accorder-le-piano/index.html"
+to = "/fr/univers-du-piano/questions-frequentes/pourquoi-accorder-le-piano/"
+
+[[redirects]]
+from = "/projets/2009-piano-erard-2/index.html"
+to = "/fr/pianos/2009-piano-erard-1918/"
+
+[[redirects]]
+from = "/univers-du-piano/questions-frequentes/les-pianos-droit-a-cadre-en-bois-1860-1920/index.html"
+to = "/fr/univers-du-piano/questions-frequentes/les-pianos-droit-a-cadre-en-bois-1860-1920/"
+
+[[redirects]]
+from = "/univers-du-piano/les-livres-sur-le-piano/index.html"
+to = "/fr/univers-du-piano/les-livres-sur-le-piano/"
+
+[[redirects]]
+from = "/organisations/index.html"
+to = "/fr/organisations/"
+
+[[redirects]]
+from = "/organisations/erard/index.html"
+to = "/fr/organisations/erard/"
+
+[[redirects]]
+from = "/plan-du-site/index.html"
+to = "/fr/plan-du-site/"
+
+[[redirects]]
+from = "/les-grandes-marques-de-pianos-marques-et-manufactures-de-pianos/index.html"
+to = "/fr/univers-du-piano/les-grandes-marques-de-pianos-marques-et-manufactures-de-pianos/"
+
+[[redirects]]
+from = "/lexique-sur-le-piano/barre-de-repos-des-marteaux/index.html"
+to = "/fr/univers-du-piano/lexique-sur-le-piano/barre-de-repos-des-marteaux/"
+
+[[redirects]]
+from = "/actualites/index.html"
+to = "/fr/actualites/"
+
+[[redirects]]
+from = "/projets/vendu/index.html"
+to = "/fr/pianos/vendus/"
+
+[[redirects]]
+from = "/organisations/categories/marques/index.html"
+to = "/fr/organisations/categories/manufactures/"
+
+[[redirects]]
+from = "/personnes/index.html"
+to = "/fr/personnes/"
+
+[[redirects]]
+from = "/projets/2025-piano-pleyel-1927/index.html"
+to = "/fr/pianos/2025-piano-pleyel-1927/"
+
+[[redirects]]
+from = "/les-livres-sur-le-piano/index.html"
+to = "/fr/univers-du-piano/les-livres-sur-le-piano/"
+
+[[redirects]]
+from = "/projets/2008-piano-bechstein/index.html"
+to = "/fr/pianos/2008-piano-bechstein-1930/"
+
+[[redirects]]
+from = "/questions-frequentes/quest-que-laccord-dun-piano/index.html"
+to = "/fr/univers-du-piano/questions-frequentes/quest-que-laccord-dun-piano/"
+
+[[redirects]]
+from = "/projets/2007-piano-bechstein-1910/index.html"
+to = "/fr/pianos/2007-piano-bechstein-1910/"
+
+[[redirects]]
+from = "/organisations/chambre-syndicale-de-la-facture-instrumentale/index.html"
+to = "/fr/organisations/chambre-syndicale-de-la-facture-instrumentale/"
+
+[[redirects]]
+from = "/pianos/2004-piano-erard-1926/index.html"
+to = "/fr/pianos/2004-piano-erard-1926/"
+
+[[redirects]]
+from = "/projets/2025-piano-gaveau-1932/index.html"
+to = "/fr/pianos/2025-piano-gaveau-1932/"
+
+[[redirects]]
+from = "/actualites/2025-01-01-sylvie-fouanon-restauratrice-de-pianos-anciens-a-paris/index.html"
+to = "/fr/actualites/2025-06-01-sylvie-fouanon-restauratrice-de-pianos-anciens-a-paris/"
+
+[[redirects]]
+from = "/organisations/steingraeber-sohne/index.html"
+to = "/fr/organisations/steingraeber-sohne/"
+
+[[redirects]]
+from = "/mentions-legales/index.html"
+to = "/fr/mentions-legales/"
+
+[[redirects]]
+from = "/en/restored-pianos/vendus/index.html"
+to = "/en/restored-pianos/sold/"
+
+[[redirects]]
+from = "/univers-du-piano/index.html"
+to = "/fr/univers-du-piano/"
+
+[[redirects]]
+from = "/univers-du-piano/lexique-sur-le-piano/agrafe-des-cordes-de-piano/index.html"
+to = "/fr/univers-du-piano/lexique-sur-le-piano/agrafe-des-cordes-de-piano/"
+
+[[redirects]]
+from = "/projets/2025-piano-pleyel/index.html"
+to = "/fr/pianos/2025-piano-pleyel-1927/"
+
+[[redirects]]
+from = "/personnes/sylvie-fouanon/actualites/index.html"
+to = "/fr/personnes/sylvie-fouanon/actualites/"
+
+[[redirects]]
+from = "/projets/2004-piano-erard-1926/index.html"
+to = "/fr/pianos/2004-piano-erard-1926/"
+
+[[redirects]]
+from = "/organisations/irmler/index.html"
+to = "/fr/organisations/irmler/"
+
+[[redirects]]
+from = "/a-propos/index.html"
+to = "/fr/a-propos/"
+
+[[redirects]]
+from = "/organisations/transports-delacour-co/index.html"
+to = "/fr/organisations/transports-delacour-co/"
+
+[[redirects]]
+from = "/pianos/2007-piano-bechstein-1910/index.html"
+to = "/fr/pianos/2007-piano-bechstein-1910/"
+
+[[redirects]]
+from = "/organisations/burgasser/index.html"
+to = "/fr/organisations/burgasser/"
+
+[[redirects]]
+from = "/organisations/pleyel/index.html"
+to = "/fr/organisations/pleyel/"
+
+[[redirects]]
+from = "/projets/2013-piano-erard-1862/index.html"
+to = "/fr/pianos/2013-piano-erard-1862/"
+
+[[redirects]]
+from = "/actualites/2023-03-29-tournee-saint-saens-360-orchestre-des-champs-elysees-tap-poitiers/index.html"
+to = "/fr/actualites/2023-03-29-tournee-saint-saens-360-orchestre-des-champs-elysees-tap-poitiers/"
+
+[[redirects]]
+from = "/pianos/nos-realisations/index.html"
+to = "/fr/pianos/nos-realisations/"
+
+[[redirects]]
+from = "/actualites/2023-10-04-medaille-de-lexcellence-artisanale/index.html"
+to = "/fr/actualites/2023-10-04-medaille-de-lexcellence-artisanale/"
+
+[[redirects]]
+from = "/organisations/le-reseau-excellence/index.html"
+to = "/fr/organisations/le-reseau-excellence/"
+
+[[redirects]]
+from = "/univers-du-piano/questions-frequentes/tous-les-pianos-sont-ils-reparables/index.html"
+to = "/fr/univers-du-piano/questions-frequentes/tous-les-pianos-sont-ils-reparables/"
+
+[[redirects]]
+from = "/lexique-sur-le-piano/index.html"
+to = "/fr/univers-du-piano/lexique-sur-le-piano/"
+
+[[redirects]]
+from = "/actualites/parution-presse/index.html"
+to = "/fr/actualites/parution-presse/"
+
+[[redirects]]
+from = "/pianos/vendus/index.html"
+to = "/fr/pianos/vendus/"
+
+[[redirects]]
+from = "/lexique-sur-le-piano/attrapes/index.html"
+to = "/fr/univers-du-piano/lexique-sur-le-piano/attrapes/"
+
