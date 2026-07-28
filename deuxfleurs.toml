@@ -267,6 +267,10 @@ from = "/univers-du-piano/lexique-sur-le-piano/barre-de-repos-des-marteaux/index
 to = "/fr/univers-du-piano/lexique-sur-le-piano/barre-de-repos-des-marteaux/"
 
 [[redirects]]
+from = "/en/posts/parution-presse/index.html"
+to = "/en/posts/press/"
+
+[[redirects]]
 from = "/univers-du-piano/questions-frequentes/pourquoi-accorder-le-piano/index.html"
 to = "/fr/univers-du-piano/questions-frequentes/pourquoi-accorder-le-piano/"
 
