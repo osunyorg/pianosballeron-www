@@ -34,17 +34,6 @@ fr:
   buildFuture: true
   params:
     contact_details:
-      social_networks:
-        instagram:
-          label: >-
-            atelier_pianos_balleron
-          value: >-
-            https://instagram.com/atelier_pianos_balleron
-        linkedin:
-          label: >-
-            pianos-balleron
-          value: >-
-            https://www.linkedin.com/company/pianos-balleron/
 
   taxonomies:
     administrator: administrators
