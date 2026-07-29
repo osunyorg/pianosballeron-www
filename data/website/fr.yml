@@ -1,6 +1,6 @@
 default:
 contents_reading_time:
-  seconds: 12
+  seconds: 15
   text: >-
     moins d'une minute
 contents:
@@ -38,6 +38,24 @@ contents:
           external: true
           image:
             id: "0e94a8d4-c31f-4b60-b898-7a00fe50b4f3"
+        - 
+          title: >-
+            Youtube
+
+          url: >-
+            https://www.youtube.com/@PIANOSBALLERONParis
+          external: true
+          image:
+            id: "5fd6cbdf-861a-4d44-9448-7e2159506c2c"
+        - 
+          title: >-
+            Facebook
+
+          url: >-
+            https://www.facebook.com/PianosBalleron
+          external: true
+          image:
+            id: "a8770a1e-23b7-43c7-b256-4d8bc7e67fa3"
 
 
   - kind: block
