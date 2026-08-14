@@ -196,7 +196,7 @@ to = "/fr/pianos/2013-piano-erard-1862/"
 
 [[redirects]]
 from = "/actualites/article/index.html"
-to = "/fr/actualites/article/"
+to = "/fr/actualites/articles/"
 
 [[redirects]]
 from = "/en/etouffoir-du-piano-372.html"
@@ -387,12 +387,16 @@ from = "/organisations/categories/partenaires/index.html"
 to = "/fr/organisations/categories/partenaires/"
 
 [[redirects]]
+from = "/fr/actualites/article/index.html"
+to = "/fr/actualites/articles/"
+
+[[redirects]]
 from = "/en/barres-de-table-ou-barettes-370.html"
 to = "/en/the-world-of-the-piano/lexicon/piano-ribs/"
 
 [[redirects]]
 from = "/actualites/articles/index.html"
-to = "/fr/actualites/article/"
+to = "/fr/actualites/articles/"
 
 [[redirects]]
 from = "/pianos/a-vendre/index.html"
@@ -603,6 +607,10 @@ from = "/les-livres-sur-le-piano/index.html"
 to = "/fr/univers-du-piano/les-livres-sur-le-piano/"
 
 [[redirects]]
+from = "/fr/actualites/parution-presse/index.html"
+to = "/fr/actualites/presse/"
+
+[[redirects]]
 from = "/en/organizations/categories/manufactures/index.html"
 to = "/en/organizations/categories/manufacturers/"
 
@@ -784,7 +792,7 @@ to = "/fr/univers-du-piano/lexique-sur-le-piano/"
 
 [[redirects]]
 from = "/actualites/parution-presse/index.html"
-to = "/fr/actualites/parution-presse/"
+to = "/fr/actualites/presse/"
 
 [[redirects]]
 from = "/pianos/vendus/index.html"
