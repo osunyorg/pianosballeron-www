@@ -331,6 +331,10 @@ from = "/en/cadre-en-fonte-du-piano-156.html"
 to = "/en/the-world-of-the-piano/lexicon/cast-iron-piano-frame/"
 
 [[redirects]]
+from = "/en/posts/2025-06-01-sylvie-fouanon-is-featured-in-tokyo-s-chopin-magazine-old/index.html"
+to = "/en/posts/2025-06-01-sylvie-fouanon-is-featured-in-tokyo-s-chopin-magazine/"
+
+[[redirects]]
 from = "/fr/mecanique-viennoise-392.html"
 to = "/fr/univers-du-piano/lexique-sur-le-piano/mecanique-viennoise/"
 
@@ -427,6 +431,10 @@ from = "/contact/index.html"
 to = "/fr/contact/"
 
 [[redirects]]
+from = "/fr/actualites/2025-06-01-sylvie-fouanon-restauratrice-de-pianos-anciens-a-paris-old/index.html"
+to = "/fr/actualites/2025-06-01-sylvie-fouanon-restauratrice-de-pianos-anciens-a-paris/"
+
+[[redirects]]
 from = "/fr/rouleaux-des-marteaux-de-piano-163.html"
 to = "/fr/univers-du-piano/lexique-sur-le-piano/rouleaux-des-marteaux-de-piano/"
 
@@ -457,6 +465,10 @@ to = "/fr/univers-du-piano/questions-frequentes/les-pianos-droit-a-cadre-en-bois
 [[redirects]]
 from = "/univers-du-piano/les-livres-sur-le-piano/index.html"
 to = "/fr/univers-du-piano/les-livres-sur-le-piano/"
+
+[[redirects]]
+from = "/ja/actualites/2025-06-01-sylvie-fouanon-restauratrice-de-pianos-anciens-a-paris-old/index.html"
+to = "/ja/actualites/2025-06-01-sylvie-fouanon-restauratrice-de-pianos-anciens-a-paris/"
 
 [[redirects]]
 from = "/en/mecanique-baionnette-391.html"
