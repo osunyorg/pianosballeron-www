@@ -67,10 +67,6 @@ from = "/pianos/index.html"
 to = "/fr/pianos/"
 
 [[redirects]]
-from = "/attrapes/index.html"
-to = "/fr/univers-du-piano/lexique-sur-le-piano/attrapes/"
-
-[[redirects]]
 from = "/organisations/cyrille-jourdain/index.html"
 to = "/fr/organisations/cyrille-jourdain/"
 
@@ -89,10 +85,6 @@ to = "/fr/pianos/2007-piano-czapka-1918/"
 [[redirects]]
 from = "/projets/2007-piano-bechstein-1/index.html"
 to = "/fr/pianos/2007-piano-bechstein-1910/"
-
-[[redirects]]
-from = "/lexique-sur-le-piano/agrafe-des-cordes-de-piano/index.html"
-to = "/fr/univers-du-piano/lexique-sur-le-piano/agrafe-des-cordes-de-piano/"
 
 [[redirects]]
 from = "/univers-du-piano/questions-frequentes/quest-que-laccord-dun-piano/index.html"
@@ -231,10 +223,6 @@ from = "/partenaires/index.html"
 to = "/fr/partenaires/"
 
 [[redirects]]
-from = "/univers-du-piano/lexique-sur-le-piano/attrapes/index.html"
-to = "/fr/univers-du-piano/lexique-sur-le-piano/attrapes/"
-
-[[redirects]]
 from = "/univers-du-piano/questions-frequentes/quest-ce-quune-restauration-de-piano/index.html"
 to = "/fr/univers-du-piano/questions-frequentes/quest-ce-quune-restauration-de-piano/"
 
@@ -277,10 +265,6 @@ to = "/fr/personnes/equipe-editoriale/"
 [[redirects]]
 from = "/pianos/2009-piano-erard-1918/index.html"
 to = "/fr/pianos/2009-piano-erard-1918/"
-
-[[redirects]]
-from = "/univers-du-piano/lexique-sur-le-piano/barre-de-repos-des-marteaux/index.html"
-to = "/fr/univers-du-piano/lexique-sur-le-piano/barre-de-repos-des-marteaux/"
 
 [[redirects]]
 from = "/en/posts/parution-presse/index.html"
@@ -329,10 +313,6 @@ to = "/fr/plan-du-site/"
 [[redirects]]
 from = "/les-grandes-marques-de-pianos-marques-et-manufactures-de-pianos/index.html"
 to = "/fr/univers-du-piano/les-grandes-marques-de-pianos-marques-et-manufactures-de-pianos/"
-
-[[redirects]]
-from = "/lexique-sur-le-piano/barre-de-repos-des-marteaux/index.html"
-to = "/fr/univers-du-piano/lexique-sur-le-piano/barre-de-repos-des-marteaux/"
 
 [[redirects]]
 from = "/actualites/index.html"
@@ -411,10 +391,6 @@ from = "/univers-du-piano/index.html"
 to = "/fr/univers-du-piano/"
 
 [[redirects]]
-from = "/univers-du-piano/lexique-sur-le-piano/agrafe-des-cordes-de-piano/index.html"
-to = "/fr/univers-du-piano/lexique-sur-le-piano/agrafe-des-cordes-de-piano/"
-
-[[redirects]]
 from = "/projets/2025-piano-pleyel/index.html"
 to = "/fr/pianos/2025-piano-pleyel-1927/"
 
@@ -459,10 +435,6 @@ from = "/actualites/2023-03-29-tournee-saint-saens-360-orchestre-des-champs-elys
 to = "/fr/actualites/2023-03-29-tournee-saint-saens-360-orchestre-des-champs-elysees-tap-poitiers/"
 
 [[redirects]]
-from = "/pianos/nos-realisations/index.html"
-to = "/fr/pianos/nos-realisations/"
-
-[[redirects]]
 from = "/actualites/2023-10-04-medaille-de-lexcellence-artisanale/index.html"
 to = "/fr/actualites/2023-10-04-medaille-de-lexcellence-artisanale/"
 
@@ -485,8 +457,4 @@ to = "/fr/actualites/parution-presse/"
 [[redirects]]
 from = "/pianos/vendus/index.html"
 to = "/fr/pianos/vendus/"
-
-[[redirects]]
-from = "/lexique-sur-le-piano/attrapes/index.html"
-to = "/fr/univers-du-piano/lexique-sur-le-piano/attrapes/"
 
