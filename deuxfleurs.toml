@@ -391,6 +391,10 @@ from = "/en/piano-erard-1909-319.html"
 to = "/en/restored-pianos/2026-piano-erard-1909/"
 
 [[redirects]]
+from = "/en/restored-pianos/index.html"
+to = "/en/pianos/"
+
+[[redirects]]
 from = "/ja/mentions-legales/index.html"
 to = "/ja/legal-notice/"
 
@@ -857,6 +861,10 @@ to = "/en/restored-pianos/2026-piano-bluthner-1926/"
 [[redirects]]
 from = "/en/r063-904.html"
 to = "/en/restored-pianos/2026-piano-pleyel-1906-1/"
+
+[[redirects]]
+from = "/ja/projets/index.html"
+to = "/ja/pianos/"
 
 [[redirects]]
 from = "/en/etouffoir-du-piano-372.html"
