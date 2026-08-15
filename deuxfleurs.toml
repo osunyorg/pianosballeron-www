@@ -2116,7 +2116,7 @@ to = "/fr/pianos/2026-piano-bluthner-1900/"
 
 [[redirects]]
 from = "/organisations/index.html"
-to = "/fr/organisations/"
+to = "/fr/manufactures-et-partenaires/"
 
 [[redirects]]
 from = "/fr/piano-erard-1948-218.html"
@@ -2971,10 +2971,6 @@ from = "/en/piano-pleyel-1925-250.html"
 to = "/en/pianos/2026-piano-pleyel-1925-1/"
 
 [[redirects]]
-from = "/fr/pianos/2026-piano-pleyel-1931/index.html"
-to = "/fr/pianos/2005-piano-pleyel-1931/"
-
-[[redirects]]
 from = "/fr/pianos/2026-piano-erard-1948/index.html"
 to = "/fr/pianos/2004-piano-erard-1948/"
 
@@ -3353,6 +3349,10 @@ to = "/fr/actualites/presse/"
 [[redirects]]
 from = "/pianos/vendus/index.html"
 to = "/fr/pianos/vendus/"
+
+[[redirects]]
+from = "/fr/organisations/index.html"
+to = "/fr/manufactures-et-partenaires/"
 
 [[redirects]]
 from = "/fr/univers-du-piano/lexique-sur-le-piano/pilotes-dechappement-du-piano/index.html"
