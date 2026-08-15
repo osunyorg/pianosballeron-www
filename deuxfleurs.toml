@@ -179,10 +179,6 @@ from = "/en/restored-pianos/2007-piano-pleyel-1912/index.html"
 to = "/en/pianos/2026-piano-pleyel-1912/"
 
 [[redirects]]
-from = "/en/restored-pianos/1995-piano-steingraeber-1915/index.html"
-to = "/en/pianos/2026-piano-steingraeber-1915/"
-
-[[redirects]]
 from = "/en/restored-pianos/2026-piano-pleyel-1925-1/index.html"
 to = "/en/pianos/2026-piano-pleyel-1925-1/"
 
@@ -489,10 +485,6 @@ to = "/en/pianos/2026-piano-erard-1913-1/"
 [[redirects]]
 from = "/en/piano-erard-1909-319.html"
 to = "/en/pianos/2026-piano-erard-1909/"
-
-[[redirects]]
-from = "/en/restored-pianos/index.html"
-to = "/en/pianos/"
 
 [[redirects]]
 from = "/en/restored-pianos/2026-piano-erard-1917/index.html"
@@ -2239,10 +2231,6 @@ from = "/univers-du-piano/lexique-sur-le-piano/index.html"
 to = "/fr/univers-du-piano/lexique-du-piano/"
 
 [[redirects]]
-from = "/en/restored-pianos/2026-piano-pleyel-1931/index.html"
-to = "/en/pianos/2026-piano-pleyel-1931/"
-
-[[redirects]]
 from = "/fr/v120-815.html"
 to = "/fr/pianos/2026-piano-steingraeber-1900/"
 
@@ -3335,10 +3323,6 @@ from = "/personnes/index.html"
 to = "/fr/personnes/"
 
 [[redirects]]
-from = "/en/restored-pianos/2000-piano-erard-1910/index.html"
-to = "/en/pianos/2026-piano-erard-1910/"
-
-[[redirects]]
 from = "/ja/projets/2026-piano-gaveau-1924/index.html"
 to = "/ja/pianos/2026-piano-gaveau-1924/"
 
@@ -4353,10 +4337,6 @@ to = "/fr/univers-du-piano/questions-frequentes/tous-les-pianos-sont-ils-reparab
 [[redirects]]
 from = "/en/v115-803.html"
 to = "/en/pianos/2026-piano-pleyel-1/"
-
-[[redirects]]
-from = "/en/restored-pianos/2005-piano-pleyel-1931/index.html"
-to = "/en/pianos/2026-piano-pleyel-1931/"
 
 [[redirects]]
 from = "/fr/piano-erard-1910-294.html"
