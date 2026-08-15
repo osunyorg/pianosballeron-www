@@ -168,7 +168,7 @@ to = "/ja/projets/2026-piano-pleyel-1930/"
 
 [[redirects]]
 from = "/pianos/2025-piano-pleyel-1927/index.html"
-to = "/fr/pianos/2025-piano-pleyel-1927/"
+to = "/fr/pianos/2025-piano-pleyel-1927-/"
 
 [[redirects]]
 from = "/jp/v106-775.html"
@@ -868,7 +868,7 @@ to = "/ja/projets/2026-piano-gaveau-1930/"
 
 [[redirects]]
 from = "/fr/pianos/2013-piano-erard-1862-1/index.html"
-to = "/fr/pianos/2026-piano-erard-1862-1/"
+to = "/fr/pianos/2026-piano-erard-1862/"
 
 [[redirects]]
 from = "/en/piano-ehrbar-1894-314.html"
@@ -1028,7 +1028,7 @@ to = "/fr/pianos/"
 
 [[redirects]]
 from = "/fr/piano-erard-1862-170-170.html"
-to = "/fr/pianos/2026-piano-erard-1862-1/"
+to = "/fr/pianos/2026-piano-erard-1862/"
 
 [[redirects]]
 from = "/en/restored-pianos/2002-piano-pleyel-1908/index.html"
@@ -1196,7 +1196,7 @@ to = "/fr/organisations/roller-et-blanchet/"
 
 [[redirects]]
 from = "/fr/v121-818.html"
-to = "/fr/pianos/2026-piano-gaveau-1932-1/"
+to = "/fr/pianos/2026-piano-gaveau-1932/"
 
 [[redirects]]
 from = "/fr/pianoforte-390.html"
@@ -1208,7 +1208,7 @@ to = "/fr/pianos/2026-piano-pleyel-1928-1/"
 
 [[redirects]]
 from = "/fr/v127-853.html"
-to = "/fr/pianos/2026-piano-pleyel-1927-8/"
+to = "/fr/pianos/2026-piano-pleyel-1927/"
 
 [[redirects]]
 from = "/jp/v110-782.html"
@@ -1479,6 +1479,10 @@ from = "/fr/piano-gaveau-1924-252.html"
 to = "/fr/pianos/2026-piano-gaveau-1924/"
 
 [[redirects]]
+from = "/fr/pianos/2025-piano-pleyel-1927/index.html"
+to = "/fr/pianos/2025-piano-pleyel-1927-/"
+
+[[redirects]]
 from = "/en/restored-pianos/2022-piano-gaveau-1922-1/index.html"
 to = "/en/restored-pianos/2026-piano-gaveau-1922-1/"
 
@@ -1529,6 +1533,10 @@ to = "/en/the-world-of-the-piano/lexicon/ebony-sharp-keys/"
 [[redirects]]
 from = "/organisations/bosendorfer/index.html"
 to = "/fr/organisations/bosendorfer/"
+
+[[redirects]]
+from = "/fr/pianos/2026-piano-erard-1862-1/index.html"
+to = "/fr/pianos/2026-piano-erard-1862/"
 
 [[redirects]]
 from = "/jp/v133-898.html"
@@ -1729,6 +1737,10 @@ to = "/fr/pianos/2026-piano-pleyel-1909/"
 [[redirects]]
 from = "/personnes/equipe-editoriale/index.html"
 to = "/fr/personnes/equipe-editoriale/"
+
+[[redirects]]
+from = "/fr/pianos/2026-piano-gaveau-1932-1/index.html"
+to = "/fr/pianos/2026-piano-gaveau-1932/"
 
 [[redirects]]
 from = "/pianos/2009-piano-erard-1918/index.html"
@@ -2067,6 +2079,10 @@ from = "/fr/univers-du-piano/lexique-sur-le-piano/mecanique-pleyel-a-double-echa
 to = "/fr/univers-du-piano/lexique-du-piano/mecanique-pleyel-a-double-echappement/"
 
 [[redirects]]
+from = "/fr/pianos/2026-piano-erard-1918-1/index.html"
+to = "/fr/pianos/2026-piano-erard-1918/"
+
+[[redirects]]
 from = "/en/v117-813.html"
 to = "/en/restored-pianos/2026-piano-pleyel-1910-3/"
 
@@ -2149,6 +2165,10 @@ to = "/fr/pianos/2026-piano-erard-1847/"
 [[redirects]]
 from = "/fr/piano-steinway-1912-312.html"
 to = "/fr/pianos/2026-piano-steinway-1912/"
+
+[[redirects]]
+from = "/fr/pianos/2026-piano-bechstein-1910-1/index.html"
+to = "/fr/pianos/2026-piano-bechstein-1910/"
 
 [[redirects]]
 from = "/jp/v092-471.html"
@@ -2272,7 +2292,7 @@ to = "/en/restored-pianos/2026-piano-bechstein-1930-1/"
 
 [[redirects]]
 from = "/fr/piano-czapka-1918-172.html"
-to = "/fr/pianos/2026-piano-czapka-1918-1/"
+to = "/fr/pianos/2026-piano-czapka-1918/"
 
 [[redirects]]
 from = "/jp/piano-erard-1918-171.html"
@@ -2400,7 +2420,7 @@ to = "/ja/projets/2026-piano-erard-1917-1/"
 
 [[redirects]]
 from = "/projets/2025-piano-pleyel-1927/index.html"
-to = "/fr/pianos/2025-piano-pleyel-1927/"
+to = "/fr/pianos/2025-piano-pleyel-1927-/"
 
 [[redirects]]
 from = "/fr/piano-steinway-1908-228.html"
@@ -2540,7 +2560,7 @@ to = "/fr/univers-du-piano/lexique-du-piano/mecanique-schwander/"
 
 [[redirects]]
 from = "/fr/pianos/2009-piano-erard-1918-1/index.html"
-to = "/fr/pianos/2026-piano-erard-1918-1/"
+to = "/fr/pianos/2026-piano-erard-1918/"
 
 [[redirects]]
 from = "/fr/v104-771.html"
@@ -2560,7 +2580,7 @@ to = "/en/restored-pianos/2026-piano-pleyel-1928-1/"
 
 [[redirects]]
 from = "/fr/pianos/2007-piano-czapka-1918-1/index.html"
-to = "/fr/pianos/2026-piano-czapka-1918-1/"
+to = "/fr/pianos/2026-piano-czapka-1918/"
 
 [[redirects]]
 from = "/fr/piano-gaveau-1913-342.html"
@@ -2572,7 +2592,7 @@ to = "/fr/pianos/2026-piano-erard-1910/"
 
 [[redirects]]
 from = "/fr/piano-erard-1918-171.html"
-to = "/fr/pianos/2026-piano-erard-1918-1/"
+to = "/fr/pianos/2026-piano-erard-1918/"
 
 [[redirects]]
 from = "/en/restored-pianos/2003-piano-erard-1847/index.html"
@@ -2588,7 +2608,7 @@ to = "/en/restored-pianos/2026-piano-gaveau-1925/"
 
 [[redirects]]
 from = "/fr/piano-bechstein-1910-169.html"
-to = "/fr/pianos/2026-piano-bechstein-1910-1/"
+to = "/fr/pianos/2026-piano-bechstein-1910/"
 
 [[redirects]]
 from = "/en/pointes-de-balancier-du-piano-166.html"
@@ -2708,7 +2728,7 @@ to = "/fr/univers-du-piano/lexique-du-piano/etouffoir-du-piano/"
 
 [[redirects]]
 from = "/projets/2025-piano-pleyel/index.html"
-to = "/fr/pianos/2025-piano-pleyel-1927/"
+to = "/fr/pianos/2025-piano-pleyel-1927-/"
 
 [[redirects]]
 from = "/en/tourillon-380.html"
@@ -2771,6 +2791,10 @@ from = "/fr/ivoire-des-touches-de-piano-175.html"
 to = "/fr/univers-du-piano/lexique-du-piano/ivoire-des-touches-de-piano/"
 
 [[redirects]]
+from = "/fr/pianos/2026-piano-erard-1926-1/index.html"
+to = "/fr/pianos/2026-piano-erard-1926/"
+
+[[redirects]]
 from = "/en/piano-pleyel-1925-250.html"
 to = "/en/restored-pianos/2026-piano-pleyel-1925-1/"
 
@@ -2824,7 +2848,7 @@ to = "/fr/pianos/2026-piano-erard-1929-1/"
 
 [[redirects]]
 from = "/fr/pianos/2007-piano-bechstein-1910-1/index.html"
-to = "/fr/pianos/2026-piano-bechstein-1910-1/"
+to = "/fr/pianos/2026-piano-bechstein-1910/"
 
 [[redirects]]
 from = "/fr/piano-pleyel-1929-236.html"
@@ -2853,6 +2877,10 @@ to = "/fr/pianos/2026-piano-erard-1861/"
 [[redirects]]
 from = "/fr/piano-gaveau-1920-337.html"
 to = "/fr/pianos/2026-piano-gaveau-1920/"
+
+[[redirects]]
+from = "/fr/pianos/2026-piano-pleyel-1927-8/index.html"
+to = "/fr/pianos/2026-piano-pleyel-1927/"
 
 [[redirects]]
 from = "/ja/actualites/2026-06-22-reussir-editions-debats-publique-old/index.html"
@@ -2900,7 +2928,7 @@ to = "/fr/organisations/burgasser/"
 
 [[redirects]]
 from = "/fr/piano-erard-1926-59.html"
-to = "/fr/pianos/2026-piano-erard-1926-1/"
+to = "/fr/pianos/2026-piano-erard-1926/"
 
 [[redirects]]
 from = "/fr/r061-902.html"
@@ -3152,7 +3180,7 @@ to = "/fr/actualites/presse/"
 
 [[redirects]]
 from = "/fr/pianos/2004-piano-erard-1926-1/index.html"
-to = "/fr/pianos/2026-piano-erard-1926-1/"
+to = "/fr/pianos/2026-piano-erard-1926/"
 
 [[redirects]]
 from = "/pianos/vendus/index.html"
@@ -3161,4 +3189,8 @@ to = "/fr/pianos/vendus/"
 [[redirects]]
 from = "/fr/univers-du-piano/lexique-sur-le-piano/pilotes-dechappement-du-piano/index.html"
 to = "/fr/univers-du-piano/lexique-du-piano/pilotes-dechappement-du-piano/"
+
+[[redirects]]
+from = "/fr/pianos/2026-piano-czapka-1918-1/index.html"
+to = "/fr/pianos/2026-piano-czapka-1918/"
 
