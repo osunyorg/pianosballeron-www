@@ -319,6 +319,10 @@ from = "/ja/plan-du-site/index.html"
 to = "/ja/sitemap/"
 
 [[redirects]]
+from = "/fr/univers-du-piano/les-livres-sur-le-piano/index.html"
+to = "/fr/univers-du-piano/livres-sur-le-piano/"
+
+[[redirects]]
 from = "/organisations/bluthner/index.html"
 to = "/fr/organisations/bluthner/"
 
@@ -484,7 +488,7 @@ to = "/fr/univers-du-piano/questions-frequentes/les-pianos-droit-a-cadre-en-bois
 
 [[redirects]]
 from = "/univers-du-piano/les-livres-sur-le-piano/index.html"
-to = "/fr/univers-du-piano/les-livres-sur-le-piano/"
+to = "/fr/univers-du-piano/livres-sur-le-piano/"
 
 [[redirects]]
 from = "/fr/univers-du-piano/les-grandes-marques-de-pianos-marques-et-manufactures-de-pianos/index.html"
@@ -600,7 +604,7 @@ to = "/ja/actualites/2024-01-01-film-animation-2d-sylvie-fouanon/"
 
 [[redirects]]
 from = "/les-livres-sur-le-piano/index.html"
-to = "/fr/univers-du-piano/les-livres-sur-le-piano/"
+to = "/fr/univers-du-piano/livres-sur-le-piano/"
 
 [[redirects]]
 from = "/fr/actualites/parution-presse/index.html"
