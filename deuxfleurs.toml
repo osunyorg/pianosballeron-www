@@ -92,7 +92,7 @@ to = "/fr/pianos/2026-piano-pleyel-1924/"
 
 [[redirects]]
 from = "/jp/piano-erard-1926-59.html"
-to = "/ja/projets/2026-piano-erard-1926/"
+to = "/ja/pianos/2026-piano-erard-1926/"
 
 [[redirects]]
 from = "/fr/pianos/2005-piano-kriegelstein-1853/index.html"
@@ -100,7 +100,7 @@ to = "/fr/pianos/2026-piano-kriegelstein-1853/"
 
 [[redirects]]
 from = "/en/piano-erard-1926-59.html"
-to = "/en/restored-pianos/2026-piano-erard-1926-1/"
+to = "/en/pianos/2026-piano-erard-1926/"
 
 [[redirects]]
 from = "/fr/v098-736.html"
@@ -445,6 +445,10 @@ to = "/ja/projets/2026-piano-pleyel-1923-2/"
 [[redirects]]
 from = "/fr/univers-du-piano/lexique-sur-le-piano/feutres-des-tetes-des-marteaux/index.html"
 to = "/fr/univers-du-piano/lexique-du-piano/feutres-des-tetes-des-marteaux/"
+
+[[redirects]]
+from = "/ja/projets/2026-piano-erard-1926/index.html"
+to = "/ja/pianos/2026-piano-erard-1926/"
 
 [[redirects]]
 from = "/fr/piano-schiedmayer-1873-238.html"
@@ -2275,10 +2279,6 @@ from = "/en/piano-bechstein-1913-84.html"
 to = "/en/restored-pianos/2026-piano-bechstein-1913-1/"
 
 [[redirects]]
-from = "/en/restored-pianos/2004-piano-erard-1926-1/index.html"
-to = "/en/restored-pianos/2026-piano-erard-1926-1/"
-
-[[redirects]]
 from = "/les-grandes-marques-de-pianos-marques-et-manufactures-de-pianos/index.html"
 to = "/fr/univers-du-piano/marques-et-manufactures-de-pianos/"
 
@@ -2513,6 +2513,10 @@ to = "/ja/projets/2026-piano-gaveau-1926/"
 [[redirects]]
 from = "/questions-frequentes/quest-que-laccord-dun-piano/index.html"
 to = "/fr/univers-du-piano/questions-frequentes/quest-que-laccord-dun-piano/"
+
+[[redirects]]
+from = "/en/restored-pianos/2026-piano-erard-1926-1/index.html"
+to = "/en/pianos/2026-piano-erard-1926/"
 
 [[redirects]]
 from = "/en/cordes-croisees-du-piano-376.html"
