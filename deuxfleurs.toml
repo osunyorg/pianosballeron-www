@@ -28,7 +28,7 @@ to = "/en/pianos/2026-piano-erard-1929-1/"
 
 [[redirects]]
 from = "/organisations/schiedmayer/index.html"
-to = "/fr/organisations/schiedmayer/"
+to = "/fr/manufactures-et-partenaires/schiedmayer/"
 
 [[redirects]]
 from = "/en/pianos/2026-piano-steinway-1908/index.html"
@@ -136,7 +136,7 @@ to = "/ja/pianos/2000-piano-pleyel-1929/"
 
 [[redirects]]
 from = "/organisations/etsey/index.html"
-to = "/fr/organisations/etsey/"
+to = "/fr/manufactures-et-partenaires/etsey/"
 
 [[redirects]]
 from = "/fr/univers-du-piano/lexique-sur-le-piano/cordes-paralleles-du-piano/index.html"
@@ -255,6 +255,10 @@ from = "/fr/r048-469.html"
 to = "/fr/pianos/2015-piano-gaveau-1931/"
 
 [[redirects]]
+from = "/fr/organisations/pape/index.html"
+to = "/fr/manufactures-et-partenaires/pape/"
+
+[[redirects]]
 from = "/en/pianos/2026-piano-bechstein-1912/index.html"
 to = "/en/pianos/2003-piano-bechstein-1912/"
 
@@ -311,6 +315,10 @@ from = "/ja/pianos/2026-piano-gaveau-1931/index.html"
 to = "/ja/pianos/2015-piano-gaveau-1931/"
 
 [[redirects]]
+from = "/fr/organisations/le-reseau-excellence/index.html"
+to = "/fr/manufactures-et-partenaires/le-reseau-excellence/"
+
+[[redirects]]
 from = "/fr/piano-seiler-1939-329.html"
 to = "/fr/pianos/2026-piano-seiler-1939/"
 
@@ -321,6 +329,10 @@ to = "/en/pianos/2026-piano-pleyel-1928-4/"
 [[redirects]]
 from = "/en/piano-pleyel-1925-246.html"
 to = "/en/pianos/2026-piano-pleyel-1925/"
+
+[[redirects]]
+from = "/fr/organisations/irmler/index.html"
+to = "/fr/manufactures-et-partenaires/irmler/"
 
 [[redirects]]
 from = "/jp/piano-erard-1935-254.html"
@@ -348,7 +360,7 @@ to = "/fr/pianos/2026-piano-pleyel-1910-1/"
 
 [[redirects]]
 from = "/organisations/steinway/index.html"
-to = "/fr/organisations/steinway/"
+to = "/fr/manufactures-et-partenaires/steinway/"
 
 [[redirects]]
 from = "/fr/piano-bluthner-1924-268.html"
@@ -443,6 +455,10 @@ from = "/jp/piano-steinway-1912-312.html"
 to = "/ja/pianos/2026-piano-steinway-1912/"
 
 [[redirects]]
+from = "/fr/organisations/etsey/index.html"
+to = "/fr/manufactures-et-partenaires/etsey/"
+
+[[redirects]]
 from = "/jp/piano-gaveau-1920-341.html"
 to = "/ja/pianos/2026-piano-gaveau-1920-1/"
 
@@ -467,6 +483,10 @@ from = "/fr/pianos/2026-piano-pleyel-1936-2/index.html"
 to = "/fr/pianos/2019-piano-pleyel-1936-2/"
 
 [[redirects]]
+from = "/fr/organisations/chambre-syndicale-de-la-facture-instrumentale/index.html"
+to = "/fr/manufactures-et-partenaires/chambre-syndicale-de-la-facture-instrumentale/"
+
+[[redirects]]
 from = "/en/piano-gaveau-1912-299.html"
 to = "/en/pianos/2006-piano-gaveau-1912/"
 
@@ -485,6 +505,10 @@ to = "/fr/univers-du-piano/lexique-du-piano/feutres-des-tetes-des-marteaux/"
 [[redirects]]
 from = "/ja/pianos/2026-piano-pleyel-1912/index.html"
 to = "/ja/pianos/2007-piano-pleyel-1912/"
+
+[[redirects]]
+from = "/fr/organisations/erard/index.html"
+to = "/fr/manufactures-et-partenaires/erard/"
 
 [[redirects]]
 from = "/fr/piano-schiedmayer-1873-238.html"
@@ -544,7 +568,7 @@ to = "/ja/pianos/2018-piano-pleyel-1927-1/"
 
 [[redirects]]
 from = "/organisations/cyrille-jourdain/index.html"
-to = "/fr/organisations/cyrille-jourdain/"
+to = "/fr/manufactures-et-partenaires/cyrille-jourdain/"
 
 [[redirects]]
 from = "/fr/mouches-enfoncement-du-piano-168.html"
@@ -679,6 +703,10 @@ from = "/projets/2007-piano-bechstein-1/index.html"
 to = "/fr/pianos/2007-piano-bechstein-1910/"
 
 [[redirects]]
+from = "/fr/organisations/bluthner/index.html"
+to = "/fr/manufactures-et-partenaires/bluthner/"
+
+[[redirects]]
 from = "/en/piano-gabriel-gaveau-1920-322.html"
 to = "/en/pianos/2026-piano-gabriel-gaveau-1920-1/"
 
@@ -792,7 +820,7 @@ to = "/fr/pianos/2010-piano-erard-1882/"
 
 [[redirects]]
 from = "/organisations/kriegelstein/index.html"
-to = "/fr/organisations/kriegelstein/"
+to = "/fr/manufactures-et-partenaires/kriegelstein/"
 
 [[redirects]]
 from = "/jp/piano-gaveau-1927-339.html"
@@ -824,7 +852,7 @@ to = "/en/pianos/2008-piano-bosendorfer-1915/"
 
 [[redirects]]
 from = "/organisations/les-grands-ateliers-de-france/index.html"
-to = "/fr/organisations/les-grands-ateliers-de-france/"
+to = "/fr/manufactures-et-partenaires/les-grands-ateliers-de-france/"
 
 [[redirects]]
 from = "/fr/piano-bechstein-1912-220.html"
@@ -1016,7 +1044,7 @@ to = "/en/pianos/2026-piano-bluthner-1886/"
 
 [[redirects]]
 from = "/organisations/categories/manufactures/index.html"
-to = "/fr/organisations/categories/manufactures/"
+to = "/fr/manufactures-et-partenaires/categories/manufactures/"
 
 [[redirects]]
 from = "/en/pianos/2026-piano-erard-1926/index.html"
@@ -1176,7 +1204,7 @@ to = "/fr/univers-du-piano/questions-frequentes/quest-ce-quun-piano-ancien/"
 
 [[redirects]]
 from = "/organisations/gaveau/index.html"
-to = "/fr/organisations/gaveau/"
+to = "/fr/manufactures-et-partenaires/gaveau/"
 
 [[redirects]]
 from = "/en/r061-902.html"
@@ -1296,7 +1324,7 @@ to = "/fr/pianos/2008-piano-bechstein-1930/"
 
 [[redirects]]
 from = "/organisations/roller-et-blanchet/index.html"
-to = "/fr/organisations/roller-et-blanchet/"
+to = "/fr/manufactures-et-partenaires/roller-et-blanchet/"
 
 [[redirects]]
 from = "/fr/v121-818.html"
@@ -1324,7 +1352,11 @@ to = "/ja/pianos/2005-piano-kriegelstein-1853/"
 
 [[redirects]]
 from = "/organisations/jczapka/index.html"
-to = "/fr/organisations/jczapka/"
+to = "/fr/manufactures-et-partenaires/jczapka/"
+
+[[redirects]]
+from = "/fr/organisations/pleyel/index.html"
+to = "/fr/manufactures-et-partenaires/pleyel/"
 
 [[redirects]]
 from = "/en/piano-pleyel-1924-300.html"
@@ -1384,7 +1416,7 @@ to = "/ja/pianos/2026-piano-pleyel-1928-1/"
 
 [[redirects]]
 from = "/organisations/bluthner/index.html"
-to = "/fr/organisations/bluthner/"
+to = "/fr/manufactures-et-partenaires/bluthner/"
 
 [[redirects]]
 from = "/fr/piano-pleyel-1916-267.html"
@@ -1420,7 +1452,7 @@ to = "/en/the-world-of-the-piano/lexicon/piano-tuning-pins/"
 
 [[redirects]]
 from = "/organisations/ibach/index.html"
-to = "/fr/organisations/ibach/"
+to = "/fr/manufactures-et-partenaires/ibach/"
 
 [[redirects]]
 from = "/univers-du-piano/questions-frequentes/pourquoi-restaurer-un-piano-ancien/index.html"
@@ -1624,7 +1656,7 @@ to = "/en/the-world-of-the-piano/lexicon/ebony-sharp-keys/"
 
 [[redirects]]
 from = "/organisations/bosendorfer/index.html"
-to = "/fr/organisations/bosendorfer/"
+to = "/fr/manufactures-et-partenaires/bosendorfer/"
 
 [[redirects]]
 from = "/jp/v133-898.html"
@@ -1652,7 +1684,7 @@ to = "/en/pianos/2022-piano-gaveau-1922-1/"
 
 [[redirects]]
 from = "/organisations/categories/partenaires/index.html"
-to = "/fr/organisations/categories/partenaires/"
+to = "/fr/manufactures-et-partenaires/categories/partenaires/"
 
 [[redirects]]
 from = "/fr/v133-898.html"
@@ -1697,6 +1729,10 @@ to = "/fr/pianos/a-vendre/"
 [[redirects]]
 from = "/en/pianos/2026-piano-gaveau-1925/index.html"
 to = "/en/pianos/2004-piano-gaveau-1925/"
+
+[[redirects]]
+from = "/fr/organisations/jczapka/index.html"
+to = "/fr/manufactures-et-partenaires/jczapka/"
 
 [[redirects]]
 from = "/en/piano-pleyel-3bis-1911-pianos-balleron-485.html"
@@ -1796,7 +1832,7 @@ to = "/en/the-world-of-the-piano/lexicon/hammer-rail/"
 
 [[redirects]]
 from = "/organisations/pape/index.html"
-to = "/fr/organisations/pape/"
+to = "/fr/manufactures-et-partenaires/pape/"
 
 [[redirects]]
 from = "/jp/piano-pleyel-1926-260.html"
@@ -1899,8 +1935,16 @@ from = "/univers-du-piano/questions-frequentes/pourquoi-accorder-le-piano/index.
 to = "/fr/univers-du-piano/questions-frequentes/pourquoi-accorder-le-piano/"
 
 [[redirects]]
+from = "/fr/organisations/steinway/index.html"
+to = "/fr/manufactures-et-partenaires/steinway/"
+
+[[redirects]]
 from = "/fr/piano-erard-1929-253.html"
 to = "/fr/pianos/2026-piano-erard-1929/"
+
+[[redirects]]
+from = "/fr/organisations/categories/manufactures/index.html"
+to = "/fr/manufactures-et-partenaires/categories/manufactures/"
 
 [[redirects]]
 from = "/fr/univers-du-piano/lexique-sur-le-piano/flipot/index.html"
@@ -1943,8 +1987,16 @@ from = "/jp/v113-785.html"
 to = "/ja/pianos/2026-piano-pleyel-1928-5/"
 
 [[redirects]]
+from = "/fr/organisations/ibach/index.html"
+to = "/fr/manufactures-et-partenaires/ibach/"
+
+[[redirects]]
 from = "/jp/v104-771.html"
 to = "/ja/pianos/2026-piano-pleyel-1930-4/"
+
+[[redirects]]
+from = "/fr/organisations/gaveau/index.html"
+to = "/fr/manufactures-et-partenaires/gaveau/"
 
 [[redirects]]
 from = "/en/piano-pleyel-1911-235.html"
@@ -2075,6 +2127,10 @@ from = "/univers-du-piano/les-livres-sur-le-piano/index.html"
 to = "/fr/univers-du-piano/livres-sur-le-piano/"
 
 [[redirects]]
+from = "/fr/organisations/categories/partenaires/index.html"
+to = "/fr/manufactures-et-partenaires/categories/partenaires/"
+
+[[redirects]]
 from = "/ja/pianos/2026-piano-kriegelstein-1853/index.html"
 to = "/ja/pianos/2005-piano-kriegelstein-1853/"
 
@@ -2132,7 +2188,7 @@ to = "/fr/pianos/2006-piano-pleyel-1924/"
 
 [[redirects]]
 from = "/organisations/erard/index.html"
-to = "/fr/organisations/erard/"
+to = "/fr/manufactures-et-partenaires/erard/"
 
 [[redirects]]
 from = "/en/piano-gaveau-1920-337.html"
@@ -2273,6 +2329,10 @@ to = "/en/the-world-of-the-piano/lexicon/piano-forte/"
 [[redirects]]
 from = "/fr/sommier-des-chevilles-386.html"
 to = "/fr/univers-du-piano/lexique-du-piano/sommier-des-chevilles/"
+
+[[redirects]]
+from = "/fr/organisations/roller-et-blanchet/index.html"
+to = "/fr/manufactures-et-partenaires/roller-et-blanchet/"
 
 [[redirects]]
 from = "/jp/piano-seiler-1939-329.html"
@@ -2524,7 +2584,7 @@ to = "/fr/pianos/vendus/"
 
 [[redirects]]
 from = "/organisations/categories/marques/index.html"
-to = "/fr/organisations/categories/manufactures/"
+to = "/fr/manufactures-et-partenaires/categories/manufactures/"
 
 [[redirects]]
 from = "/ja/actualites/2024-01-01-vieilles-maisons-francaises-old/index.html"
@@ -2577,6 +2637,10 @@ to = "/ja/pianos/2006-piano-gaveau-1912/"
 [[redirects]]
 from = "/ja/pianos/2026-piano-pleyel-1906-1/index.html"
 to = "/ja/pianos/2024-piano-pleyel-1906-1/"
+
+[[redirects]]
+from = "/fr/organisations/steingraeber-sohne/index.html"
+to = "/fr/manufactures-et-partenaires/steingraeber-sohne/"
 
 [[redirects]]
 from = "/jp/v101-760.html"
@@ -2700,7 +2764,7 @@ to = "/fr/pianos/2007-piano-bechstein-1910/"
 
 [[redirects]]
 from = "/organisations/chambre-syndicale-de-la-facture-instrumentale/index.html"
-to = "/fr/organisations/chambre-syndicale-de-la-facture-instrumentale/"
+to = "/fr/manufactures-et-partenaires/chambre-syndicale-de-la-facture-instrumentale/"
 
 [[redirects]]
 from = "/en/piano-bechstein-1913-263.html"
@@ -2713,6 +2777,10 @@ to = "/en/pianos/2026-piano-pleyel-1928/"
 [[redirects]]
 from = "/fr/pianos-droit-a-cadre-en-bois-1860-1920-183.html"
 to = "/fr/univers-du-piano/lexique-du-piano/pianos-droit-a-cadre-en-bois-1860-1920/"
+
+[[redirects]]
+from = "/fr/organisations/bosendorfer/index.html"
+to = "/fr/manufactures-et-partenaires/bosendorfer/"
 
 [[redirects]]
 from = "/en/v131-883.html"
@@ -2808,7 +2876,7 @@ to = "/en/pianos/2026-piano-roller-et-blanchet-1835/"
 
 [[redirects]]
 from = "/organisations/steingraeber-sohne/index.html"
-to = "/fr/organisations/steingraeber-sohne/"
+to = "/fr/manufactures-et-partenaires/steingraeber-sohne/"
 
 [[redirects]]
 from = "/mentions-legales/index.html"
@@ -2871,6 +2939,10 @@ from = "/jp/r65-906.html"
 to = "/ja/pianos/2026-piano-bluthner-1902/"
 
 [[redirects]]
+from = "/fr/organisations/les-grands-ateliers-de-france/index.html"
+to = "/fr/manufactures-et-partenaires/les-grands-ateliers-de-france/"
+
+[[redirects]]
 from = "/univers-du-piano/index.html"
 to = "/fr/univers-du-piano/"
 
@@ -2899,6 +2971,10 @@ from = "/fr/piano-pleyel-1925-250.html"
 to = "/fr/pianos/2026-piano-pleyel-1925-1/"
 
 [[redirects]]
+from = "/fr/organisations/schiedmayer/index.html"
+to = "/fr/manufactures-et-partenaires/schiedmayer/"
+
+[[redirects]]
 from = "/jp/piano-gaveau-1913-342.html"
 to = "/ja/pianos/2026-piano-gaveau-1913/"
 
@@ -2913,6 +2989,10 @@ to = "/en/the-world-of-the-piano/lexicon/viennese-action/"
 [[redirects]]
 from = "/fr/manches-de-marteaux-avec-olive-neuves-162.html"
 to = "/fr/univers-du-piano/lexique-du-piano/manches-de-marteaux-avec-olive-neuves/"
+
+[[redirects]]
+from = "/fr/organisations/cyrille-jourdain/index.html"
+to = "/fr/manufactures-et-partenaires/cyrille-jourdain/"
 
 [[redirects]]
 from = "/jp/piano-pleyel-1944-324.html"
@@ -2951,8 +3031,12 @@ from = "/projets/2004-piano-erard-1926/index.html"
 to = "/fr/pianos/2004-piano-erard-1926/"
 
 [[redirects]]
+from = "/fr/organisations/kriegelstein/index.html"
+to = "/fr/manufactures-et-partenaires/kriegelstein/"
+
+[[redirects]]
 from = "/organisations/irmler/index.html"
-to = "/fr/organisations/irmler/"
+to = "/fr/manufactures-et-partenaires/irmler/"
 
 [[redirects]]
 from = "/fr/dieses-en-ebene-du-piano-177.html"
@@ -2988,7 +3072,7 @@ to = "/fr/pianos/2021-piano-gaveau-1936/"
 
 [[redirects]]
 from = "/organisations/transports-delacour-co/index.html"
-to = "/fr/organisations/transports-delacour-co/"
+to = "/fr/manufactures-et-partenaires/transports-delacour-co/"
 
 [[redirects]]
 from = "/fr/pianos/2026-piano-steinway-1905/index.html"
@@ -3096,7 +3180,7 @@ to = "/fr/pianos/2026-piano-pleyel-1847/"
 
 [[redirects]]
 from = "/organisations/burgasser/index.html"
-to = "/fr/organisations/burgasser/"
+to = "/fr/manufactures-et-partenaires/burgasser/"
 
 [[redirects]]
 from = "/fr/piano-erard-1926-59.html"
@@ -3120,7 +3204,7 @@ to = "/en/pianos/2026-piano-gaveau/"
 
 [[redirects]]
 from = "/organisations/pleyel/index.html"
-to = "/fr/organisations/pleyel/"
+to = "/fr/manufactures-et-partenaires/pleyel/"
 
 [[redirects]]
 from = "/fr/r058-899.html"
@@ -3129,6 +3213,10 @@ to = "/fr/pianos/2021-piano-pleyel-1910-2/"
 [[redirects]]
 from = "/projets/2013-piano-erard-1862/index.html"
 to = "/fr/pianos/2013-piano-erard-1862/"
+
+[[redirects]]
+from = "/fr/organisations/burgasser/index.html"
+to = "/fr/manufactures-et-partenaires/burgasser/"
 
 [[redirects]]
 from = "/ja/pianos/2026-piano-erard-1926/index.html"
@@ -3231,6 +3319,10 @@ from = "/en/piano-bluthner-1910-86.html"
 to = "/en/pianos/2026-piano-bluthner-1910/"
 
 [[redirects]]
+from = "/fr/organisations/transports-delacour-co/index.html"
+to = "/fr/manufactures-et-partenaires/transports-delacour-co/"
+
+[[redirects]]
 from = "/fr/piano-pleyel-1925-246.html"
 to = "/fr/pianos/2026-piano-pleyel-1925/"
 
@@ -3256,7 +3348,7 @@ to = "/en/the-world-of-the-piano/lexicon/pleyel-action-with-double-escapement/"
 
 [[redirects]]
 from = "/organisations/le-reseau-excellence/index.html"
-to = "/fr/organisations/le-reseau-excellence/"
+to = "/fr/manufactures-et-partenaires/le-reseau-excellence/"
 
 [[redirects]]
 from = "/fr/hygrometrie-375.html"
