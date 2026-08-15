@@ -347,6 +347,10 @@ from = "/fr/actualites/2024-01-01-film-animation-2d-sylvie-fouanon-old/index.htm
 to = "/fr/actualites/2024-01-01-film-animation-2d-sylvie-fouanon/"
 
 [[redirects]]
+from = "/fr/univers-du-piano/lexique-sur-le-piano/index.html"
+to = "/fr/univers-du-piano/lexique-du-piano/"
+
+[[redirects]]
 from = "/en/cadre-en-fonte-du-piano-156.html"
 to = "/en/the-world-of-the-piano/lexicon/cast-iron-piano-frame/"
 
@@ -400,7 +404,7 @@ to = "/fr/pianos/a-vendre/"
 
 [[redirects]]
 from = "/univers-du-piano/lexique-sur-le-piano/index.html"
-to = "/fr/univers-du-piano/lexique-sur-le-piano/"
+to = "/fr/univers-du-piano/lexique-du-piano/"
 
 [[redirects]]
 from = "/ja/projets/a-vendre/index.html"
@@ -784,7 +788,7 @@ to = "/fr/univers-du-piano/questions-frequentes/tous-les-pianos-sont-ils-reparab
 
 [[redirects]]
 from = "/lexique-sur-le-piano/index.html"
-to = "/fr/univers-du-piano/lexique-sur-le-piano/"
+to = "/fr/univers-du-piano/lexique-du-piano/"
 
 [[redirects]]
 from = "/actualites/parution-presse/index.html"
