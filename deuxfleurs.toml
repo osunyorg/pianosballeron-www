@@ -1064,7 +1064,7 @@ to = "/fr/pianos/2026-piano-pleyel-1926-4/"
 
 [[redirects]]
 from = "/en/v108-780.html"
-to = "/en/pianos/2026-piano-bluthner-1886/"
+to = "/en/pianos/2024-piano-bluthner-1886/"
 
 [[redirects]]
 from = "/organisations/categories/manufactures/index.html"
@@ -1247,6 +1247,10 @@ from = "/fr/piano-pleyel-1930-249.html"
 to = "/fr/pianos/2026-piano-pleyel-1930-1/"
 
 [[redirects]]
+from = "/fr/pianos/2026-piano-bluthner-1886/index.html"
+to = "/fr/pianos/2024-piano-bluthner-1886/"
+
+[[redirects]]
 from = "/en/pianos/2026-piano-pleyel-1926-1/index.html"
 to = "/en/pianos/2025-piano-pleyel-1926-1/"
 
@@ -1263,6 +1267,10 @@ from = "/jp/piano-pleyel-1912-222.html"
 to = "/ja/pianos/2007-piano-pleyel-1912/"
 
 [[redirects]]
+from = "/en/pianos/2026-piano-bluthner-1886/index.html"
+to = "/en/pianos/2024-piano-bluthner-1886/"
+
+[[redirects]]
 from = "/en/piano-kriegelstein-1853-178.html"
 to = "/en/pianos/2005-piano-kriegelstein-1853/"
 
@@ -1272,7 +1280,7 @@ to = "/en/the-world-of-the-piano/lexicon/piano-capstans/"
 
 [[redirects]]
 from = "/jp/v108-780.html"
-to = "/ja/pianos/2026-piano-bluthner-1886/"
+to = "/ja/pianos/2024-piano-bluthner-1886/"
 
 [[redirects]]
 from = "/jp/piano-pleyel-1930-87.html"
@@ -1888,7 +1896,7 @@ to = "/ja/pianos/2026-piano-pleyel-1924-1/"
 
 [[redirects]]
 from = "/en/v100-756.html"
-to = "/en/pianos/2026-piano-erard-1861/"
+to = "/en/pianos/2019-piano-erard-1861/"
 
 [[redirects]]
 from = "/en/pianos/2026-piano-bechstein-1910-1/index.html"
@@ -2347,6 +2355,10 @@ from = "/jp/piano-pleyel-1928-239.html"
 to = "/ja/pianos/2026-piano-pleyel-1928/"
 
 [[redirects]]
+from = "/fr/pianos/2026-piano-erard-1861/index.html"
+to = "/fr/pianos/2019-piano-erard-1861/"
+
+[[redirects]]
 from = "/jp/piano-gaveau-1928-241.html"
 to = "/ja/pianos/2026-piano-gaveau-1928/"
 
@@ -2600,7 +2612,7 @@ to = "/fr/pianos/2026-piano-pleyel-1938/"
 
 [[redirects]]
 from = "/jp/v100-756.html"
-to = "/ja/pianos/2026-piano-erard-1861/"
+to = "/ja/pianos/2019-piano-erard-1861/"
 
 [[redirects]]
 from = "/ja/pianos/2026-piano-erard-1913-1/index.html"
@@ -2641,6 +2653,10 @@ to = "/ja/pianos/2026-piano-pleyel-1927-6/"
 [[redirects]]
 from = "/personnes/index.html"
 to = "/fr/personnes/"
+
+[[redirects]]
+from = "/ja/pianos/2026-piano-erard-1861/index.html"
+to = "/ja/pianos/2019-piano-erard-1861/"
 
 [[redirects]]
 from = "/en/piano-pleyel-1930-261.html"
@@ -3043,6 +3059,10 @@ from = "/en/piano-pleyel-1910-247.html"
 to = "/en/pianos/2026-piano-pleyel-1910/"
 
 [[redirects]]
+from = "/ja/pianos/2026-piano-bluthner-1886/index.html"
+to = "/ja/pianos/2024-piano-bluthner-1886/"
+
+[[redirects]]
 from = "/en/mecanique-viennoise-392.html"
 to = "/en/the-world-of-the-piano/lexicon/viennese-action/"
 
@@ -3196,7 +3216,7 @@ to = "/fr/pianos/2026-piano-pleyel-modele-3-de-1927-style-gronkowski/"
 
 [[redirects]]
 from = "/fr/v100-756.html"
-to = "/fr/pianos/2026-piano-erard-1861/"
+to = "/fr/pianos/2019-piano-erard-1861/"
 
 [[redirects]]
 from = "/fr/piano-gaveau-1920-337.html"
@@ -3260,7 +3280,7 @@ to = "/en/pianos/2026-piano-erard-1917-1/"
 
 [[redirects]]
 from = "/fr/v108-780.html"
-to = "/fr/pianos/2026-piano-bluthner-1886/"
+to = "/fr/pianos/2024-piano-bluthner-1886/"
 
 [[redirects]]
 from = "/en/v128-852.html"
@@ -3421,6 +3441,10 @@ to = "/en/the-world-of-the-piano/lexicon/pleyel-action-with-double-escapement/"
 [[redirects]]
 from = "/organisations/le-reseau-excellence/index.html"
 to = "/fr/manufactures-et-partenaires/le-reseau-excellence/"
+
+[[redirects]]
+from = "/en/pianos/2026-piano-erard-1861/index.html"
+to = "/en/pianos/2019-piano-erard-1861/"
 
 [[redirects]]
 from = "/fr/hygrometrie-375.html"
