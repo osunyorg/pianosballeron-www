@@ -1172,7 +1172,7 @@ to = "/fr/pianos/2026-piano-pleyel-1927-6/"
 
 [[redirects]]
 from = "/fr/actualites/2026-08-14-festival-de-paques-aix-en-provence/index.html"
-to = "/fr/actualites/2022-08-14-festival-de-paques-aix-en-provence/"
+to = "/fr/actualites/2022-04-14-festival-de-paques-aix-en-provence/"
 
 [[redirects]]
 from = "/fr/double-echappement-piano-373.html"
@@ -2733,6 +2733,10 @@ to = "/fr/actualites/presse/"
 [[redirects]]
 from = "/en/organizations/categories/manufactures/index.html"
 to = "/en/organizations/categories/manufacturers/"
+
+[[redirects]]
+from = "/fr/actualites/2022-08-14-festival-de-paques-aix-en-provence/index.html"
+to = "/fr/actualites/2022-04-14-festival-de-paques-aix-en-provence/"
 
 [[redirects]]
 from = "/fr/piano-gaveau-1930-251.html"
