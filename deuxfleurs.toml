@@ -67,6 +67,10 @@ from = "/jp/piano-erard-1917-317.html"
 to = "/ja/pianos/2026-piano-erard-1917/"
 
 [[redirects]]
+from = "/en/pianos/2026-piano-bluthner-1900/index.html"
+to = "/en/pianos/2018-piano-bluthner-1900/"
+
+[[redirects]]
 from = "/projets/2007-piano-czapka-1918/index.html"
 to = "/fr/pianos/2007-piano-czapka-1918/"
 
@@ -968,7 +972,7 @@ to = "/en/pianos/2026-piano-gaveau-1924/"
 
 [[redirects]]
 from = "/jp/piano-bluthner-1900-230cm-85.html"
-to = "/ja/pianos/2026-piano-bluthner-1900/"
+to = "/ja/pianos/2018-piano-bluthner-1900/"
 
 [[redirects]]
 from = "/jp/piano-pleyel-f-1927-83.html"
@@ -1493,6 +1497,10 @@ to = "/en/the-world-of-the-piano/lexicon/cast-iron-piano-frame/"
 [[redirects]]
 from = "/jp/piano-pleyel-1910-356.html"
 to = "/ja/pianos/2026-piano-pleyel-1910-1/"
+
+[[redirects]]
+from = "/fr/pianos/2026-piano-bluthner-1900/index.html"
+to = "/fr/pianos/2018-piano-bluthner-modele-2-annee-1900-restauration-vente-en-2018/"
 
 [[redirects]]
 from = "/jp/piano-gabriel-gaveau-1920-322.html"
@@ -2044,7 +2052,7 @@ to = "/fr/pianos/2026-piano-pleyel-1918/"
 
 [[redirects]]
 from = "/en/piano-bluthner-1900-230cm-85.html"
-to = "/en/pianos/2026-piano-bluthner-1900/"
+to = "/en/pianos/2018-piano-bluthner-1900/"
 
 [[redirects]]
 from = "/en/pianos/2026-piano-steinway-1907/index.html"
@@ -2152,7 +2160,7 @@ to = "/fr/pianos/2006-piano-erard-1913/"
 
 [[redirects]]
 from = "/fr/piano-bluthner-1900-230cm-85.html"
-to = "/fr/pianos/2026-piano-bluthner-1900/"
+to = "/fr/pianos/2018-piano-bluthner-modele-2-annee-1900-restauration-vente-en-2018/"
 
 [[redirects]]
 from = "/organisations/index.html"
@@ -3197,6 +3205,10 @@ to = "/fr/manufactures-et-partenaires/burgasser/"
 [[redirects]]
 from = "/ja/pianos/2026-piano-erard-1926/index.html"
 to = "/ja/pianos/2004-piano-erard-1926/"
+
+[[redirects]]
+from = "/ja/pianos/2026-piano-bluthner-1900/index.html"
+to = "/ja/pianos/2018-piano-bluthner-1900/"
 
 [[redirects]]
 from = "/en/sommier-des-chevilles-386.html"
