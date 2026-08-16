@@ -1171,6 +1171,10 @@ from = "/fr/v119-816.html"
 to = "/fr/pianos/2026-piano-pleyel-1927-6/"
 
 [[redirects]]
+from = "/fr/actualites/2026-08-14-festival-de-paques-aix-en-provence/index.html"
+to = "/fr/actualites/2022-08-14-festival-de-paques-aix-en-provence/"
+
+[[redirects]]
 from = "/fr/double-echappement-piano-373.html"
 to = "/fr/univers-du-piano/lexique-du-piano/double-echappement-piano/"
 
