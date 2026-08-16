@@ -639,10 +639,6 @@ from = "/jp/piano-pleyel-1909-327.html"
 to = "/ja/pianos/2026-piano-pleyel-1909/"
 
 [[redirects]]
-from = "/en/pianos/2026-piano-pleyel-1908/index.html"
-to = "/en/pianos/2002-piano-pleyel-1908/"
-
-[[redirects]]
 from = "/en/v123-837.html"
 to = "/en/pianos/2026-piano-pleyel-1927-7/"
 
@@ -1109,10 +1105,6 @@ to = "/en/pianos/2025-piano-pleyel-1926-1/"
 [[redirects]]
 from = "/jp/piano-gaveau-1925-277.html"
 to = "/ja/pianos/2004-piano-gaveau-1925/"
-
-[[redirects]]
-from = "/fr/piano-pleyel-1908-307.html"
-to = "/fr/pianos/2002-piano-pleyel-1908/"
 
 [[redirects]]
 from = "/jp/piano-ehrbar-1894-314.html"
@@ -1819,10 +1811,6 @@ from = "/en/joues-des-touches-176.html"
 to = "/en/the-world-of-the-piano/lexicon/sides-of-keys/"
 
 [[redirects]]
-from = "/jp/piano-pleyel-1908-307.html"
-to = "/ja/pianos/2002-piano-pleyel-1908/"
-
-[[redirects]]
 from = "/en/v133-898.html"
 to = "/en/pianos/2026-piano-bluthner-1939/"
 
@@ -1865,10 +1853,6 @@ to = "/en/pianos/2026-piano-erard-1861/"
 [[redirects]]
 from = "/en/pianos/2026-piano-bechstein-1910-1/index.html"
 to = "/en/pianos/2007-piano-bechstein-1910/"
-
-[[redirects]]
-from = "/ja/pianos/2026-piano-pleyel-1908/index.html"
-to = "/ja/pianos/2002-piano-pleyel-1908/"
 
 [[redirects]]
 from = "/en/piano-bechstein-1935-278.html"
@@ -2179,10 +2163,6 @@ from = "/fr/piano-erard-1948-218.html"
 to = "/fr/pianos/2004-piano-erard-1948/"
 
 [[redirects]]
-from = "/en/piano-pleyel-1908-307.html"
-to = "/en/pianos/2002-piano-pleyel-1908/"
-
-[[redirects]]
 from = "/fr/piano-pleyel-1924-300.html"
 to = "/fr/pianos/2006-piano-pleyel-1924/"
 
@@ -2433,10 +2413,6 @@ to = "/ja/pianos/1995-piano-steingraeber-1915/"
 [[redirects]]
 from = "/fr/univers-du-piano/lexique-sur-le-piano/diapason/index.html"
 to = "/fr/univers-du-piano/lexique-du-piano/diapason/"
-
-[[redirects]]
-from = "/fr/pianos/2026-piano-pleyel-1908/index.html"
-to = "/fr/pianos/2002-piano-pleyel-1908/"
 
 [[redirects]]
 from = "/fr/piano-erard-1909-319.html"
