@@ -1,0 +1,3524 @@
+[[cors]]
+allowed_origins = "*"
+allowed_methods = ["GET", "POST"]
+allowed_headers = "*"
+
+[[headers]]
+for = ["**/*.woff2", "**/*.woff", "**/*.svg", "**/*.ttf", "**/*.otf", "**/*.eot", "**/*.js", "**/*.css"]
+compress = "gzip"
+[headers.values]
+Cache-Control = "max-age=31536000, no-transform, public"
+
+[[headers]]
+for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
+[headers.values]
+Cache-Control = "max-age=31536000, no-transform, public"
+
+[[redirects]]
+from = "/jp/v128-852.html"
+to = "/ja/pianos/2026-piano-gaveau/"
+
+[[redirects]]
+from = "/fr/piano-gaveau-1912-323.html"
+to = "/fr/pianos/2026-piano-gaveau-1912-1/"
+
+[[redirects]]
+from = "/en/piano-erard-1929-318.html"
+to = "/en/pianos/2026-piano-erard-1929-1/"
+
+[[redirects]]
+from = "/organisations/schiedmayer/index.html"
+to = "/fr/manufactures-et-partenaires/schiedmayer/"
+
+[[redirects]]
+from = "/en/pianos/2026-piano-steinway-1908/index.html"
+to = "/en/pianos/2008-piano-steinway-1908/"
+
+[[redirects]]
+from = "/en/pianos/2026-piano-gaveau-1927/index.html"
+to = "/en/pianos/2006-piano-gaveau-1927/"
+
+[[redirects]]
+from = "/fr/feutres-des-tetes-des-marteaux-158.html"
+to = "/fr/univers-du-piano/lexique-du-piano/feutres-des-tetes-des-marteaux/"
+
+[[redirects]]
+from = "/prestations/index.html"
+to = "/fr/prestations/"
+
+[[redirects]]
+from = "/fr/piano-steinway-1905-231.html"
+to = "/fr/pianos/2002-piano-steinway-1905/"
+
+[[redirects]]
+from = "/en/attrapes-165.html"
+to = "/en/the-world-of-the-piano/lexicon/back-checks/"
+
+[[redirects]]
+from = "/jp/v093-777.html"
+to = "/ja/pianos/2026-piano-erard-1904/"
+
+[[redirects]]
+from = "/en/v109-781.html"
+to = "/en/pianos/2026-piano-erard-1857/"
+
+[[redirects]]
+from = "/en/pianos/2026-piano-bechstein-1927/index.html"
+to = "/en/pianos/2010-piano-bechstein-1927/"
+
+[[redirects]]
+from = "/jp/piano-erard-1917-317.html"
+to = "/ja/pianos/2026-piano-erard-1917/"
+
+[[redirects]]
+from = "/en/pianos/2026-piano-bluthner-1900/index.html"
+to = "/en/pianos/2018-piano-bluthner-1900/"
+
+[[redirects]]
+from = "/projets/2007-piano-czapka-1918/index.html"
+to = "/fr/pianos/2007-piano-czapka-1918/"
+
+[[redirects]]
+from = "/projets/2013-piano-erard-1/index.html"
+to = "/fr/pianos/2013-piano-erard-1862/"
+
+[[redirects]]
+from = "/fr/mecanique-pleyel-a-double-echappement-272.html"
+to = "/fr/univers-du-piano/lexique-du-piano/mecanique-pleyel-a-double-echappement/"
+
+[[redirects]]
+from = "/fr/pianos/2026-piano-erard-1926/index.html"
+to = "/fr/pianos/2004-piano-erard-1926/"
+
+[[redirects]]
+from = "/jp/r048-469.html"
+to = "/ja/pianos/2015-piano-gaveau-1931/"
+
+[[redirects]]
+from = "/fr/piano-pleyel-3bis-1911-pianos-balleron-485.html"
+to = "/fr/pianos/2026-piano-pleyel-1911-1/"
+
+[[redirects]]
+from = "/jp/piano-erard-1926-59.html"
+to = "/ja/pianos/2004-piano-erard-1926/"
+
+[[redirects]]
+from = "/en/piano-erard-1926-59.html"
+to = "/en/pianos/2004-piano-erard-1926/"
+
+[[redirects]]
+from = "/fr/v098-736.html"
+to = "/fr/pianos/2026-piano-pleyel-1928-4/"
+
+[[redirects]]
+from = "/en/piano-erard-1912-255.html"
+to = "/en/pianos/2026-piano-erard-1912/"
+
+[[redirects]]
+from = "/ja/pianos/2026-piano-pleyel-1926-1/index.html"
+to = "/ja/pianos/2025-piano-pleyel-1926-1/"
+
+[[redirects]]
+from = "/projets/2004-piano-erard/index.html"
+to = "/fr/pianos/2004-piano-erard-1926/"
+
+[[redirects]]
+from = "/fr/pianos/2026-piano-bechstein-1927-1/index.html"
+to = "/fr/pianos/2010-piano-bechstein-1927-1/"
+
+[[redirects]]
+from = "/fr/piano-erard-1913-225.html"
+to = "/fr/pianos/2005-piano-erard-1913-1/"
+
+[[redirects]]
+from = "/jp/piano-gaveau-1925-340.html"
+to = "/ja/pianos/2026-piano-gaveau-1925-1/"
+
+[[redirects]]
+from = "/en/feutres-des-tetes-des-marteaux-158.html"
+to = "/en/the-world-of-the-piano/lexicon/hammer-felt/"
+
+[[redirects]]
+from = "/en/piano-czapka-1918-172.html"
+to = "/en/pianos/2007-piano-czapka-1918-1/"
+
+[[redirects]]
+from = "/ja/pianos/2026-piano-pleyel-1929/index.html"
+to = "/ja/pianos/2000-piano-pleyel-1929/"
+
+[[redirects]]
+from = "/organisations/etsey/index.html"
+to = "/fr/manufactures-et-partenaires/etsey/"
+
+[[redirects]]
+from = "/fr/univers-du-piano/lexique-sur-le-piano/cordes-paralleles-du-piano/index.html"
+to = "/fr/univers-du-piano/lexique-du-piano/cordes-paralleles-du-piano/"
+
+[[redirects]]
+from = "/jp/piano-bechstein-1927-266.html"
+to = "/ja/pianos/2010-piano-bechstein-1927-1/"
+
+[[redirects]]
+from = "/fr/piano-bechstein-1913-84.html"
+to = "/fr/pianos/2013-piano-bechstein-1913-1/"
+
+[[redirects]]
+from = "/ja/pianos/2026-piano-gaveau-1936/index.html"
+to = "/ja/pianos/2021-piano-gaveau-1936/"
+
+[[redirects]]
+from = "/en/posts/2026-06-22-reussir-published-by-editions-debats-publique-old/index.html"
+to = "/en/posts/2026-06-22-reussir-published-by-editions-debats-publique/"
+
+[[redirects]]
+from = "/ja/pianos/2026-piano-steinway-1905/index.html"
+to = "/ja/pianos/2002-piano-steinway-1905/"
+
+[[redirects]]
+from = "/jp/piano-pleyel-1929-236.html"
+to = "/ja/pianos/2026-piano-pleyel-1930/"
+
+[[redirects]]
+from = "/pianos/2025-piano-pleyel-1927/index.html"
+to = "/fr/pianos/2025-piano-pleyel-1927-/"
+
+[[redirects]]
+from = "/jp/v106-775.html"
+to = "/ja/pianos/2026-piano-schiedmayer-1930/"
+
+[[redirects]]
+from = "/jp/piano-pleyel-1916-267.html"
+to = "/ja/pianos/2011-piano-pleyel-1916/"
+
+[[redirects]]
+from = "/en/piano-steinway-1911-227.html"
+to = "/en/pianos/2002-piano-steinway-1911/"
+
+[[redirects]]
+from = "/en/pianos/2026-piano-pleyel-1921/index.html"
+to = "/en/pianos/2006-piano-pleyel-1921/"
+
+[[redirects]]
+from = "/fr/piano-gaveau-1927-223.html"
+to = "/fr/pianos/2006-piano-gaveau-1927/"
+
+[[redirects]]
+from = "/fr/pointes-d-enfoncement-167.html"
+to = "/fr/univers-du-piano/lexique-du-piano/pointes-denfoncement/"
+
+[[redirects]]
+from = "/en/pianos/2026-piano-bechstein-1927-1/index.html"
+to = "/en/pianos/2010-piano-bechstein-1927-1/"
+
+[[redirects]]
+from = "/en/r059-900.html"
+to = "/en/pianos/2022-piano-pleyel-1916-2/"
+
+[[redirects]]
+from = "/jp/piano-pleyel-1929-248.html"
+to = "/ja/pianos/2026-piano-pleyel-1929-2/"
+
+[[redirects]]
+from = "/en/v116-804.html"
+to = "/en/pianos/2026-piano-pleyel-2/"
+
+[[redirects]]
+from = "/en/piano-bechstein-1927-266.html"
+to = "/en/pianos/2010-piano-bechstein-1927-1/"
+
+[[redirects]]
+from = "/jp/piano-pleyel-1900-343.html"
+to = "/ja/pianos/2026-piano-pleyel-1900/"
+
+[[redirects]]
+from = "/en/pianos/2026-piano-pleyel-1916-1/index.html"
+to = "/en/pianos/2023-piano-pleyel-1916-1/"
+
+[[redirects]]
+from = "/fr/piano-erard-1928-259.html"
+to = "/fr/pianos/2026-piano-erard-1928/"
+
+[[redirects]]
+from = "/en/piano-pleyel-f-1927-83.html"
+to = "/en/pianos/2026-piano-pleyel-1927-1/"
+
+[[redirects]]
+from = "/jp/piano-bluthner-1924-268.html"
+to = "/ja/pianos/2001-piano-bluthner-1924/"
+
+[[redirects]]
+from = "/fr/univers-du-piano/lexique-sur-le-piano/mecanique-baionnette/index.html"
+to = "/fr/univers-du-piano/lexique-du-piano/mecanique-baionnette/"
+
+[[redirects]]
+from = "/jp/v109-781.html"
+to = "/ja/pianos/2026-piano-erard-1857/"
+
+[[redirects]]
+from = "/en/piano-pleyel-1910-356.html"
+to = "/en/pianos/2026-piano-pleyel-1910-1/"
+
+[[redirects]]
+from = "/fr/pianos/2026-piano-czapka-1918/index.html"
+to = "/fr/pianos/2007-piano-czapka-1918/"
+
+[[redirects]]
+from = "/fr/pianos/2026-piano-steingraeber-1915/index.html"
+to = "/fr/pianos/1995-piano-steingraeber-1915/"
+
+[[redirects]]
+from = "/fr/r048-469.html"
+to = "/fr/pianos/2015-piano-gaveau-1931/"
+
+[[redirects]]
+from = "/fr/organisations/pape/index.html"
+to = "/fr/manufactures-et-partenaires/pape/"
+
+[[redirects]]
+from = "/en/pianos/2026-piano-bechstein-1912/index.html"
+to = "/en/pianos/2003-piano-bechstein-1912/"
+
+[[redirects]]
+from = "/fr/v125-836.html"
+to = "/fr/pianos/2026-piano-bluthner-1926/"
+
+[[redirects]]
+from = "/en/r057-877.html"
+to = "/en/pianos/2023-piano-pleyel-1906/"
+
+[[redirects]]
+from = "/jp/r055-772.html"
+to = "/ja/pianos/2018-piano-erard-1882-1/"
+
+[[redirects]]
+from = "/en/pianos/2026-piano-kriegelstein-1853/index.html"
+to = "/en/pianos/2005-piano-kriegelstein-1853/"
+
+[[redirects]]
+from = "/en/pointes-d-enfoncement-167.html"
+to = "/en/the-world-of-the-piano/lexicon/guide-pins/"
+
+[[redirects]]
+from = "/jp/piano-erard-1912-255.html"
+to = "/ja/pianos/2026-piano-erard-1912/"
+
+[[redirects]]
+from = "/en/piano-bechstein-1910-169.html"
+to = "/en/pianos/2007-piano-bechstein-1910/"
+
+[[redirects]]
+from = "/jp/piano-bluthner-1905-257.html"
+to = "/ja/pianos/2026-piano-bluthner-1905/"
+
+[[redirects]]
+from = "/fr/pianos/2026-piano-steinway-1908/index.html"
+to = "/fr/pianos/2008-piano-steinway-1908/"
+
+[[redirects]]
+from = "/fr/pianos/2026-piano-pleyel-1921/index.html"
+to = "/fr/pianos/2006-piano-pleyel-1921/"
+
+[[redirects]]
+from = "/fr/univers-du-piano/lexique-sur-le-piano/double-echappement-piano/index.html"
+to = "/fr/univers-du-piano/lexique-du-piano/double-echappement-piano/"
+
+[[redirects]]
+from = "/en/piano-pleyel-1928-357.html"
+to = "/en/pianos/2026-piano-pleyel-1928-3/"
+
+[[redirects]]
+from = "/ja/pianos/2026-piano-gaveau-1931/index.html"
+to = "/ja/pianos/2015-piano-gaveau-1931/"
+
+[[redirects]]
+from = "/fr/organisations/le-reseau-excellence/index.html"
+to = "/fr/manufactures-et-partenaires/le-reseau-excellence/"
+
+[[redirects]]
+from = "/fr/piano-seiler-1939-329.html"
+to = "/fr/pianos/2026-piano-seiler-1939/"
+
+[[redirects]]
+from = "/en/v098-736.html"
+to = "/en/pianos/2026-piano-pleyel-1928-4/"
+
+[[redirects]]
+from = "/en/piano-pleyel-1925-246.html"
+to = "/en/pianos/2026-piano-pleyel-1925/"
+
+[[redirects]]
+from = "/ja/pianos/2026-piano-bechstein-1927-1/index.html"
+to = "/ja/pianos/2010-piano-bechstein-1927-1/"
+
+[[redirects]]
+from = "/fr/organisations/irmler/index.html"
+to = "/fr/manufactures-et-partenaires/irmler/"
+
+[[redirects]]
+from = "/jp/piano-erard-1935-254.html"
+to = "/ja/pianos/2026-piano-erard-1935/"
+
+[[redirects]]
+from = "/fr/r052-879.html"
+to = "/fr/pianos/2019-piano-pleyel-1936-2/"
+
+[[redirects]]
+from = "/jp/v112-784.html"
+to = "/ja/pianos/2026-piano-pleyel-1926-3/"
+
+[[redirects]]
+from = "/ja/pianos/2026-piano-pleyel-1902/index.html"
+to = "/ja/pianos/2016-piano-pleyel-1902/"
+
+[[redirects]]
+from = "/fr/univers-du-piano/lexique-sur-le-piano/mouches-enfoncement-du-piano/index.html"
+to = "/fr/univers-du-piano/lexique-du-piano/mouches-enfoncement-du-piano/"
+
+[[redirects]]
+from = "/fr/piano-pleyel-1910-356.html"
+to = "/fr/pianos/2026-piano-pleyel-1910-1/"
+
+[[redirects]]
+from = "/organisations/steinway/index.html"
+to = "/fr/manufactures-et-partenaires/steinway/"
+
+[[redirects]]
+from = "/fr/piano-bluthner-1924-268.html"
+to = "/fr/pianos/2001-piano-bluthner-1924/"
+
+[[redirects]]
+from = "/jp/v126-855.html"
+to = "/ja/pianos/2026-piano-pleyel-1929-4/"
+
+[[redirects]]
+from = "/fr/piano-pleyel-1923-242.html"
+to = "/fr/pianos/2026-piano-pleyel-1923/"
+
+[[redirects]]
+from = "/ja/pianos/2026-piano-erard-1882/index.html"
+to = "/ja/pianos/2010-piano-erard-1882/"
+
+[[redirects]]
+from = "/personnes/sylvie-fouanon/index.html"
+to = "/fr/personnes/sylvie-fouanon/"
+
+[[redirects]]
+from = "/en/pianos/2026-piano-pleyel-1916-2/index.html"
+to = "/en/pianos/2022-piano-pleyel-1916-2/"
+
+[[redirects]]
+from = "/fr/univers-du-piano/lexique-sur-le-piano/pianos-a-queue-a-cordes-paralelles/index.html"
+to = "/fr/univers-du-piano/lexique-du-piano/pianos-a-queue-a-cordes-paralelles/"
+
+[[redirects]]
+from = "/en/pianos/2026-piano-pleyel-1906/index.html"
+to = "/en/pianos/2023-piano-pleyel-1906/"
+
+[[redirects]]
+from = "/en/diapason-385.html"
+to = "/en/the-world-of-the-piano/lexicon/tuning-fork/"
+
+[[redirects]]
+from = "/questions-frequentes/index.html"
+to = "/fr/univers-du-piano/questions-frequentes/"
+
+[[redirects]]
+from = "/jp/piano-erard-1906-265.html"
+to = "/ja/pianos/2026-piano-erard-1906/"
+
+[[redirects]]
+from = "/fr/piano-schiedmayer-1905-82.html"
+to = "/fr/pianos/2026-piano-schiedmayer-1905/"
+
+[[redirects]]
+from = "/univers-du-piano/questions-frequentes/le-piano-numerique-peut-il-remplacer-le-piano-classique/index.html"
+to = "/fr/univers-du-piano/questions-frequentes/le-piano-numerique-peut-il-remplacer-le-piano-classique/"
+
+[[redirects]]
+from = "/jp/r059-900.html"
+to = "/ja/pianos/2022-piano-pleyel-1916-2/"
+
+[[redirects]]
+from = "/fr/r064-905.html"
+to = "/fr/pianos/2025-piano-pleyel-1926-1/"
+
+[[redirects]]
+from = "/en/piano-erard-1913-225.html"
+to = "/en/pianos/2005-piano-erard-1913-1/"
+
+[[redirects]]
+from = "/en/piano-erard-1909-319.html"
+to = "/en/pianos/2026-piano-erard-1909/"
+
+[[redirects]]
+from = "/ja/mentions-legales/index.html"
+to = "/ja/legal-notice/"
+
+[[redirects]]
+from = "/en/piano-pleyel-1930-87.html"
+to = "/en/pianos/2026-piano-pleyel-1930-3/"
+
+[[redirects]]
+from = "/pianos/index.html"
+to = "/fr/pianos/"
+
+[[redirects]]
+from = "/ja/pianos/2026-piano-bechstein-1913-1/index.html"
+to = "/ja/pianos/2013-piano-bechstein-1913-1/"
+
+[[redirects]]
+from = "/ja/pianos/2026-piano-erard-1847/index.html"
+to = "/ja/pianos/2003-piano-erard-1847/"
+
+[[redirects]]
+from = "/fr/pianos/2026-piano-erard-1910/index.html"
+to = "/fr/pianos/2000-piano-erard-1910/"
+
+[[redirects]]
+from = "/jp/piano-steinway-1912-312.html"
+to = "/ja/pianos/2026-piano-steinway-1912/"
+
+[[redirects]]
+from = "/en/pianos/2026-piano-bluthner-1883/index.html"
+to = "/en/pianos/2017-piano-bluthner-1883/"
+
+[[redirects]]
+from = "/fr/organisations/etsey/index.html"
+to = "/fr/manufactures-et-partenaires/etsey/"
+
+[[redirects]]
+from = "/jp/piano-gaveau-1920-341.html"
+to = "/ja/pianos/2026-piano-gaveau-1920-1/"
+
+[[redirects]]
+from = "/en/piano-erard-1918-171.html"
+to = "/en/pianos/2009-piano-erard-1918-1/"
+
+[[redirects]]
+from = "/en/posts/2024-01-01-vieilles-maisons-francaises-old/index.html"
+to = "/en/posts/2024-01-01-vieilles-maisons-francaises/"
+
+[[redirects]]
+from = "/fr/piano-erard-1917-317.html"
+to = "/fr/pianos/2026-piano-erard-1917/"
+
+[[redirects]]
+from = "/fr/piano-gaveau-1924-91.html"
+to = "/fr/pianos/2026-piano-gaveau-1924-1/"
+
+[[redirects]]
+from = "/fr/pianos/2026-piano-pleyel-1936-2/index.html"
+to = "/fr/pianos/2019-piano-pleyel-1936-2/"
+
+[[redirects]]
+from = "/fr/organisations/chambre-syndicale-de-la-facture-instrumentale/index.html"
+to = "/fr/manufactures-et-partenaires/chambre-syndicale-de-la-facture-instrumentale/"
+
+[[redirects]]
+from = "/en/piano-gaveau-1912-299.html"
+to = "/en/pianos/2006-piano-gaveau-1912/"
+
+[[redirects]]
+from = "/en/pianos/2026-piano-pleyel-1912/index.html"
+to = "/en/pianos/2007-piano-pleyel-1912/"
+
+[[redirects]]
+from = "/jp/piano-pleyel-1923-88.html"
+to = "/ja/pianos/2026-piano-pleyel-1923-2/"
+
+[[redirects]]
+from = "/fr/univers-du-piano/lexique-sur-le-piano/feutres-des-tetes-des-marteaux/index.html"
+to = "/fr/univers-du-piano/lexique-du-piano/feutres-des-tetes-des-marteaux/"
+
+[[redirects]]
+from = "/ja/pianos/2026-piano-pleyel-1912/index.html"
+to = "/ja/pianos/2007-piano-pleyel-1912/"
+
+[[redirects]]
+from = "/fr/organisations/erard/index.html"
+to = "/fr/manufactures-et-partenaires/erard/"
+
+[[redirects]]
+from = "/fr/piano-schiedmayer-1873-238.html"
+to = "/fr/pianos/2026-piano-schiedmayer-1873/"
+
+[[redirects]]
+from = "/en/piano-pleyel-1918-245.html"
+to = "/en/pianos/2026-piano-pleyel-1918/"
+
+[[redirects]]
+from = "/en/piano-pleyel-1928-334.html"
+to = "/en/pianos/2026-piano-pleyel-1928-2/"
+
+[[redirects]]
+from = "/fr/flipot-374.html"
+to = "/fr/univers-du-piano/lexique-du-piano/flipot/"
+
+[[redirects]]
+from = "/jp/piano-steinway-1905-231.html"
+to = "/ja/pianos/2002-piano-steinway-1905/"
+
+[[redirects]]
+from = "/jp/piano-pleyel-1925-246.html"
+to = "/ja/pianos/2026-piano-pleyel-1925/"
+
+[[redirects]]
+from = "/fr/piano-bluthner-1883-237.html"
+to = "/fr/pianos/2017-piano-bluthner-1883/"
+
+[[redirects]]
+from = "/en/piano-pleyel-1923-242.html"
+to = "/en/pianos/2026-piano-pleyel-1923/"
+
+[[redirects]]
+from = "/en/pianos/2026-piano-pleyel-1936-2/index.html"
+to = "/en/pianos/2019-piano-pleyel-1936-2/"
+
+[[redirects]]
+from = "/ja/pianos/2026-piano-erard-1910/index.html"
+to = "/ja/pianos/2000-piano-erard-1910/"
+
+[[redirects]]
+from = "/en/pianos/2026-piano-bechstein-1930-1/index.html"
+to = "/en/pianos/2008-piano-bechstein-1930-1/"
+
+[[redirects]]
+from = "/en/v132-884.html"
+to = "/en/pianos/2026-piano-pleyel-1926-4/"
+
+[[redirects]]
+from = "/fr/pianos/2026-piano-pleyel-1924/index.html"
+to = "/fr/pianos/2006-piano-pleyel-1924/"
+
+[[redirects]]
+from = "/ja/pianos/2026-piano-pleyel-1927-1/index.html"
+to = "/ja/pianos/2018-piano-pleyel-1927-1/"
+
+[[redirects]]
+from = "/organisations/cyrille-jourdain/index.html"
+to = "/fr/manufactures-et-partenaires/cyrille-jourdain/"
+
+[[redirects]]
+from = "/fr/mouches-enfoncement-du-piano-168.html"
+to = "/fr/univers-du-piano/lexique-du-piano/mouches-enfoncement-du-piano/"
+
+[[redirects]]
+from = "/jp/piano-pleyel-1923-242.html"
+to = "/ja/pianos/2026-piano-pleyel-1923/"
+
+[[redirects]]
+from = "/ja/pianos/2026-piano-erard-1882-1/index.html"
+to = "/ja/pianos/2018-piano-erard-1882-1/"
+
+[[redirects]]
+from = "/pianos/2007-piano-czapka-1918/index.html"
+to = "/fr/pianos/2007-piano-czapka-1918/"
+
+[[redirects]]
+from = "/fr/piano-etsey-1913-320.html"
+to = "/fr/pianos/2026-piano-etsey-1913/"
+
+[[redirects]]
+from = "/jp/r052-879.html"
+to = "/ja/pianos/2019-piano-pleyel-1936-2/"
+
+[[redirects]]
+from = "/fr/agrafe-36.html"
+to = "/fr/univers-du-piano/lexique-du-piano/agrafe/"
+
+[[redirects]]
+from = "/ja/pianos/2026-piano-erard-1948/index.html"
+to = "/ja/pianos/2004-piano-erard-1948/"
+
+[[redirects]]
+from = "/fr/pianos/2026-piano-erard-1882-1/index.html"
+to = "/fr/pianos/2018-piano-erard-1882-1/"
+
+[[redirects]]
+from = "/fr/pianos/2026-piano-gaveau-1931/index.html"
+to = "/fr/pianos/2015-piano-gaveau-1931/"
+
+[[redirects]]
+from = "/fr/pianos/2026-piano-pleyel-1927-2/index.html"
+to = "/fr/pianos/2018-piano-pleyel-1927-2/"
+
+[[redirects]]
+from = "/fr/piano-bechstein-1927-258.html"
+to = "/fr/pianos/2010-piano-bechstein-1927/"
+
+[[redirects]]
+from = "/jp/piano-steinway-1908-228.html"
+to = "/ja/pianos/2008-piano-steinway-1908/"
+
+[[redirects]]
+from = "/en/piano-erard-1915-216.html"
+to = "/en/pianos/2008-piano-erard-1915/"
+
+[[redirects]]
+from = "/fr/univers-du-piano/lexique-sur-le-piano/fabrication-des-bouclettes-francaises/index.html"
+to = "/fr/univers-du-piano/lexique-du-piano/fabrication-des-bouclettes-francaises/"
+
+[[redirects]]
+from = "/fr/v106-775.html"
+to = "/fr/pianos/2026-piano-schiedmayer-1930/"
+
+[[redirects]]
+from = "/jp/piano-pleyel-1909-327.html"
+to = "/ja/pianos/2026-piano-pleyel-1909/"
+
+[[redirects]]
+from = "/en/v123-837.html"
+to = "/en/pianos/2026-piano-pleyel-1927-7/"
+
+[[redirects]]
+from = "/fr/actualites/2024-01-01-vieilles-maisons-francaises-old/index.html"
+to = "/fr/actualites/2024-01-01-vieilles-maisons-francaises/"
+
+[[redirects]]
+from = "/en/piano-schiedmayer-1905-82.html"
+to = "/en/pianos/2026-piano-schiedmayer-1905/"
+
+[[redirects]]
+from = "/en/pianos/2026-piano-gaveau-1931/index.html"
+to = "/en/pianos/2015-piano-gaveau-1931/"
+
+[[redirects]]
+from = "/jp/r064-905.html"
+to = "/ja/pianos/2025-piano-pleyel-1926-1/"
+
+[[redirects]]
+from = "/jp/piano-schiedmayer-1905-82.html"
+to = "/ja/pianos/2026-piano-schiedmayer-1905/"
+
+[[redirects]]
+from = "/fr/univers-du-piano/lexique-sur-le-piano/agrafe/index.html"
+to = "/fr/univers-du-piano/lexique-du-piano/agrafe/"
+
+[[redirects]]
+from = "/en/pianos/2026-piano-erard-1948/index.html"
+to = "/en/pianos/2004-piano-erard-1948/"
+
+[[redirects]]
+from = "/en/piano-erard-1935-254.html"
+to = "/en/pianos/2026-piano-erard-1935/"
+
+[[redirects]]
+from = "/jp/v103-766.html"
+to = "/ja/pianos/2026-piano-pleyel-1926-2/"
+
+[[redirects]]
+from = "/fr/piano-gaveau-1925-277.html"
+to = "/fr/pianos/2004-piano-gaveau-1925/"
+
+[[redirects]]
+from = "/univers-du-piano/questions-frequentes/index.html"
+to = "/fr/univers-du-piano/questions-frequentes/"
+
+[[redirects]]
+from = "/projets/2007-piano-czapka/index.html"
+to = "/fr/pianos/2007-piano-czapka-1918/"
+
+[[redirects]]
+from = "/fr/v093-777.html"
+to = "/fr/pianos/2026-piano-erard-1904/"
+
+[[redirects]]
+from = "/projets/2007-piano-bechstein-1/index.html"
+to = "/fr/pianos/2007-piano-bechstein-1910/"
+
+[[redirects]]
+from = "/fr/organisations/bluthner/index.html"
+to = "/fr/manufactures-et-partenaires/bluthner/"
+
+[[redirects]]
+from = "/en/piano-gabriel-gaveau-1920-322.html"
+to = "/en/pianos/2026-piano-gabriel-gaveau-1920-1/"
+
+[[redirects]]
+from = "/fr/piano-ehrbar-1894-314.html"
+to = "/fr/pianos/2026-piano-ehrbar-1894/"
+
+[[redirects]]
+from = "/en/piano-pleyel-1931-355.html"
+to = "/en/pianos/2026-piano-pleyel-1931-1/"
+
+[[redirects]]
+from = "/en/r058-899.html"
+to = "/en/pianos/2021-piano-pleyel-1910-2/"
+
+[[redirects]]
+from = "/fr/univers-du-piano/lexique-sur-le-piano/mecanique-viennoise/index.html"
+to = "/fr/univers-du-piano/lexique-du-piano/mecanique-viennoise/"
+
+[[redirects]]
+from = "/jp/piano-grotrian-steinweg-1967-313.html"
+to = "/ja/pianos/2026-piano-grotrian-steinweg-1967/"
+
+[[redirects]]
+from = "/fr/univers-du-piano/lexique-sur-le-piano/attrapes/index.html"
+to = "/fr/univers-du-piano/lexique-du-piano/attrapes/"
+
+[[redirects]]
+from = "/fr/piano-pleyel-1910-247.html"
+to = "/fr/pianos/2026-piano-pleyel-1910/"
+
+[[redirects]]
+from = "/fr/piano-gaveau-1927-339.html"
+to = "/fr/pianos/2026-piano-gaveau-1927-1/"
+
+[[redirects]]
+from = "/en/piano-pleyel-1929-232.html"
+to = "/en/pianos/2000-piano-pleyel-1929/"
+
+[[redirects]]
+from = "/ja/pianos/2026-piano-pleyel-1936/index.html"
+to = "/ja/pianos/2014-piano-pleyel-1936/"
+
+[[redirects]]
+from = "/fr/piano-grotrian-steinweg-1967-313.html"
+to = "/fr/pianos/2026-piano-grotrian-steinweg-1967/"
+
+[[redirects]]
+from = "/univers-du-piano/questions-frequentes/quest-que-laccord-dun-piano/index.html"
+to = "/fr/univers-du-piano/questions-frequentes/quest-que-laccord-dun-piano/"
+
+[[redirects]]
+from = "/fr/cle-d-accord-du-piano-382.html"
+to = "/fr/univers-du-piano/lexique-du-piano/cle-daccord-du-piano/"
+
+[[redirects]]
+from = "/jp/piano-bechstein-1913-263.html"
+to = "/ja/pianos/2012-piano-bechstein-1913/"
+
+[[redirects]]
+from = "/en/piano-gaveau-1927-339.html"
+to = "/en/pianos/2026-piano-gaveau-1927-1/"
+
+[[redirects]]
+from = "/en/piano-pleyel-1909-327.html"
+to = "/en/pianos/2026-piano-pleyel-1909/"
+
+[[redirects]]
+from = "/univers-du-piano/les-grandes-marques-de-pianos-marques-et-manufactures-de-pianos/index.html"
+to = "/fr/univers-du-piano/marques-et-manufactures-de-pianos/"
+
+[[redirects]]
+from = "/fr/v112-784.html"
+to = "/fr/pianos/2026-piano-pleyel-1926-3/"
+
+[[redirects]]
+from = "/jp/piano-pleyel-1928-334.html"
+to = "/ja/pianos/2026-piano-pleyel-1928-2/"
+
+[[redirects]]
+from = "/fr/piano-bechstein-1927-266.html"
+to = "/fr/pianos/2010-piano-bechstein-1927-1/"
+
+[[redirects]]
+from = "/en/piano-pleyel-1926-260.html"
+to = "/en/pianos/2026-piano-pleyel-1926/"
+
+[[redirects]]
+from = "/fr/pianos/2026-piano-pleyel-1916-2/index.html"
+to = "/fr/pianos/2022-piano-pleyel-1916-2/"
+
+[[redirects]]
+from = "/en/v105-770.html"
+to = "/en/pianos/2026-piano-pleyel-1929-3/"
+
+[[redirects]]
+from = "/en/piano-erard-1882-230.html"
+to = "/en/pianos/2010-piano-erard-1882/"
+
+[[redirects]]
+from = "/jp/v125-836.html"
+to = "/ja/pianos/2026-piano-bluthner-1926/"
+
+[[redirects]]
+from = "/jp/piano-pleyel-1928-357.html"
+to = "/ja/pianos/2026-piano-pleyel-1928-3/"
+
+[[redirects]]
+from = "/fr/pianos/2026-piano-erard-1882/index.html"
+to = "/fr/pianos/2010-piano-erard-1882/"
+
+[[redirects]]
+from = "/organisations/kriegelstein/index.html"
+to = "/fr/manufactures-et-partenaires/kriegelstein/"
+
+[[redirects]]
+from = "/jp/piano-gaveau-1927-339.html"
+to = "/ja/pianos/2026-piano-gaveau-1927-1/"
+
+[[redirects]]
+from = "/en/r65-906.html"
+to = "/en/pianos/2026-piano-bluthner-1902/"
+
+[[redirects]]
+from = "/fr/barres-de-table-ou-barettes-370.html"
+to = "/fr/univers-du-piano/lexique-du-piano/barres-de-table-ou-barettes/"
+
+[[redirects]]
+from = "/jp/v127-853.html"
+to = "/ja/pianos/2026-piano-pleyel-1927-7/"
+
+[[redirects]]
+from = "/jp/piano-erard-1913-181.html"
+to = "/ja/pianos/2006-piano-erard-1913/"
+
+[[redirects]]
+from = "/jp/piano-bluthner-1910-86.html"
+to = "/ja/pianos/2026-piano-bluthner-1910/"
+
+[[redirects]]
+from = "/en/piano-bosendorfer-1915-221.html"
+to = "/en/pianos/2008-piano-bosendorfer-1915/"
+
+[[redirects]]
+from = "/organisations/les-grands-ateliers-de-france/index.html"
+to = "/fr/manufactures-et-partenaires/les-grands-ateliers-de-france/"
+
+[[redirects]]
+from = "/fr/piano-bechstein-1912-220.html"
+to = "/fr/pianos/2003-piano-bechstein-1912/"
+
+[[redirects]]
+from = "/univers-du-piano/questions-frequentes/les-risques-de-lachat-dun-piano-par-petites-annonces/index.html"
+to = "/fr/univers-du-piano/questions-frequentes/les-risques-de-lachat-dun-piano-par-petites-annonces/"
+
+[[redirects]]
+from = "/jp/piano-erard-1926-94.html"
+to = "/ja/pianos/2026-piano-erard-1926-1/"
+
+[[redirects]]
+from = "/jp/piano-gaveau-1912-323.html"
+to = "/ja/pianos/2026-piano-gaveau-1912-1/"
+
+[[redirects]]
+from = "/fr/univers-du-piano/lexique-sur-le-piano/manches-de-marteaux-avec-olive-neuves/index.html"
+to = "/fr/univers-du-piano/lexique-du-piano/manches-de-marteaux-avec-olive-neuves/"
+
+[[redirects]]
+from = "/en/piano-erard-1929-253.html"
+to = "/en/pianos/2026-piano-erard-1929/"
+
+[[redirects]]
+from = "/fr/pianos/2026-piano-erard-1847/index.html"
+to = "/fr/pianos/2003-piano-erard-1847/"
+
+[[redirects]]
+from = "/fr/diapason-385.html"
+to = "/fr/univers-du-piano/lexique-du-piano/diapason/"
+
+[[redirects]]
+from = "/en/mortaises-de-balancier-du-clavier-173.html"
+to = "/en/the-world-of-the-piano/lexicon/keyboard-balance-mortises/"
+
+[[redirects]]
+from = "/ja/pianos/2026-piano-erard-1862/index.html"
+to = "/ja/pianos/2013-piano-erard-1862/"
+
+[[redirects]]
+from = "/fr/piano-pleyel-1911-235.html"
+to = "/fr/pianos/2026-piano-pleyel-1911/"
+
+[[redirects]]
+from = "/en/pianos/2026-piano-bosendorfer-1915/index.html"
+to = "/en/pianos/2008-piano-bosendorfer-1915/"
+
+[[redirects]]
+from = "/fr/univers-du-piano/lexique-sur-le-piano/cle-daccord-du-piano/index.html"
+to = "/fr/univers-du-piano/lexique-du-piano/cle-daccord-du-piano/"
+
+[[redirects]]
+from = "/fr/pianos/2026-piano-pleyel-1936/index.html"
+to = "/fr/pianos/2014-piano-pleyel-1936/"
+
+[[redirects]]
+from = "/en/pianos/2026-piano-pleyel-1927-2/index.html"
+to = "/en/pianos/2018-piano-pleyel-1927-2/"
+
+[[redirects]]
+from = "/en/v112-784.html"
+to = "/en/pianos/2026-piano-pleyel-1926-3/"
+
+[[redirects]]
+from = "/en/pianos/2026-piano-gaveau-1936/index.html"
+to = "/en/pianos/2021-piano-gaveau-1936/"
+
+[[redirects]]
+from = "/en/v127-853.html"
+to = "/en/pianos/2026-piano-pleyel-1927-8/"
+
+[[redirects]]
+from = "/en/v118-814.html"
+to = "/en/pianos/2026-piano-pleyel-1928-6/"
+
+[[redirects]]
+from = "/en/ivoire-des-touches-de-piano-175.html"
+to = "/en/the-world-of-the-piano/lexicon/key-ivory/"
+
+[[redirects]]
+from = "/en/piano-pleyel-1923-88.html"
+to = "/en/pianos/2026-piano-pleyel-1923-2/"
+
+[[redirects]]
+from = "/fr/piano-pleyel-1921-179.html"
+to = "/fr/pianos/2006-piano-pleyel-1921/"
+
+[[redirects]]
+from = "/projets/a-vendre/index.html"
+to = "/fr/pianos/a-vendre/"
+
+[[redirects]]
+from = "/fr/v126-855.html"
+to = "/fr/pianos/2026-piano-pleyel-1929-4/"
+
+[[redirects]]
+from = "/fr/pianos/2026-piano-bechstein-1930-1/index.html"
+to = "/fr/pianos/2008-piano-bechstein-1930-1/"
+
+[[redirects]]
+from = "/jp/r058-899.html"
+to = "/ja/pianos/2021-piano-pleyel-1910-2/"
+
+[[redirects]]
+from = "/pianos/2013-piano-erard-1862/index.html"
+to = "/fr/pianos/2013-piano-erard-1862/"
+
+[[redirects]]
+from = "/actualites/article/index.html"
+to = "/fr/actualites/articles/"
+
+[[redirects]]
+from = "/en/piano-gaveau-1924-252.html"
+to = "/en/pianos/2026-piano-gaveau-1924/"
+
+[[redirects]]
+from = "/jp/piano-bluthner-1900-230cm-85.html"
+to = "/ja/pianos/2018-piano-bluthner-1900/"
+
+[[redirects]]
+from = "/jp/piano-pleyel-f-1927-83.html"
+to = "/ja/pianos/2026-piano-pleyel-1927/"
+
+[[redirects]]
+from = "/fr/piano-pleyel-1912-222.html"
+to = "/fr/pianos/2007-piano-pleyel-1912/"
+
+[[redirects]]
+from = "/jp/v118-814.html"
+to = "/ja/pianos/2026-piano-pleyel-1928-6/"
+
+[[redirects]]
+from = "/en/v125-836.html"
+to = "/en/pianos/2026-piano-bluthner-1926/"
+
+[[redirects]]
+from = "/en/r063-904.html"
+to = "/en/pianos/2024-piano-pleyel-1906-1/"
+
+[[redirects]]
+from = "/en/etouffoir-du-piano-372.html"
+to = "/en/the-world-of-the-piano/lexicon/piano-damper/"
+
+[[redirects]]
+from = "/jp/piano-gaveau-1930-251.html"
+to = "/ja/pianos/2026-piano-gaveau-1930/"
+
+[[redirects]]
+from = "/en/piano-ehrbar-1894-314.html"
+to = "/en/pianos/2026-piano-ehrbar-1894/"
+
+[[redirects]]
+from = "/en/piano-erard-1862-170-170.html"
+to = "/en/pianos/2013-piano-erard-1862-1/"
+
+[[redirects]]
+from = "/personnes/akiko-wada/index.html"
+to = "/fr/personnes/akiko-wada/"
+
+[[redirects]]
+from = "/jp/agrafe-36.html"
+to = "/ja/univers-du-piano/lexicon/agurafu/"
+
+[[redirects]]
+from = "/en/piano-etsey-1913-320.html"
+to = "/en/pianos/2026-piano-etsey-1913/"
+
+[[redirects]]
+from = "/fr/piano-bluthner-1905-257.html"
+to = "/fr/pianos/2026-piano-bluthner-1905/"
+
+[[redirects]]
+from = "/personnes/categories/eleves/index.html"
+to = "/fr/personnes/categories/eleves/"
+
+[[redirects]]
+from = "/fr/etouffoir-du-piano-372.html"
+to = "/fr/univers-du-piano/lexique-du-piano/etouffoir-du-piano/"
+
+[[redirects]]
+from = "/fr/v132-884.html"
+to = "/fr/pianos/2026-piano-pleyel-1926-4/"
+
+[[redirects]]
+from = "/en/v108-780.html"
+to = "/en/pianos/2026-piano-bluthner-1886/"
+
+[[redirects]]
+from = "/organisations/categories/manufactures/index.html"
+to = "/fr/manufactures-et-partenaires/categories/manufactures/"
+
+[[redirects]]
+from = "/en/pianos/2026-piano-erard-1926/index.html"
+to = "/en/pianos/2004-piano-erard-1926/"
+
+[[redirects]]
+from = "/offres/index.html"
+to = "/fr/offres/"
+
+[[redirects]]
+from = "/fr/piano-gaveau-1922-264.html"
+to = "/fr/pianos/2026-piano-gaveau-1922/"
+
+[[redirects]]
+from = "/en/pianos/2026-piano-pleyel-1924/index.html"
+to = "/en/pianos/2006-piano-pleyel-1924/"
+
+[[redirects]]
+from = "/projets/2009-piano-erard-1918/index.html"
+to = "/fr/pianos/2009-piano-erard-1918/"
+
+[[redirects]]
+from = "/jp/v098-736.html"
+to = "/ja/pianos/2026-piano-pleyel-1928-4/"
+
+[[redirects]]
+from = "/fr/univers-du-piano/lexique-sur-le-piano/barres-de-table-ou-barettes/index.html"
+to = "/fr/univers-du-piano/lexique-du-piano/barres-de-table-ou-barettes/"
+
+[[redirects]]
+from = "/en/r053-882.html"
+to = "/en/pianos/2018-piano-pleyel-1927-2/"
+
+[[redirects]]
+from = "/jp/piano-bosendorfer-1915-221.html"
+to = "/ja/pianos/2008-piano-bosendorfer-1915/"
+
+[[redirects]]
+from = "/en/mecanique-schwander-157.html"
+to = "/en/the-world-of-the-piano/lexicon/schwander-action/"
+
+[[redirects]]
+from = "/pianos/vendu/index.html"
+to = "/fr/pianos/vendus/"
+
+[[redirects]]
+from = "/fr/piano-pleyel-1928-239.html"
+to = "/fr/pianos/2026-piano-pleyel-1928/"
+
+[[redirects]]
+from = "/ja/pianos/2026-piano-gabriel-gaveau-1920/index.html"
+to = "/ja/pianos/2008-piano-gabriel-gaveau-1920/"
+
+[[redirects]]
+from = "/ja/pianos/2026-piano-gaveau-1912/index.html"
+to = "/ja/pianos/2006-piano-gaveau-1912/"
+
+[[redirects]]
+from = "/en/r064-905.html"
+to = "/en/pianos/2025-piano-pleyel-1926-1/"
+
+[[redirects]]
+from = "/jp/piano-gaveau-1925-277.html"
+to = "/ja/pianos/2004-piano-gaveau-1925/"
+
+[[redirects]]
+from = "/jp/piano-ehrbar-1894-314.html"
+to = "/ja/pianos/2026-piano-ehrbar-1894/"
+
+[[redirects]]
+from = "/projets/2025-piano-gaveau/index.html"
+to = "/fr/pianos/2025-piano-gaveau-1932/"
+
+[[redirects]]
+from = "/jp/piano-pleyel-1911-235.html"
+to = "/ja/pianos/2026-piano-pleyel-1911/"
+
+[[redirects]]
+from = "/fr/pianos/2026-piano-gaveau-1912/index.html"
+to = "/fr/pianos/2006-piano-gaveau-1912/"
+
+[[redirects]]
+from = "/fr/r054-881.html"
+to = "/fr/pianos/2023-piano-pleyel-1916-1/"
+
+[[redirects]]
+from = "/jp/v121-818.html"
+to = "/ja/pianos/2026-piano-gaveau-1932/"
+
+[[redirects]]
+from = "/fr/piano-gaveau-1912-299.html"
+to = "/fr/pianos/2006-piano-gaveau-1912/"
+
+[[redirects]]
+from = "/en/piano-bosendorfer-1980-58.html"
+to = "/en/pianos/2026-piano-bosendorfer-1980/"
+
+[[redirects]]
+from = "/fr/v119-816.html"
+to = "/fr/pianos/2026-piano-pleyel-1927-6/"
+
+[[redirects]]
+from = "/fr/double-echappement-piano-373.html"
+to = "/fr/univers-du-piano/lexique-du-piano/double-echappement-piano/"
+
+[[redirects]]
+from = "/projets/index.html"
+to = "/fr/pianos/"
+
+[[redirects]]
+from = "/fr/piano-erard-1862-170-170.html"
+to = "/fr/pianos/2013-piano-erard-1862/"
+
+[[redirects]]
+from = "/fr/piano-erard-1912-255.html"
+to = "/fr/pianos/2026-piano-erard-1912/"
+
+[[redirects]]
+from = "/en/v120-815.html"
+to = "/en/pianos/2026-piano-steingraeber-1900/"
+
+[[redirects]]
+from = "/en/pianos-a-queue-a-cordes-paralelles-182.html"
+to = "/en/the-world-of-the-piano/lexicon/straight-strung-grand-pianos/"
+
+[[redirects]]
+from = "/fr/univers-du-piano/lexique-sur-le-piano/rouleaux-des-marteaux-de-piano/index.html"
+to = "/fr/univers-du-piano/lexique-du-piano/rouleaux-des-marteaux-de-piano/"
+
+[[redirects]]
+from = "/fr/piano-gaveau-1920-341.html"
+to = "/fr/pianos/2026-piano-gaveau-1920-1/"
+
+[[redirects]]
+from = "/fr/piano-pleyel-1929-248.html"
+to = "/fr/pianos/2026-piano-pleyel-1929-2/"
+
+[[redirects]]
+from = "/en/manches-de-marteaux-avec-olive-neuves-162.html"
+to = "/en/the-world-of-the-piano/lexicon/new-hammer-shanks-with-flanges/"
+
+[[redirects]]
+from = "/fr/attrapes-165.html"
+to = "/fr/univers-du-piano/lexique-du-piano/attrapes/"
+
+[[redirects]]
+from = "/jp/piano-pleyel-1932-244.html"
+to = "/ja/pianos/2026-piano-pleyel-1932/"
+
+[[redirects]]
+from = "/univers-du-piano/questions-frequentes/quest-ce-quun-piano-ancien/index.html"
+to = "/fr/univers-du-piano/questions-frequentes/quest-ce-quun-piano-ancien/"
+
+[[redirects]]
+from = "/organisations/gaveau/index.html"
+to = "/fr/manufactures-et-partenaires/gaveau/"
+
+[[redirects]]
+from = "/en/r061-902.html"
+to = "/en/pianos/2021-piano-gaveau-1936/"
+
+[[redirects]]
+from = "/fr/chevilles-du-piano-371.html"
+to = "/fr/univers-du-piano/lexique-du-piano/chevilles-du-piano/"
+
+[[redirects]]
+from = "/ja/pianos/2026-piano-pleyel-1924/index.html"
+to = "/ja/pianos/2006-piano-pleyel-1924/"
+
+[[redirects]]
+from = "/fr/piano-pleyel-1930-249.html"
+to = "/fr/pianos/2026-piano-pleyel-1930-1/"
+
+[[redirects]]
+from = "/en/pianos/2026-piano-pleyel-1926-1/index.html"
+to = "/en/pianos/2025-piano-pleyel-1926-1/"
+
+[[redirects]]
+from = "/projets/2008-piano-bechstein-1930/index.html"
+to = "/fr/pianos/2008-piano-bechstein-1930/"
+
+[[redirects]]
+from = "/en/piano-steinway-1912-312.html"
+to = "/en/pianos/2026-piano-steinway-1912/"
+
+[[redirects]]
+from = "/jp/piano-pleyel-1912-222.html"
+to = "/ja/pianos/2007-piano-pleyel-1912/"
+
+[[redirects]]
+from = "/en/piano-kriegelstein-1853-178.html"
+to = "/en/pianos/2005-piano-kriegelstein-1853/"
+
+[[redirects]]
+from = "/en/pilotes-du-piano-174.html"
+to = "/en/the-world-of-the-piano/lexicon/piano-capstans/"
+
+[[redirects]]
+from = "/jp/v108-780.html"
+to = "/ja/pianos/2026-piano-bluthner-1886/"
+
+[[redirects]]
+from = "/jp/piano-pleyel-1930-87.html"
+to = "/ja/pianos/2026-piano-pleyel-1930-3/"
+
+[[redirects]]
+from = "/en/pianos/2026-piano-czapka-1918-1/index.html"
+to = "/en/pianos/2007-piano-czapka-1918-1/"
+
+[[redirects]]
+from = "/ja/pianos/2026-piano-gaveau-1922-1/index.html"
+to = "/ja/pianos/2022-piano-gaveau-1922-1/"
+
+[[redirects]]
+from = "/ja/pianos/2026-piano-pleyel-1906/index.html"
+to = "/ja/pianos/2023-piano-pleyel-1906/"
+
+[[redirects]]
+from = "/jp/piano-bechstein-1935-278.html"
+to = "/ja/pianos/2014-piano-bechstein-1935/"
+
+[[redirects]]
+from = "/fr/pianos/2026-piano-erard-1913/index.html"
+to = "/fr/pianos/2006-piano-erard-1913/"
+
+[[redirects]]
+from = "/jp/piano-erard-1882-230.html"
+to = "/ja/pianos/2010-piano-erard-1882/"
+
+[[redirects]]
+from = "/jp/piano-pleyel-1930-249.html"
+to = "/ja/pianos/2026-piano-pleyel-1930-1/"
+
+[[redirects]]
+from = "/en/v102-765.html"
+to = "/en/pianos/2026-piano-pleyel-1927-4/"
+
+[[redirects]]
+from = "/univers-du-piano/questions-frequentes/le-transport-des-pianos-une-affaire-de-specialistes/index.html"
+to = "/fr/univers-du-piano/questions-frequentes/le-transport-des-pianos-une-affaire-de-specialistes/"
+
+[[redirects]]
+from = "/jp/piano-steinway-1911-227.html"
+to = "/ja/pianos/2002-piano-steinway-1911/"
+
+[[redirects]]
+from = "/fr/piano-pleyel-1926-260.html"
+to = "/fr/pianos/2026-piano-pleyel-1926/"
+
+[[redirects]]
+from = "/personnes/marion-laine/index.html"
+to = "/fr/personnes/marion-laine/"
+
+[[redirects]]
+from = "/fr/v128-852.html"
+to = "/fr/pianos/2026-piano-gaveau/"
+
+[[redirects]]
+from = "/le-piano-numerique-peut-il-remplacer-le-piano-classique/index.html"
+to = "/fr/univers-du-piano/questions-frequentes/le-piano-numerique-peut-il-remplacer-le-piano-classique/"
+
+[[redirects]]
+from = "/fr/fabrication-des-bouclettes-fran-aises-378.html"
+to = "/fr/univers-du-piano/lexique-du-piano/fabrication-des-bouclettes-francaises/"
+
+[[redirects]]
+from = "/fr/joues-des-touches-176.html"
+to = "/fr/univers-du-piano/lexique-du-piano/joues-des-touches/"
+
+[[redirects]]
+from = "/pianos/2008-piano-bechstein-1930/index.html"
+to = "/fr/pianos/2008-piano-bechstein-1930/"
+
+[[redirects]]
+from = "/organisations/roller-et-blanchet/index.html"
+to = "/fr/manufactures-et-partenaires/roller-et-blanchet/"
+
+[[redirects]]
+from = "/fr/v121-818.html"
+to = "/fr/pianos/2026-piano-gaveau-1932/"
+
+[[redirects]]
+from = "/fr/pianoforte-390.html"
+to = "/fr/univers-du-piano/lexique-du-piano/pianoforte/"
+
+[[redirects]]
+from = "/fr/piano-pleyel-1928-333.html"
+to = "/fr/pianos/2026-piano-pleyel-1928-1/"
+
+[[redirects]]
+from = "/fr/v127-853.html"
+to = "/fr/pianos/2026-piano-pleyel-modele-3-de-1927-style-gronkowski/"
+
+[[redirects]]
+from = "/jp/v110-782.html"
+to = "/ja/pianos/2026-piano-pleyel-1927-4/"
+
+[[redirects]]
+from = "/jp/piano-kriegelstein-1853-178.html"
+to = "/ja/pianos/2005-piano-kriegelstein-1853/"
+
+[[redirects]]
+from = "/organisations/jczapka/index.html"
+to = "/fr/manufactures-et-partenaires/jczapka/"
+
+[[redirects]]
+from = "/fr/organisations/pleyel/index.html"
+to = "/fr/manufactures-et-partenaires/pleyel/"
+
+[[redirects]]
+from = "/en/piano-pleyel-1924-300.html"
+to = "/en/pianos/2006-piano-pleyel-1924/"
+
+[[redirects]]
+from = "/fr/piano-pleyel-1923-88.html"
+to = "/fr/pianos/2026-piano-pleyel-1923-2/"
+
+[[redirects]]
+from = "/ja/plan-du-site/index.html"
+to = "/ja/sitemap/"
+
+[[redirects]]
+from = "/en/pianos/2026-piano-pleyel-1916/index.html"
+to = "/en/pianos/2011-piano-pleyel-1916/"
+
+[[redirects]]
+from = "/ja/pianos/2026-piano-steingraeber-1915/index.html"
+to = "/ja/pianos/1995-piano-steingraeber-1915/"
+
+[[redirects]]
+from = "/fr/univers-du-piano/les-livres-sur-le-piano/index.html"
+to = "/fr/univers-du-piano/livres-sur-le-piano/"
+
+[[redirects]]
+from = "/jp/piano-czapka-1918-172.html"
+to = "/ja/pianos/2007-piano-czapka-1918/"
+
+[[redirects]]
+from = "/fr/pianos/2026-piano-pleyel-1916-1/index.html"
+to = "/fr/pianos/2023-piano-pleyel-1916-1/"
+
+[[redirects]]
+from = "/fr/r053-882.html"
+to = "/fr/pianos/2018-piano-pleyel-1927-2/"
+
+[[redirects]]
+from = "/fr/v115-803.html"
+to = "/fr/pianos/2026-piano-pleyel-1/"
+
+[[redirects]]
+from = "/en/v121-818.html"
+to = "/en/pianos/2026-piano-gaveau-1932-1/"
+
+[[redirects]]
+from = "/fr/v105-770.html"
+to = "/fr/pianos/2026-piano-pleyel-1929-3/"
+
+[[redirects]]
+from = "/en/pianos/2026-piano-pleyel-1902/index.html"
+to = "/en/pianos/2016-piano-pleyel-1902/"
+
+[[redirects]]
+from = "/jp/piano-pleyel-1928-333.html"
+to = "/ja/pianos/2026-piano-pleyel-1928-1/"
+
+[[redirects]]
+from = "/organisations/bluthner/index.html"
+to = "/fr/manufactures-et-partenaires/bluthner/"
+
+[[redirects]]
+from = "/fr/piano-pleyel-1916-267.html"
+to = "/fr/pianos/2011-piano-pleyel-1916/"
+
+[[redirects]]
+from = "/fr/piano-bechstein-1913-263.html"
+to = "/fr/pianos/2012-piano-bechstein-1913/"
+
+[[redirects]]
+from = "/en/piano-erard-1910-294.html"
+to = "/en/pianos/2000-piano-erard-1910/"
+
+[[redirects]]
+from = "/ja/pianos/2026-piano-erard-1913/index.html"
+to = "/ja/pianos/2006-piano-erard-1913/"
+
+[[redirects]]
+from = "/fr/r059-900.html"
+to = "/fr/pianos/2022-piano-pleyel-1916-2/"
+
+[[redirects]]
+from = "/fr/r057-877.html"
+to = "/fr/pianos/2023-piano-pleyel-1906/"
+
+[[redirects]]
+from = "/fr/piano-bechstein-1935-278.html"
+to = "/fr/pianos/2014-piano-bechstein-1935/"
+
+[[redirects]]
+from = "/en/chevilles-du-piano-371.html"
+to = "/en/the-world-of-the-piano/lexicon/piano-tuning-pins/"
+
+[[redirects]]
+from = "/organisations/ibach/index.html"
+to = "/fr/manufactures-et-partenaires/ibach/"
+
+[[redirects]]
+from = "/univers-du-piano/questions-frequentes/pourquoi-restaurer-un-piano-ancien/index.html"
+to = "/fr/univers-du-piano/questions-frequentes/pourquoi-restaurer-un-piano-ancien/"
+
+[[redirects]]
+from = "/en/pianos/2026-piano-steinway-1905/index.html"
+to = "/en/pianos/2002-piano-steinway-1905/"
+
+[[redirects]]
+from = "/fr/pilotes-du-piano-174.html"
+to = "/fr/univers-du-piano/lexique-du-piano/pilotes-du-piano/"
+
+[[redirects]]
+from = "/fr/actualites/2024-01-01-film-animation-2d-sylvie-fouanon-old/index.html"
+to = "/fr/actualites/2024-01-01-film-animation-2d-sylvie-fouanon/"
+
+[[redirects]]
+from = "/ja/pianos/2026-piano-czapka-1918/index.html"
+to = "/ja/pianos/2007-piano-czapka-1918/"
+
+[[redirects]]
+from = "/en/r050-727.html"
+to = "/en/pianos/2016-piano-pleyel-1902/"
+
+[[redirects]]
+from = "/fr/univers-du-piano/lexique-sur-le-piano/dieses-en-ebene-du-piano/index.html"
+to = "/fr/univers-du-piano/lexique-du-piano/dieses-en-ebene-du-piano/"
+
+[[redirects]]
+from = "/en/piano-erard-1926-94.html"
+to = "/en/pianos/2026-piano-erard-1926-2/"
+
+[[redirects]]
+from = "/en/v093-777.html"
+to = "/en/pianos/2026-piano-erard-1904/"
+
+[[redirects]]
+from = "/fr/univers-du-piano/lexique-sur-le-piano/index.html"
+to = "/fr/univers-du-piano/lexique-du-piano/"
+
+[[redirects]]
+from = "/en/cadre-en-fonte-du-piano-156.html"
+to = "/en/the-world-of-the-piano/lexicon/cast-iron-piano-frame/"
+
+[[redirects]]
+from = "/jp/piano-pleyel-1910-356.html"
+to = "/ja/pianos/2026-piano-pleyel-1910-1/"
+
+[[redirects]]
+from = "/fr/pianos/2026-piano-bluthner-1900/index.html"
+to = "/fr/pianos/2018-piano-bluthner-modele-2-annee-1900-restauration-vente-en-2018/"
+
+[[redirects]]
+from = "/jp/piano-gabriel-gaveau-1920-322.html"
+to = "/ja/pianos/2026-piano-gabriel-gaveau-1920-1/"
+
+[[redirects]]
+from = "/fr/r050-727.html"
+to = "/fr/pianos/2016-piano-pleyel-1902/"
+
+[[redirects]]
+from = "/en/r052-879.html"
+to = "/en/pianos/2019-piano-pleyel-1936-2/"
+
+[[redirects]]
+from = "/fr/v099-754.html"
+to = "/fr/pianos/2026-piano-pleyel-1927-3/"
+
+[[redirects]]
+from = "/en/posts/2025-06-01-sylvie-fouanon-is-featured-in-tokyo-s-chopin-magazine-old/index.html"
+to = "/en/posts/2025-06-01-sylvie-fouanon-is-featured-in-tokyo-s-chopin-magazine/"
+
+[[redirects]]
+from = "/jp/v116-804.html"
+to = "/ja/pianos/2026-piano-pleyel-2/"
+
+[[redirects]]
+from = "/fr/piano-pleyel-f-1927-83.html"
+to = "/fr/pianos/2026-piano-pleyel-1927-1/"
+
+[[redirects]]
+from = "/fr/mecanique-viennoise-392.html"
+to = "/fr/univers-du-piano/lexique-du-piano/mecanique-viennoise/"
+
+[[redirects]]
+from = "/fr/piano-pleyel-1886-240.html"
+to = "/fr/pianos/2026-piano-pleyel-1886/"
+
+[[redirects]]
+from = "/en/posts/2024-01-01-2d-animated-film-sylvie-fouanon-old/index.html"
+to = "/en/posts/2024-01-01-2d-animated-film-sylvie-fouanon/"
+
+[[redirects]]
+from = "/en/piano-gaveau-1925-340.html"
+to = "/en/pianos/2026-piano-gaveau-1925-1/"
+
+[[redirects]]
+from = "/fr/piano-bosendorfer-1915-221.html"
+to = "/fr/pianos/2008-piano-bosendorfer-1915/"
+
+[[redirects]]
+from = "/en/v119-816.html"
+to = "/en/pianos/2026-piano-pleyel-1927-6/"
+
+[[redirects]]
+from = "/jp/v102-765.html"
+to = "/ja/pianos/2026-piano-pleyel-1927-3/"
+
+[[redirects]]
+from = "/en/piano-gaveau-1924-91.html"
+to = "/en/pianos/2026-piano-gaveau-1924-1/"
+
+[[redirects]]
+from = "/fr/pianos/2026-piano-pleyel-1902/index.html"
+to = "/fr/pianos/2016-piano-pleyel-1902/"
+
+[[redirects]]
+from = "/fr/pianos/2026-piano-pleyel-1912/index.html"
+to = "/fr/pianos/2007-piano-pleyel-1912/"
+
+[[redirects]]
+from = "/fr/piano-gaveau-1928-241.html"
+to = "/fr/pianos/2026-piano-gaveau-1928/"
+
+[[redirects]]
+from = "/partenaires/index.html"
+to = "/fr/partenaires/"
+
+[[redirects]]
+from = "/jp/piano-erard-1862-170-170.html"
+to = "/ja/pianos/2013-piano-erard-1862/"
+
+[[redirects]]
+from = "/en/v129-854.html"
+to = "/en/pianos/2026-piano-pleyel-1930-5/"
+
+[[redirects]]
+from = "/en/r060-901.html"
+to = "/en/pianos/2022-piano-gaveau-1922-1/"
+
+[[redirects]]
+from = "/en/piano-seiler-1939-329.html"
+to = "/en/pianos/2026-piano-seiler-1939/"
+
+[[redirects]]
+from = "/fr/piano-gaveau-1924-252.html"
+to = "/fr/pianos/2026-piano-gaveau-1924/"
+
+[[redirects]]
+from = "/fr/pianos/2025-piano-pleyel-1927/index.html"
+to = "/fr/pianos/2025-piano-pleyel-1927-/"
+
+[[redirects]]
+from = "/en/v104-771.html"
+to = "/en/pianos/2026-piano-pleyel-1930-4/"
+
+[[redirects]]
+from = "/univers-du-piano/questions-frequentes/quest-ce-quune-restauration-de-piano/index.html"
+to = "/fr/univers-du-piano/questions-frequentes/quest-ce-quune-restauration-de-piano/"
+
+[[redirects]]
+from = "/jp/piano-schiedmayer-1873-238.html"
+to = "/ja/pianos/2026-piano-schiedmayer-1873/"
+
+[[redirects]]
+from = "/fr/pianos/2026-piano-bechstein-1912/index.html"
+to = "/fr/pianos/2003-piano-bechstein-1912/"
+
+[[redirects]]
+from = "/fr/piano-gaveau-1925-340.html"
+to = "/fr/pianos/2026-piano-gaveau-1925-1/"
+
+[[redirects]]
+from = "/en/piano-gaveau-1925-277.html"
+to = "/en/pianos/2004-piano-gaveau-1925/"
+
+[[redirects]]
+from = "/fr/piano-erard-1912-316.html"
+to = "/fr/pianos/2026-piano-erard-1912-1/"
+
+[[redirects]]
+from = "/jp/r062-903.html"
+to = "/ja/pianos/2021-piano-steinway-1907/"
+
+[[redirects]]
+from = "/en/piano-erard-1912-316.html"
+to = "/en/pianos/2026-piano-erard-1912-1/"
+
+[[redirects]]
+from = "/fr/pianos/2026-piano-gaveau-1927/index.html"
+to = "/fr/pianos/2006-piano-gaveau-1927/"
+
+[[redirects]]
+from = "/fr/piano-pleyel-1936-335.html"
+to = "/fr/pianos/2026-piano-pleyel-1936-1/"
+
+[[redirects]]
+from = "/fr/univers-du-piano/lexique-sur-le-piano/barre-de-repos-des-marteaux/index.html"
+to = "/fr/univers-du-piano/lexique-du-piano/barre-de-repos-des-marteaux/"
+
+[[redirects]]
+from = "/en/dieses-en-ebene-du-piano-177.html"
+to = "/en/the-world-of-the-piano/lexicon/ebony-sharp-keys/"
+
+[[redirects]]
+from = "/organisations/bosendorfer/index.html"
+to = "/fr/manufactures-et-partenaires/bosendorfer/"
+
+[[redirects]]
+from = "/jp/v133-898.html"
+to = "/ja/pianos/2026-piano-bluthner-1939/"
+
+[[redirects]]
+from = "/fr/piano-roller-et-blanchet-1835-311.html"
+to = "/fr/pianos/2026-piano-roller-et-blanchet-1835/"
+
+[[redirects]]
+from = "/en/pianos/2026-piano-erard-1913-1/index.html"
+to = "/en/pianos/2005-piano-erard-1913-1/"
+
+[[redirects]]
+from = "/jp/piano-pleyel-1886-240.html"
+to = "/ja/pianos/2026-piano-pleyel-1886/"
+
+[[redirects]]
+from = "/en/piano-gaveau-1922-264.html"
+to = "/en/pianos/2026-piano-gaveau-1922/"
+
+[[redirects]]
+from = "/en/pianos/2026-piano-gaveau-1922-1/index.html"
+to = "/en/pianos/2022-piano-gaveau-1922-1/"
+
+[[redirects]]
+from = "/organisations/categories/partenaires/index.html"
+to = "/fr/manufactures-et-partenaires/categories/partenaires/"
+
+[[redirects]]
+from = "/fr/v133-898.html"
+to = "/fr/pianos/2026-piano-bluthner-1939/"
+
+[[redirects]]
+from = "/fr/actualites/article/index.html"
+to = "/fr/actualites/articles/"
+
+[[redirects]]
+from = "/fr/piano-pleyel-1936-229.html"
+to = "/fr/pianos/2014-piano-pleyel-1936/"
+
+[[redirects]]
+from = "/fr/pianos/2026-piano-bluthner-1924/index.html"
+to = "/fr/pianos/2001-piano-bluthner-1924/"
+
+[[redirects]]
+from = "/en/barres-de-table-ou-barettes-370.html"
+to = "/en/the-world-of-the-piano/lexicon/piano-ribs/"
+
+[[redirects]]
+from = "/ja/pianos/2026-piano-bluthner-1924/index.html"
+to = "/ja/pianos/2001-piano-bluthner-1924/"
+
+[[redirects]]
+from = "/en/pianos/2026-piano-steinway-1911/index.html"
+to = "/en/pianos/2002-piano-steinway-1911/"
+
+[[redirects]]
+from = "/actualites/articles/index.html"
+to = "/fr/actualites/articles/"
+
+[[redirects]]
+from = "/ja/pianos/2026-piano-pleyel-1931/index.html"
+to = "/ja/pianos/2005-piano-pleyel-1931/"
+
+[[redirects]]
+from = "/pianos/a-vendre/index.html"
+to = "/fr/pianos/a-vendre/"
+
+[[redirects]]
+from = "/en/pianos/2026-piano-gaveau-1925/index.html"
+to = "/en/pianos/2004-piano-gaveau-1925/"
+
+[[redirects]]
+from = "/fr/organisations/jczapka/index.html"
+to = "/fr/manufactures-et-partenaires/jczapka/"
+
+[[redirects]]
+from = "/en/piano-pleyel-3bis-1911-pianos-balleron-485.html"
+to = "/en/pianos/2026-piano-pleyel-1911-1/"
+
+[[redirects]]
+from = "/fr/piano-pleyel-1944-324.html"
+to = "/fr/pianos/2026-piano-pleyel-1944/"
+
+[[redirects]]
+from = "/en/piano-gabriel-gaveau-1920-219.html"
+to = "/en/pianos/2008-piano-gabriel-gaveau-1920/"
+
+[[redirects]]
+from = "/ja/pianos/2026-piano-bechstein-1913/index.html"
+to = "/ja/pianos/2012-piano-bechstein-1913/"
+
+[[redirects]]
+from = "/jp/piano-pleyel-1930-261.html"
+to = "/ja/pianos/2026-piano-pleyel-1930-2/"
+
+[[redirects]]
+from = "/en/piano-pleyel-1900-343.html"
+to = "/en/pianos/2026-piano-pleyel-1900/"
+
+[[redirects]]
+from = "/univers-du-piano/lexique-sur-le-piano/index.html"
+to = "/fr/univers-du-piano/lexique-du-piano/"
+
+[[redirects]]
+from = "/fr/v120-815.html"
+to = "/fr/pianos/2026-piano-steingraeber-1900/"
+
+[[redirects]]
+from = "/jp/r050-727.html"
+to = "/ja/pianos/2016-piano-pleyel-1902/"
+
+[[redirects]]
+from = "/jp/piano-bechstein-1927-258.html"
+to = "/ja/pianos/2010-piano-bechstein-1927/"
+
+[[redirects]]
+from = "/fr/piano-pleyel-1931-355.html"
+to = "/fr/pianos/2026-piano-pleyel-1931-1/"
+
+[[redirects]]
+from = "/jp/piano-pleyel-1925-250.html"
+to = "/ja/pianos/2026-piano-pleyel-1925-1/"
+
+[[redirects]]
+from = "/jp/piano-erard-1912-316.html"
+to = "/ja/pianos/2026-piano-erard-1912-1/"
+
+[[redirects]]
+from = "/jp/piano-gaveau-1924-252.html"
+to = "/ja/pianos/2026-piano-gaveau-1924/"
+
+[[redirects]]
+from = "/en/piano-pleyel-1932-244.html"
+to = "/en/pianos/2026-piano-pleyel-1932/"
+
+[[redirects]]
+from = "/pianos/2025-piano-gaveau-1932/index.html"
+to = "/fr/pianos/2025-piano-gaveau-1932/"
+
+[[redirects]]
+from = "/en/pianos/2026-piano-pleyel-1910-2/index.html"
+to = "/en/pianos/2021-piano-pleyel-1910-2/"
+
+[[redirects]]
+from = "/jp/v099-754.html"
+to = "/ja/pianos/2026-piano-pleyel-1927-2/"
+
+[[redirects]]
+from = "/jp/v120-815.html"
+to = "/ja/pianos/2026-piano-steingraeber-1900/"
+
+[[redirects]]
+from = "/en/v092-471.html"
+to = "/en/pianos/2026-piano-pleyel/"
+
+[[redirects]]
+from = "/fr/pianos/2026-piano-erard-1862/index.html"
+to = "/fr/pianos/2013-piano-erard-1862/"
+
+[[redirects]]
+from = "/en/joues-des-touches-176.html"
+to = "/en/the-world-of-the-piano/lexicon/sides-of-keys/"
+
+[[redirects]]
+from = "/en/v133-898.html"
+to = "/en/pianos/2026-piano-bluthner-1939/"
+
+[[redirects]]
+from = "/en/barre-de-repos-des-marteaux-164.html"
+to = "/en/the-world-of-the-piano/lexicon/hammer-rail/"
+
+[[redirects]]
+from = "/organisations/pape/index.html"
+to = "/fr/manufactures-et-partenaires/pape/"
+
+[[redirects]]
+from = "/jp/piano-pleyel-1926-260.html"
+to = "/ja/pianos/2026-piano-pleyel-1926/"
+
+[[redirects]]
+from = "/jp/piano-erard-1929-253.html"
+to = "/ja/pianos/2026-piano-erard-1929/"
+
+[[redirects]]
+from = "/jp/v117-813.html"
+to = "/ja/pianos/2026-piano-pleyel-1910-3/"
+
+[[redirects]]
+from = "/fr/univers-du-piano/lexique-sur-le-piano/ivoire-des-touches-de-piano/index.html"
+to = "/fr/univers-du-piano/lexique-du-piano/ivoire-des-touches-de-piano/"
+
+[[redirects]]
+from = "/fr/r063-904.html"
+to = "/fr/pianos/2024-piano-pleyel-1906-1/"
+
+[[redirects]]
+from = "/jp/v131-883.html"
+to = "/ja/pianos/2026-piano-pleyel-1924-1/"
+
+[[redirects]]
+from = "/en/v100-756.html"
+to = "/en/pianos/2026-piano-erard-1861/"
+
+[[redirects]]
+from = "/en/pianos/2026-piano-bechstein-1910-1/index.html"
+to = "/en/pianos/2007-piano-bechstein-1910/"
+
+[[redirects]]
+from = "/en/piano-bechstein-1935-278.html"
+to = "/en/pianos/2014-piano-bechstein-1935/"
+
+[[redirects]]
+from = "/fr/piano-erard-1926-94.html"
+to = "/fr/pianos/2026-piano-erard-1926-2/"
+
+[[redirects]]
+from = "/en/piano-gaveau-1912-323.html"
+to = "/en/pianos/2026-piano-gaveau-1912-1/"
+
+[[redirects]]
+from = "/ja/pianos/2026-piano-bechstein-1912/index.html"
+to = "/ja/pianos/2003-piano-bechstein-1912/"
+
+[[redirects]]
+from = "/fr/piano-pleyel-1909-327.html"
+to = "/fr/pianos/2026-piano-pleyel-1909/"
+
+[[redirects]]
+from = "/personnes/equipe-editoriale/index.html"
+to = "/fr/personnes/equipe-editoriale/"
+
+[[redirects]]
+from = "/fr/pianos/2026-piano-gaveau-1932-1/index.html"
+to = "/fr/pianos/2026-piano-gaveau-1932/"
+
+[[redirects]]
+from = "/pianos/2009-piano-erard-1918/index.html"
+to = "/fr/pianos/2009-piano-erard-1918/"
+
+[[redirects]]
+from = "/fr/univers-du-piano/lexique-sur-le-piano/tourillon/index.html"
+to = "/fr/univers-du-piano/lexique-du-piano/tourillon/"
+
+[[redirects]]
+from = "/en/hygrometrie-375.html"
+to = "/en/the-world-of-the-piano/lexicon/relative-humidity/"
+
+[[redirects]]
+from = "/en/piano-steingraeber-1915-345.html"
+to = "/en/pianos/1995-piano-steingraeber-1915/"
+
+[[redirects]]
+from = "/en/posts/parution-presse/index.html"
+to = "/en/posts/press/"
+
+[[redirects]]
+from = "/fr/v113-785.html"
+to = "/fr/pianos/2026-piano-pleyel-1928-5/"
+
+[[redirects]]
+from = "/fr/univers-du-piano/lexique-sur-le-piano/hygrometrie/index.html"
+to = "/fr/univers-du-piano/lexique-du-piano/hygrometrie/"
+
+[[redirects]]
+from = "/ja/pianos/2026-piano-bechstein-1910/index.html"
+to = "/ja/pianos/2007-piano-bechstein-1910/"
+
+[[redirects]]
+from = "/univers-du-piano/questions-frequentes/pourquoi-accorder-le-piano/index.html"
+to = "/fr/univers-du-piano/questions-frequentes/pourquoi-accorder-le-piano/"
+
+[[redirects]]
+from = "/fr/pianos/2026-piano-bechstein-1913-1/index.html"
+to = "/fr/pianos/2013-piano-bechstein-1913-1/"
+
+[[redirects]]
+from = "/fr/organisations/steinway/index.html"
+to = "/fr/manufactures-et-partenaires/steinway/"
+
+[[redirects]]
+from = "/fr/piano-erard-1929-253.html"
+to = "/fr/pianos/2026-piano-erard-1929/"
+
+[[redirects]]
+from = "/fr/organisations/categories/manufactures/index.html"
+to = "/fr/manufactures-et-partenaires/categories/manufactures/"
+
+[[redirects]]
+from = "/fr/pianos/2026-piano-bluthner-1883/index.html"
+to = "/fr/pianos/2017-piano-bluthner-1883/"
+
+[[redirects]]
+from = "/fr/univers-du-piano/lexique-sur-le-piano/flipot/index.html"
+to = "/fr/univers-du-piano/lexique-du-piano/flipot/"
+
+[[redirects]]
+from = "/fr/piano-erard-1915-216.html"
+to = "/fr/pianos/2008-piano-erard-1915/"
+
+[[redirects]]
+from = "/en/fabrication-des-bouclettes-fran-aises-378.html"
+to = "/en/the-world-of-the-piano/lexicon/making-long-french-loops/"
+
+[[redirects]]
+from = "/fr/univers-du-piano/lexique-sur-le-piano/chevilles-du-piano/index.html"
+to = "/fr/univers-du-piano/lexique-du-piano/chevilles-du-piano/"
+
+[[redirects]]
+from = "/fr/tourillon-380.html"
+to = "/fr/univers-du-piano/lexique-du-piano/tourillon/"
+
+[[redirects]]
+from = "/contact/index.html"
+to = "/fr/contact/"
+
+[[redirects]]
+from = "/jp/r063-904.html"
+to = "/ja/pianos/2024-piano-pleyel-1906-1/"
+
+[[redirects]]
+from = "/fr/piano-pleyel-1900-343.html"
+to = "/fr/pianos/2026-piano-pleyel-1900/"
+
+[[redirects]]
+from = "/jp/piano-gaveau-1927-223.html"
+to = "/ja/pianos/2006-piano-gaveau-1927/"
+
+[[redirects]]
+from = "/jp/v113-785.html"
+to = "/ja/pianos/2026-piano-pleyel-1928-5/"
+
+[[redirects]]
+from = "/fr/organisations/ibach/index.html"
+to = "/fr/manufactures-et-partenaires/ibach/"
+
+[[redirects]]
+from = "/jp/v104-771.html"
+to = "/ja/pianos/2026-piano-pleyel-1930-4/"
+
+[[redirects]]
+from = "/fr/organisations/gaveau/index.html"
+to = "/fr/manufactures-et-partenaires/gaveau/"
+
+[[redirects]]
+from = "/en/piano-pleyel-1911-235.html"
+to = "/en/pianos/2026-piano-pleyel-1911/"
+
+[[redirects]]
+from = "/ja/pianos/2026-piano-pleyel-1916/index.html"
+to = "/ja/pianos/2011-piano-pleyel-1916/"
+
+[[redirects]]
+from = "/jp/piano-pleyel-3bis-1911-pianos-balleron-485.html"
+to = "/ja/pianos/2026-piano-pleyel-1911-1/"
+
+[[redirects]]
+from = "/fr/actualites/2025-06-01-sylvie-fouanon-restauratrice-de-pianos-anciens-a-paris-old/index.html"
+to = "/fr/actualites/2025-06-01-sylvie-fouanon-restauratrice-de-pianos-anciens-a-paris/"
+
+[[redirects]]
+from = "/fr/v129-854.html"
+to = "/fr/pianos/2026-piano-pleyel-1930-5/"
+
+[[redirects]]
+from = "/fr/univers-du-piano/lexique-sur-le-piano/pilotes-du-piano/index.html"
+to = "/fr/univers-du-piano/lexique-du-piano/pilotes-du-piano/"
+
+[[redirects]]
+from = "/jp/v115-803.html"
+to = "/ja/pianos/2026-piano-pleyel-1/"
+
+[[redirects]]
+from = "/fr/rouleaux-des-marteaux-de-piano-163.html"
+to = "/fr/univers-du-piano/lexique-du-piano/rouleaux-des-marteaux-de-piano/"
+
+[[redirects]]
+from = "/jp/piano-pleyel-1921-179.html"
+to = "/ja/pianos/2006-piano-pleyel-1921/"
+
+[[redirects]]
+from = "/en/piano-pleyel-1936-229.html"
+to = "/en/pianos/2014-piano-pleyel-1936/"
+
+[[redirects]]
+from = "/fr/univers-du-piano/lexique-sur-le-piano/pointes-denfoncement/index.html"
+to = "/fr/univers-du-piano/lexique-du-piano/pointes-denfoncement/"
+
+[[redirects]]
+from = "/ja/a-propos/index.html"
+to = "/ja/about/"
+
+[[redirects]]
+from = "/jp/piano-pleyel-1929-232.html"
+to = "/ja/pianos/2000-piano-pleyel-1929/"
+
+[[redirects]]
+from = "/en/v126-855.html"
+to = "/en/pianos/2026-piano-pleyel-1929-4/"
+
+[[redirects]]
+from = "/fr/piano-pleyel-1918-245.html"
+to = "/fr/pianos/2026-piano-pleyel-1918/"
+
+[[redirects]]
+from = "/en/piano-bluthner-1900-230cm-85.html"
+to = "/en/pianos/2018-piano-bluthner-1900/"
+
+[[redirects]]
+from = "/en/pianos/2026-piano-steinway-1907/index.html"
+to = "/en/pianos/2021-piano-steinway-1907/"
+
+[[redirects]]
+from = "/projets/2009-piano-erard-2/index.html"
+to = "/fr/pianos/2009-piano-erard-1918/"
+
+[[redirects]]
+from = "/fr/pointes-de-balancier-du-piano-166.html"
+to = "/fr/univers-du-piano/lexique-du-piano/pointes-de-balancier-du-piano/"
+
+[[redirects]]
+from = "/en/pianos/2026-piano-bluthner-1924/index.html"
+to = "/en/pianos/2001-piano-bluthner-1924/"
+
+[[redirects]]
+from = "/fr/piano-pleyel-1930-261.html"
+to = "/fr/pianos/2026-piano-pleyel-1930-2/"
+
+[[redirects]]
+from = "/en/piano-pleyel-1847-354.html"
+to = "/en/pianos/2026-piano-pleyel-1847/"
+
+[[redirects]]
+from = "/en/pianos-droit-a-cadre-en-bois-1860-1920-183.html"
+to = "/en/the-world-of-the-piano/lexicon/wooden-framed-upright-pianos-1860-1920-1/"
+
+[[redirects]]
+from = "/fr/univers-du-piano/lexique-sur-le-piano/mortaises-de-balancier-du-clavier/index.html"
+to = "/fr/univers-du-piano/lexique-du-piano/mortaises-de-balancier-du-clavier/"
+
+[[redirects]]
+from = "/fr/piano-erard-1935-254.html"
+to = "/fr/pianos/2026-piano-erard-1935/"
+
+[[redirects]]
+from = "/en/r048-469.html"
+to = "/en/pianos/2015-piano-gaveau-1931/"
+
+[[redirects]]
+from = "/fr/pianos/2026-piano-bechstein-1927/index.html"
+to = "/fr/pianos/2010-piano-bechstein-1927/"
+
+[[redirects]]
+from = "/en/r055-772.html"
+to = "/en/pianos/2018-piano-erard-1882-1/"
+
+[[redirects]]
+from = "/fr/cordes-croisees-du-piano-376.html"
+to = "/fr/univers-du-piano/lexique-du-piano/cordes-croisees-du-piano/"
+
+[[redirects]]
+from = "/univers-du-piano/questions-frequentes/les-pianos-droit-a-cadre-en-bois-1860-1920/index.html"
+to = "/fr/univers-du-piano/questions-frequentes/les-pianos-droit-a-cadre-en-bois-1860-1920/"
+
+[[redirects]]
+from = "/en/pianos/2026-piano-pleyel-1906-1/index.html"
+to = "/en/pianos/2024-piano-pleyel-1906-1/"
+
+[[redirects]]
+from = "/fr/v110-782.html"
+to = "/fr/pianos/2026-piano-pleyel-1927-5/"
+
+[[redirects]]
+from = "/univers-du-piano/les-livres-sur-le-piano/index.html"
+to = "/fr/univers-du-piano/livres-sur-le-piano/"
+
+[[redirects]]
+from = "/fr/organisations/categories/partenaires/index.html"
+to = "/fr/manufactures-et-partenaires/categories/partenaires/"
+
+[[redirects]]
+from = "/ja/pianos/2026-piano-kriegelstein-1853/index.html"
+to = "/ja/pianos/2005-piano-kriegelstein-1853/"
+
+[[redirects]]
+from = "/en/pianos/2026-piano-pleyel-1929/index.html"
+to = "/en/pianos/2000-piano-pleyel-1929/"
+
+[[redirects]]
+from = "/fr/univers-du-piano/les-grandes-marques-de-pianos-marques-et-manufactures-de-pianos/index.html"
+to = "/fr/univers-du-piano/marques-et-manufactures-de-pianos/"
+
+[[redirects]]
+from = "/en/piano-gaveau-1927-223.html"
+to = "/en/pianos/2006-piano-gaveau-1927/"
+
+[[redirects]]
+from = "/ja/pianos/2026-piano-pleyel-1936-2/index.html"
+to = "/ja/pianos/2019-piano-pleyel-1936-2/"
+
+[[redirects]]
+from = "/ja/actualites/2025-06-01-sylvie-fouanon-restauratrice-de-pianos-anciens-a-paris-old/index.html"
+to = "/ja/actualites/2025-06-01-sylvie-fouanon-restauratrice-de-pianos-anciens-a-paris/"
+
+[[redirects]]
+from = "/jp/v119-816.html"
+to = "/ja/pianos/2026-piano-pleyel-1927-5/"
+
+[[redirects]]
+from = "/en/mecanique-baionnette-391.html"
+to = "/en/the-world-of-the-piano/lexicon/overdampers-and-bayonet-action/"
+
+[[redirects]]
+from = "/fr/piano-erard-1913-181.html"
+to = "/fr/pianos/2006-piano-erard-1913/"
+
+[[redirects]]
+from = "/fr/pianos/2026-piano-bechstein-1913/index.html"
+to = "/fr/pianos/2012-piano-bechstein-1913/"
+
+[[redirects]]
+from = "/fr/piano-bluthner-1900-230cm-85.html"
+to = "/fr/pianos/2018-piano-bluthner-modele-2-annee-1900-restauration-vente-en-2018/"
+
+[[redirects]]
+from = "/organisations/index.html"
+to = "/fr/manufactures-et-partenaires/"
+
+[[redirects]]
+from = "/fr/piano-erard-1948-218.html"
+to = "/fr/pianos/2004-piano-erard-1948/"
+
+[[redirects]]
+from = "/ja/pianos/2026-piano-bluthner-1883/index.html"
+to = "/ja/pianos/2017-piano-bluthner-1883/"
+
+[[redirects]]
+from = "/fr/piano-pleyel-1924-300.html"
+to = "/fr/pianos/2006-piano-pleyel-1924/"
+
+[[redirects]]
+from = "/organisations/erard/index.html"
+to = "/fr/manufactures-et-partenaires/erard/"
+
+[[redirects]]
+from = "/en/piano-gaveau-1920-337.html"
+to = "/en/pianos/2026-piano-gaveau-1920/"
+
+[[redirects]]
+from = "/fr/pianos/2026-piano-bosendorfer-1915/index.html"
+to = "/fr/pianos/2008-piano-bosendorfer-1915/"
+
+[[redirects]]
+from = "/en/piano-bluthner-1905-257.html"
+to = "/en/pianos/2026-piano-bluthner-1905/"
+
+[[redirects]]
+from = "/fr/pianos-a-queue-a-cordes-paralelles-182.html"
+to = "/fr/univers-du-piano/lexique-du-piano/pianos-a-queue-a-cordes-paralelles/"
+
+[[redirects]]
+from = "/en/organizations/categories/partenaires/index.html"
+to = "/en/organizations/categories/partners/"
+
+[[redirects]]
+from = "/en/v110-782.html"
+to = "/en/pianos/2026-piano-pleyel-1927-5/"
+
+[[redirects]]
+from = "/en/agrafe-36.html"
+to = "/en/the-world-of-the-piano/lexicon/agraffe-1/"
+
+[[redirects]]
+from = "/en/pianos/2026-piano-erard-1882/index.html"
+to = "/en/pianos/2010-piano-erard-1882/"
+
+[[redirects]]
+from = "/ja/pianos/2026-piano-bechstein-1930/index.html"
+to = "/ja/pianos/2008-piano-bechstein-1930/"
+
+[[redirects]]
+from = "/en/pianos/2026-piano-erard-1862-1/index.html"
+to = "/en/pianos/2013-piano-erard-1862-1/"
+
+[[redirects]]
+from = "/en/piano-pleyel-1931-180.html"
+to = "/en/pianos/2005-piano-pleyel-1931/"
+
+[[redirects]]
+from = "/fr/actualites/2026-06-22-reussir-editions-debats-publique-old/index.html"
+to = "/fr/actualites/2026-06-22-reussir-editions-debats-publique/"
+
+[[redirects]]
+from = "/fr/cordes-paralleles-du-piano-377.html"
+to = "/fr/univers-du-piano/lexique-du-piano/cordes-paralleles-du-piano/"
+
+[[redirects]]
+from = "/fr/v123-837.html"
+to = "/fr/pianos/2026-piano-pleyel-1927-7/"
+
+[[redirects]]
+from = "/en/piano-erard-1913-181.html"
+to = "/en/pianos/2006-piano-erard-1913/"
+
+[[redirects]]
+from = "/jp/piano-etsey-1913-320.html"
+to = "/ja/pianos/2026-piano-etsey-1913/"
+
+[[redirects]]
+from = "/jp/piano-pleyel-1924-300.html"
+to = "/ja/pianos/2006-piano-pleyel-1924/"
+
+[[redirects]]
+from = "/fr/r060-901.html"
+to = "/fr/pianos/2022-piano-gaveau-1922-1/"
+
+[[redirects]]
+from = "/ja/pianos/2026-piano-pleyel-1916-2/index.html"
+to = "/ja/pianos/2022-piano-pleyel-1916-2/"
+
+[[redirects]]
+from = "/en/pianos/2026-piano-erard-1915/index.html"
+to = "/en/pianos/2008-piano-erard-1915/"
+
+[[redirects]]
+from = "/en/piano-erard-1847-217.html"
+to = "/en/pianos/2003-piano-erard-1847/"
+
+[[redirects]]
+from = "/ja/pianos/2026-piano-gaveau-1925/index.html"
+to = "/ja/pianos/2004-piano-gaveau-1925/"
+
+[[redirects]]
+from = "/en/piano-pleyel-1929-248.html"
+to = "/en/pianos/2026-piano-pleyel-1929-2/"
+
+[[redirects]]
+from = "/fr/univers-du-piano/lexique-sur-le-piano/mecanique-pleyel-a-double-echappement/index.html"
+to = "/fr/univers-du-piano/lexique-du-piano/mecanique-pleyel-a-double-echappement/"
+
+[[redirects]]
+from = "/fr/pianos/2026-piano-pleyel-1929/index.html"
+to = "/fr/pianos/2000-piano-pleyel-1929/"
+
+[[redirects]]
+from = "/en/v117-813.html"
+to = "/en/pianos/2026-piano-pleyel-1910-3/"
+
+[[redirects]]
+from = "/jp/piano-erard-1915-216.html"
+to = "/ja/pianos/2008-piano-erard-1915/"
+
+[[redirects]]
+from = "/fr/pianos/2026-piano-bechstein-1935/index.html"
+to = "/fr/pianos/2014-piano-bechstein-1935/"
+
+[[redirects]]
+from = "/jp/piano-pleyel-1928-239.html"
+to = "/ja/pianos/2026-piano-pleyel-1928/"
+
+[[redirects]]
+from = "/jp/piano-gaveau-1928-241.html"
+to = "/ja/pianos/2026-piano-gaveau-1928/"
+
+[[redirects]]
+from = "/fr/v118-814.html"
+to = "/fr/pianos/2026-piano-pleyel-1928-6/"
+
+[[redirects]]
+from = "/en/pianos/2026-piano-erard-1910/index.html"
+to = "/en/pianos/2000-piano-erard-1910/"
+
+[[redirects]]
+from = "/jp/piano-bluthner-1883-237.html"
+to = "/ja/pianos/2017-piano-bluthner-1883/"
+
+[[redirects]]
+from = "/fr/piano-erard-1906-265.html"
+to = "/fr/pianos/2026-piano-erard-1906/"
+
+[[redirects]]
+from = "/en/pianoforte-390.html"
+to = "/en/the-world-of-the-piano/lexicon/piano-forte/"
+
+[[redirects]]
+from = "/fr/sommier-des-chevilles-386.html"
+to = "/fr/univers-du-piano/lexique-du-piano/sommier-des-chevilles/"
+
+[[redirects]]
+from = "/fr/organisations/roller-et-blanchet/index.html"
+to = "/fr/manufactures-et-partenaires/roller-et-blanchet/"
+
+[[redirects]]
+from = "/jp/piano-seiler-1939-329.html"
+to = "/ja/pianos/2026-piano-seiler-1939/"
+
+[[redirects]]
+from = "/en/rouleaux-des-marteaux-de-piano-163.html"
+to = "/en/the-world-of-the-piano/lexicon/piano-hammer-knuckles/"
+
+[[redirects]]
+from = "/jp/piano-gaveau-1922-264.html"
+to = "/ja/pianos/2026-piano-gaveau-1922/"
+
+[[redirects]]
+from = "/en/piano-gaveau-1930-251.html"
+to = "/en/pianos/2026-piano-gaveau-1930/"
+
+[[redirects]]
+from = "/fr/pilotes-d-echappement-du-piano-379.html"
+to = "/fr/univers-du-piano/lexique-du-piano/pilotes-dechappement-du-piano/"
+
+[[redirects]]
+from = "/en/piano-pleyel-1929-243.html"
+to = "/en/pianos/2026-piano-pleyel-1929-1/"
+
+[[redirects]]
+from = "/fr/piano-erard-1847-217.html"
+to = "/fr/pianos/2003-piano-erard-1847/"
+
+[[redirects]]
+from = "/fr/piano-steinway-1912-312.html"
+to = "/fr/pianos/2026-piano-steinway-1912/"
+
+[[redirects]]
+from = "/fr/pianos/2026-piano-bechstein-1910-1/index.html"
+to = "/fr/pianos/2007-piano-bechstein-1910/"
+
+[[redirects]]
+from = "/jp/v092-471.html"
+to = "/ja/pianos/2026-piano-pleyel/"
+
+[[redirects]]
+from = "/jp/r057-877.html"
+to = "/ja/pianos/2023-piano-pleyel-1906/"
+
+[[redirects]]
+from = "/fr/pianos/2026-piano-pleyel-1916/index.html"
+to = "/fr/pianos/2011-piano-pleyel-1916/"
+
+[[redirects]]
+from = "/fr/univers-du-piano/lexique-sur-le-piano/sommier-des-chevilles/index.html"
+to = "/fr/univers-du-piano/lexique-du-piano/sommier-des-chevilles/"
+
+[[redirects]]
+from = "/en/piano-pleyel-1929-236.html"
+to = "/en/pianos/2026-piano-pleyel-1930/"
+
+[[redirects]]
+from = "/jp/piano-erard-1909-319.html"
+to = "/ja/pianos/2026-piano-erard-1909/"
+
+[[redirects]]
+from = "/fr/pianos/2026-piano-steinway-1911/index.html"
+to = "/fr/pianos/2002-piano-steinway-1911/"
+
+[[redirects]]
+from = "/fr/pianos/2026-piano-kriegelstein-1853/index.html"
+to = "/fr/pianos/2005-piano-kriegelstein-1853/"
+
+[[redirects]]
+from = "/fr/piano-pleyel-1929-243.html"
+to = "/fr/pianos/2026-piano-pleyel-1929-1/"
+
+[[redirects]]
+from = "/en/piano-gaveau-1920-341.html"
+to = "/en/pianos/2026-piano-gaveau-1920-1/"
+
+[[redirects]]
+from = "/en/piano-pleyel-1930-249.html"
+to = "/en/pianos/2026-piano-pleyel-1930-1/"
+
+[[redirects]]
+from = "/plan-du-site/index.html"
+to = "/fr/plan-du-site/"
+
+[[redirects]]
+from = "/en/v106-775.html"
+to = "/en/pianos/2026-piano-schiedmayer-1930/"
+
+[[redirects]]
+from = "/fr/piano-gabriel-gaveau-1920-322.html"
+to = "/fr/pianos/2026-piano-gabriel-gaveau-1920-1/"
+
+[[redirects]]
+from = "/jp/piano-steingraeber-1915-345.html"
+to = "/ja/pianos/1995-piano-steingraeber-1915/"
+
+[[redirects]]
+from = "/fr/univers-du-piano/lexique-sur-le-piano/diapason/index.html"
+to = "/fr/univers-du-piano/lexique-du-piano/diapason/"
+
+[[redirects]]
+from = "/fr/piano-erard-1909-319.html"
+to = "/fr/pianos/2026-piano-erard-1909/"
+
+[[redirects]]
+from = "/jp/piano-pleyel-1931-180.html"
+to = "/ja/pianos/2005-piano-pleyel-1931/"
+
+[[redirects]]
+from = "/fr/piano-pleyel-1922-325.html"
+to = "/fr/pianos/2026-piano-pleyel-1922/"
+
+[[redirects]]
+from = "/fr/piano-bosendorfer-1980-58.html"
+to = "/fr/pianos/2026-piano-bosendorfer-1980/"
+
+[[redirects]]
+from = "/jp/piano-pleyel-1847-354.html"
+to = "/ja/pianos/2026-piano-pleyel-1847/"
+
+[[redirects]]
+from = "/en/pianos/2026-piano-bechstein-1935/index.html"
+to = "/en/pianos/2014-piano-bechstein-1935/"
+
+[[redirects]]
+from = "/fr/mortaises-de-balancier-du-clavier-173.html"
+to = "/fr/univers-du-piano/lexique-du-piano/mortaises-de-balancier-du-clavier/"
+
+[[redirects]]
+from = "/fr/piano-pleyel-1931-180.html"
+to = "/fr/pianos/2005-piano-pleyel-1931/"
+
+[[redirects]]
+from = "/en/piano-bechstein-1913-84.html"
+to = "/en/pianos/2013-piano-bechstein-1913-1/"
+
+[[redirects]]
+from = "/les-grandes-marques-de-pianos-marques-et-manufactures-de-pianos/index.html"
+to = "/fr/univers-du-piano/marques-et-manufactures-de-pianos/"
+
+[[redirects]]
+from = "/fr/piano-pleyel-1932-244.html"
+to = "/fr/pianos/2026-piano-pleyel-1932/"
+
+[[redirects]]
+from = "/jp/v129-854.html"
+to = "/ja/pianos/2026-piano-pleyel-1930-5/"
+
+[[redirects]]
+from = "/jp/piano-erard-1910-294.html"
+to = "/ja/pianos/2000-piano-erard-1910/"
+
+[[redirects]]
+from = "/en/piano-bechstein-1930-109.html"
+to = "/en/pianos/2008-piano-bechstein-1930-1/"
+
+[[redirects]]
+from = "/fr/piano-czapka-1918-172.html"
+to = "/fr/pianos/2007-piano-czapka-1918/"
+
+[[redirects]]
+from = "/ja/pianos/2026-piano-gaveau-1927/index.html"
+to = "/ja/pianos/2006-piano-gaveau-1927/"
+
+[[redirects]]
+from = "/jp/piano-erard-1918-171.html"
+to = "/ja/pianos/2009-piano-erard-1918/"
+
+[[redirects]]
+from = "/fr/piano-pleyel-1928-334.html"
+to = "/fr/pianos/2026-piano-pleyel-1928-2/"
+
+[[redirects]]
+from = "/en/piano-steinway-1905-231.html"
+to = "/en/pianos/2002-piano-steinway-1905/"
+
+[[redirects]]
+from = "/en/piano-bechstein-1927-258.html"
+to = "/en/pianos/2010-piano-bechstein-1927/"
+
+[[redirects]]
+from = "/en/pianos/2026-piano-pleyel-1936/index.html"
+to = "/en/pianos/2014-piano-pleyel-1936/"
+
+[[redirects]]
+from = "/jp/piano-pleyel-1936-229.html"
+to = "/ja/pianos/2014-piano-pleyel-1936/"
+
+[[redirects]]
+from = "/fr/pianos/2026-piano-erard-1918/index.html"
+to = "/fr/pianos/2009-piano-erard-1918/"
+
+[[redirects]]
+from = "/jp/piano-pleyel-1918-245.html"
+to = "/ja/pianos/2026-piano-pleyel-1918/"
+
+[[redirects]]
+from = "/fr/pianos/2026-piano-pleyel-1906-1/index.html"
+to = "/fr/pianos/2024-piano-pleyel-1906-1/"
+
+[[redirects]]
+from = "/en/flipot-374.html"
+to = "/en/the-world-of-the-piano/lexicon/shim/"
+
+[[redirects]]
+from = "/fr/cadre-en-fonte-du-piano-156.html"
+to = "/fr/univers-du-piano/lexique-du-piano/cadre-en-fonte-du-piano/"
+
+[[redirects]]
+from = "/jp/piano-erard-1929-318.html"
+to = "/ja/pianos/2026-piano-erard-1929-1/"
+
+[[redirects]]
+from = "/ja/pianos/2026-piano-pleyel-1921/index.html"
+to = "/ja/pianos/2006-piano-pleyel-1921/"
+
+[[redirects]]
+from = "/fr/v111-783.html"
+to = "/fr/pianos/2026-piano-pleyel-1938/"
+
+[[redirects]]
+from = "/jp/v100-756.html"
+to = "/ja/pianos/2026-piano-erard-1861/"
+
+[[redirects]]
+from = "/ja/pianos/2026-piano-erard-1913-1/index.html"
+to = "/ja/pianos/2005-piano-erard-1913-1/"
+
+[[redirects]]
+from = "/fr/pianos/2026-piano-pleyel-1906/index.html"
+to = "/fr/pianos/2023-piano-pleyel-1906/"
+
+[[redirects]]
+from = "/fr/piano-pleyel-1928-357.html"
+to = "/fr/pianos/2026-piano-pleyel-1928-3/"
+
+[[redirects]]
+from = "/jp/piano-roller-et-blanchet-1835-311.html"
+to = "/ja/pianos/2026-piano-roller-et-blanchet-1835/"
+
+[[redirects]]
+from = "/actualites/index.html"
+to = "/fr/actualites/"
+
+[[redirects]]
+from = "/projets/vendu/index.html"
+to = "/fr/pianos/vendus/"
+
+[[redirects]]
+from = "/organisations/categories/marques/index.html"
+to = "/fr/manufactures-et-partenaires/categories/manufactures/"
+
+[[redirects]]
+from = "/ja/actualites/2024-01-01-vieilles-maisons-francaises-old/index.html"
+to = "/ja/actualites/2024-01-01-vieilles-maisons-francaises/"
+
+[[redirects]]
+from = "/jp/v123-837.html"
+to = "/ja/pianos/2026-piano-pleyel-1927-6/"
+
+[[redirects]]
+from = "/personnes/index.html"
+to = "/fr/personnes/"
+
+[[redirects]]
+from = "/en/piano-pleyel-1930-261.html"
+to = "/en/pianos/2026-piano-pleyel-1930-2/"
+
+[[redirects]]
+from = "/fr/univers-du-piano/lexique-sur-le-piano/cadre-en-fonte-du-piano/index.html"
+to = "/fr/univers-du-piano/lexique-du-piano/cadre-en-fonte-du-piano/"
+
+[[redirects]]
+from = "/en/cle-d-accord-du-piano-382.html"
+to = "/en/the-world-of-the-piano/lexicon/piano-tuning-lever/"
+
+[[redirects]]
+from = "/fr/r062-903.html"
+to = "/fr/pianos/2021-piano-steinway-1907/"
+
+[[redirects]]
+from = "/jp/r061-902.html"
+to = "/ja/pianos/2021-piano-gaveau-1936/"
+
+[[redirects]]
+from = "/fr/v131-883.html"
+to = "/fr/pianos/2026-piano-pleyel-1924-1/"
+
+[[redirects]]
+from = "/en/pianos/2026-piano-erard-1913/index.html"
+to = "/en/pianos/2006-piano-erard-1913/"
+
+[[redirects]]
+from = "/en/pianos/2026-piano-bechstein-1910/index.html"
+to = "/en/pianos/2007-piano-bechstein-1910/"
+
+[[redirects]]
+from = "/jp/piano-gaveau-1912-299.html"
+to = "/ja/pianos/2006-piano-gaveau-1912/"
+
+[[redirects]]
+from = "/ja/pianos/2026-piano-pleyel-1906-1/index.html"
+to = "/ja/pianos/2024-piano-pleyel-1906-1/"
+
+[[redirects]]
+from = "/fr/organisations/steingraeber-sohne/index.html"
+to = "/fr/manufactures-et-partenaires/steingraeber-sohne/"
+
+[[redirects]]
+from = "/jp/v101-760.html"
+to = "/ja/pianos/2026-piano-erard-1917-1/"
+
+[[redirects]]
+from = "/projets/2025-piano-pleyel-1927/index.html"
+to = "/fr/pianos/2025-piano-pleyel-1927-/"
+
+[[redirects]]
+from = "/fr/piano-steinway-1908-228.html"
+to = "/fr/pianos/2008-piano-steinway-1908/"
+
+[[redirects]]
+from = "/fr/mecanique-baionnette-391.html"
+to = "/fr/univers-du-piano/lexique-du-piano/mecanique-baionnette/"
+
+[[redirects]]
+from = "/en/v113-785.html"
+to = "/en/pianos/2026-piano-pleyel-1928-5/"
+
+[[redirects]]
+from = "/en/piano-pleyel-1923-262.html"
+to = "/en/pianos/2026-piano-pleyel-1923-1/"
+
+[[redirects]]
+from = "/jp/piano-pleyel-1910-247.html"
+to = "/ja/pianos/2026-piano-pleyel-1910/"
+
+[[redirects]]
+from = "/ja/actualites/2024-01-01-film-animation-2d-sylvie-fouanon-old/index.html"
+to = "/ja/actualites/2024-01-01-film-animation-2d-sylvie-fouanon/"
+
+[[redirects]]
+from = "/fr/v103-766.html"
+to = "/fr/pianos/2026-piano-pleyel-1926-2/"
+
+[[redirects]]
+from = "/les-livres-sur-le-piano/index.html"
+to = "/fr/univers-du-piano/livres-sur-le-piano/"
+
+[[redirects]]
+from = "/fr/actualites/parution-presse/index.html"
+to = "/fr/actualites/presse/"
+
+[[redirects]]
+from = "/en/organizations/categories/manufactures/index.html"
+to = "/en/organizations/categories/manufacturers/"
+
+[[redirects]]
+from = "/fr/piano-gaveau-1930-251.html"
+to = "/fr/pianos/2026-piano-gaveau-1930/"
+
+[[redirects]]
+from = "/fr/piano-gabriel-gaveau-1920-219.html"
+to = "/fr/pianos/2008-piano-gabriel-gaveau-1920/"
+
+[[redirects]]
+from = "/fr/pianos/2026-piano-steinway-1907/index.html"
+to = "/fr/pianos/2021-piano-steinway-1907/"
+
+[[redirects]]
+from = "/jp/piano-bechstein-1910-169.html"
+to = "/ja/pianos/2007-piano-bechstein-1910/"
+
+[[redirects]]
+from = "/en/piano-pleyel-1944-324.html"
+to = "/en/pianos/2026-piano-pleyel-1944/"
+
+[[redirects]]
+from = "/en/piano-erard-1948-218.html"
+to = "/en/pianos/2004-piano-erard-1948/"
+
+[[redirects]]
+from = "/en/mouches-enfoncement-du-piano-168.html"
+to = "/en/the-world-of-the-piano/lexicon/piano-front-rail-punchings/"
+
+[[redirects]]
+from = "/projets/2008-piano-bechstein/index.html"
+to = "/fr/pianos/2008-piano-bechstein-1930/"
+
+[[redirects]]
+from = "/en/piano-pleyel-1921-179.html"
+to = "/en/pianos/2006-piano-pleyel-1921/"
+
+[[redirects]]
+from = "/jp/v111-783.html"
+to = "/ja/pianos/2026-piano-pleyel-1938/"
+
+[[redirects]]
+from = "/en/pianos/2026-piano-erard-1918-1/index.html"
+to = "/en/pianos/2009-piano-erard-1918-1/"
+
+[[redirects]]
+from = "/jp/r051-880.html"
+to = "/ja/pianos/2026-piano-gaveau-1926/"
+
+[[redirects]]
+from = "/questions-frequentes/quest-que-laccord-dun-piano/index.html"
+to = "/fr/univers-du-piano/questions-frequentes/quest-que-laccord-dun-piano/"
+
+[[redirects]]
+from = "/en/pianos/2026-piano-gaveau-1912/index.html"
+to = "/en/pianos/2006-piano-gaveau-1912/"
+
+[[redirects]]
+from = "/en/cordes-croisees-du-piano-376.html"
+to = "/en/the-world-of-the-piano/lexicon/piano-crossed-strings/"
+
+[[redirects]]
+from = "/fr/piano-pleyel-1930-87.html"
+to = "/fr/pianos/2026-piano-pleyel-1930-3/"
+
+[[redirects]]
+from = "/en/v099-754.html"
+to = "/en/pianos/2026-piano-pleyel-1927-3/"
+
+[[redirects]]
+from = "/projets/2007-piano-bechstein-1910/index.html"
+to = "/fr/pianos/2007-piano-bechstein-1910/"
+
+[[redirects]]
+from = "/organisations/chambre-syndicale-de-la-facture-instrumentale/index.html"
+to = "/fr/manufactures-et-partenaires/chambre-syndicale-de-la-facture-instrumentale/"
+
+[[redirects]]
+from = "/en/piano-bechstein-1913-263.html"
+to = "/en/pianos/2012-piano-bechstein-1913/"
+
+[[redirects]]
+from = "/en/piano-pleyel-1928-239.html"
+to = "/en/pianos/2026-piano-pleyel-1928/"
+
+[[redirects]]
+from = "/fr/pianos-droit-a-cadre-en-bois-1860-1920-183.html"
+to = "/fr/univers-du-piano/lexique-du-piano/pianos-droit-a-cadre-en-bois-1860-1920/"
+
+[[redirects]]
+from = "/fr/organisations/bosendorfer/index.html"
+to = "/fr/manufactures-et-partenaires/bosendorfer/"
+
+[[redirects]]
+from = "/en/v131-883.html"
+to = "/en/pianos/2026-piano-pleyel-1924-1/"
+
+[[redirects]]
+from = "/fr/piano-bechstein-1930-109.html"
+to = "/fr/pianos/2008-piano-bechstein-1930-1/"
+
+[[redirects]]
+from = "/en/piano-bluthner-1924-268.html"
+to = "/en/pianos/2001-piano-bluthner-1924/"
+
+[[redirects]]
+from = "/jp/r054-881.html"
+to = "/ja/pianos/2023-piano-pleyel-1916-1/"
+
+[[redirects]]
+from = "/fr/mecanique-schwander-157.html"
+to = "/fr/univers-du-piano/lexique-du-piano/mecanique-schwander/"
+
+[[redirects]]
+from = "/ja/pianos/2026-piano-pleyel-1910-2/index.html"
+to = "/ja/pianos/2021-piano-pleyel-1910-2/"
+
+[[redirects]]
+from = "/fr/v104-771.html"
+to = "/fr/pianos/2026-piano-pleyel-1930-4/"
+
+[[redirects]]
+from = "/ja/pianos/2026-piano-bosendorfer-1915/index.html"
+to = "/ja/pianos/2008-piano-bosendorfer-1915/"
+
+[[redirects]]
+from = "/fr/pianos/2026-piano-pleyel-1926-1/index.html"
+to = "/fr/pianos/2025-piano-pleyel-1926-1/"
+
+[[redirects]]
+from = "/en/pianos/2026-piano-pleyel-1931/index.html"
+to = "/en/pianos/2005-piano-pleyel-1931/"
+
+[[redirects]]
+from = "/en/piano-pleyel-1928-333.html"
+to = "/en/pianos/2026-piano-pleyel-1928-1/"
+
+[[redirects]]
+from = "/fr/pianos/2007-piano-czapka-1918-1/index.html"
+to = "/fr/pianos/2007-piano-czapka-1918/"
+
+[[redirects]]
+from = "/fr/piano-gaveau-1913-342.html"
+to = "/fr/pianos/2026-piano-gaveau-1913/"
+
+[[redirects]]
+from = "/fr/piano-erard-1918-171.html"
+to = "/fr/pianos/2009-piano-erard-1918/"
+
+[[redirects]]
+from = "/pianos/2004-piano-erard-1926/index.html"
+to = "/fr/pianos/2004-piano-erard-1926/"
+
+[[redirects]]
+from = "/ja/pianos/2026-piano-bechstein-1935/index.html"
+to = "/ja/pianos/2014-piano-bechstein-1935/"
+
+[[redirects]]
+from = "/fr/piano-bechstein-1910-169.html"
+to = "/fr/pianos/2007-piano-bechstein-1910/"
+
+[[redirects]]
+from = "/en/pointes-de-balancier-du-piano-166.html"
+to = "/en/the-world-of-the-piano/lexicon/piano-balance-pins/"
+
+[[redirects]]
+from = "/projets/2025-piano-gaveau-1932/index.html"
+to = "/fr/pianos/2025-piano-gaveau-1932/"
+
+[[redirects]]
+from = "/jp/piano-bosendorfer-1980-58.html"
+to = "/ja/pianos/2026-piano-bosendorfer-1980/"
+
+[[redirects]]
+from = "/en/r062-903.html"
+to = "/en/pianos/2021-piano-steinway-1907/"
+
+[[redirects]]
+from = "/en/piano-pleyel-1916-267.html"
+to = "/en/pianos/2011-piano-pleyel-1916/"
+
+[[redirects]]
+from = "/en/pianos/2026-piano-steingraeber-1915/index.html"
+to = "/en/pianos/1995-piano-steingraeber-1915/"
+
+[[redirects]]
+from = "/en/piano-roller-et-blanchet-1835-311.html"
+to = "/en/pianos/2026-piano-roller-et-blanchet-1835/"
+
+[[redirects]]
+from = "/organisations/steingraeber-sohne/index.html"
+to = "/fr/manufactures-et-partenaires/steingraeber-sohne/"
+
+[[redirects]]
+from = "/mentions-legales/index.html"
+to = "/fr/mentions-legales/"
+
+[[redirects]]
+from = "/jp/piano-erard-1948-218.html"
+to = "/ja/pianos/2004-piano-erard-1948/"
+
+[[redirects]]
+from = "/en/pianos/2026-piano-bechstein-1913-1/index.html"
+to = "/en/pianos/2013-piano-bechstein-1913-1/"
+
+[[redirects]]
+from = "/fr/v101-760.html"
+to = "/fr/pianos/2026-piano-erard-1917-1/"
+
+[[redirects]]
+from = "/en/v103-766.html"
+to = "/en/pianos/2026-piano-pleyel-1926-2/"
+
+[[redirects]]
+from = "/fr/piano-bluthner-1910-86.html"
+to = "/fr/pianos/2026-piano-bluthner-1910/"
+
+[[redirects]]
+from = "/fr/piano-kriegelstein-1853-178.html"
+to = "/fr/pianos/2005-piano-kriegelstein-1853/"
+
+[[redirects]]
+from = "/fr/barre-de-repos-des-marteaux-164.html"
+to = "/fr/univers-du-piano/lexique-du-piano/barre-de-repos-des-marteaux/"
+
+[[redirects]]
+from = "/en/pianos/2026-piano-bechstein-1913/index.html"
+to = "/en/pianos/2012-piano-bechstein-1913/"
+
+[[redirects]]
+from = "/en/piano-steinway-1908-228.html"
+to = "/en/pianos/2008-piano-steinway-1908/"
+
+[[redirects]]
+from = "/fr/univers-du-piano/lexique-sur-le-piano/pointes-de-balancier-du-piano/index.html"
+to = "/fr/univers-du-piano/lexique-du-piano/pointes-de-balancier-du-piano/"
+
+[[redirects]]
+from = "/en/piano-erard-1917-317.html"
+to = "/en/pianos/2026-piano-erard-1917/"
+
+[[redirects]]
+from = "/fr/univers-du-piano/lexique-sur-le-piano/pianoforte/index.html"
+to = "/fr/univers-du-piano/lexique-du-piano/pianoforte/"
+
+[[redirects]]
+from = "/ja/pianos/2026-piano-erard-1915/index.html"
+to = "/ja/pianos/2008-piano-erard-1915/"
+
+[[redirects]]
+from = "/ja/pianos/2026-piano-erard-1918/index.html"
+to = "/ja/pianos/2009-piano-erard-1918/"
+
+[[redirects]]
+from = "/fr/v117-813.html"
+to = "/fr/pianos/2026-piano-pleyel-1910-3/"
+
+[[redirects]]
+from = "/jp/r65-906.html"
+to = "/ja/pianos/2026-piano-bluthner-1902/"
+
+[[redirects]]
+from = "/fr/organisations/les-grands-ateliers-de-france/index.html"
+to = "/fr/manufactures-et-partenaires/les-grands-ateliers-de-france/"
+
+[[redirects]]
+from = "/univers-du-piano/index.html"
+to = "/fr/univers-du-piano/"
+
+[[redirects]]
+from = "/fr/v092-471.html"
+to = "/fr/pianos/2026-piano-pleyel/"
+
+[[redirects]]
+from = "/jp/r053-882.html"
+to = "/ja/pianos/2018-piano-pleyel-1927-1/"
+
+[[redirects]]
+from = "/fr/univers-du-piano/lexique-sur-le-piano/etouffoir-du-piano/index.html"
+to = "/fr/univers-du-piano/lexique-du-piano/etouffoir-du-piano/"
+
+[[redirects]]
+from = "/projets/2025-piano-pleyel/index.html"
+to = "/fr/pianos/2025-piano-pleyel-1927-/"
+
+[[redirects]]
+from = "/en/tourillon-380.html"
+to = "/en/the-world-of-the-piano/lexicon/frame-bushing/"
+
+[[redirects]]
+from = "/fr/piano-pleyel-1925-250.html"
+to = "/fr/pianos/2026-piano-pleyel-1925-1/"
+
+[[redirects]]
+from = "/fr/organisations/schiedmayer/index.html"
+to = "/fr/manufactures-et-partenaires/schiedmayer/"
+
+[[redirects]]
+from = "/jp/piano-gaveau-1913-342.html"
+to = "/ja/pianos/2026-piano-gaveau-1913/"
+
+[[redirects]]
+from = "/en/piano-pleyel-1910-247.html"
+to = "/en/pianos/2026-piano-pleyel-1910/"
+
+[[redirects]]
+from = "/en/mecanique-viennoise-392.html"
+to = "/en/the-world-of-the-piano/lexicon/viennese-action/"
+
+[[redirects]]
+from = "/fr/manches-de-marteaux-avec-olive-neuves-162.html"
+to = "/fr/univers-du-piano/lexique-du-piano/manches-de-marteaux-avec-olive-neuves/"
+
+[[redirects]]
+from = "/fr/organisations/cyrille-jourdain/index.html"
+to = "/fr/manufactures-et-partenaires/cyrille-jourdain/"
+
+[[redirects]]
+from = "/jp/piano-pleyel-1944-324.html"
+to = "/ja/pianos/2026-piano-pleyel-1944/"
+
+[[redirects]]
+from = "/fr/piano-pleyel-1929-232.html"
+to = "/fr/pianos/2000-piano-pleyel-1929/"
+
+[[redirects]]
+from = "/ja/pianos/2026-piano-steinway-1911/index.html"
+to = "/ja/pianos/2002-piano-steinway-1911/"
+
+[[redirects]]
+from = "/fr/pianos/2026-piano-gabriel-gaveau-1920/index.html"
+to = "/fr/pianos/2008-piano-gabriel-gaveau-1920/"
+
+[[redirects]]
+from = "/en/cordes-paralleles-du-piano-377.html"
+to = "/en/the-world-of-the-piano/lexicon/piano-straight-strings/"
+
+[[redirects]]
+from = "/en/pianos/2026-piano-erard-1882-1/index.html"
+to = "/en/pianos/2018-piano-erard-1882-1/"
+
+[[redirects]]
+from = "/personnes/sylvie-fouanon/actualites/index.html"
+to = "/fr/personnes/sylvie-fouanon/actualites/"
+
+[[redirects]]
+from = "/fr/pianos/2026-piano-gaveau-1922-1/index.html"
+to = "/fr/pianos/2022-piano-gaveau-1922-1/"
+
+[[redirects]]
+from = "/projets/2004-piano-erard-1926/index.html"
+to = "/fr/pianos/2004-piano-erard-1926/"
+
+[[redirects]]
+from = "/fr/organisations/kriegelstein/index.html"
+to = "/fr/manufactures-et-partenaires/kriegelstein/"
+
+[[redirects]]
+from = "/organisations/irmler/index.html"
+to = "/fr/manufactures-et-partenaires/irmler/"
+
+[[redirects]]
+from = "/fr/dieses-en-ebene-du-piano-177.html"
+to = "/fr/univers-du-piano/lexique-du-piano/dieses-en-ebene-du-piano/"
+
+[[redirects]]
+from = "/jp/piano-bechstein-1930-109.html"
+to = "/ja/pianos/2008-piano-bechstein-1930/"
+
+[[redirects]]
+from = "/fr/ivoire-des-touches-de-piano-175.html"
+to = "/fr/univers-du-piano/lexique-du-piano/ivoire-des-touches-de-piano/"
+
+[[redirects]]
+from = "/en/piano-pleyel-1925-250.html"
+to = "/en/pianos/2026-piano-pleyel-1925-1/"
+
+[[redirects]]
+from = "/fr/pianos/2026-piano-erard-1948/index.html"
+to = "/fr/pianos/2004-piano-erard-1948/"
+
+[[redirects]]
+from = "/en/r051-880.html"
+to = "/en/pianos/2026-piano-gaveau-1926/"
+
+[[redirects]]
+from = "/a-propos/index.html"
+to = "/fr/a-propos/"
+
+[[redirects]]
+from = "/fr/pianos/2026-piano-gaveau-1936/index.html"
+to = "/fr/pianos/2021-piano-gaveau-1936/"
+
+[[redirects]]
+from = "/organisations/transports-delacour-co/index.html"
+to = "/fr/manufactures-et-partenaires/transports-delacour-co/"
+
+[[redirects]]
+from = "/fr/pianos/2026-piano-steinway-1905/index.html"
+to = "/fr/pianos/2002-piano-steinway-1905/"
+
+[[redirects]]
+from = "/jp/piano-erard-1847-217.html"
+to = "/ja/pianos/2003-piano-erard-1847/"
+
+[[redirects]]
+from = "/fr/pianos/2026-piano-bechstein-1910/index.html"
+to = "/fr/pianos/2007-piano-bechstein-1910/"
+
+[[redirects]]
+from = "/en/piano-pleyel-1886-240.html"
+to = "/en/pianos/2026-piano-pleyel-1886/"
+
+[[redirects]]
+from = "/jp/piano-gaveau-1924-91.html"
+to = "/ja/pianos/2026-piano-gaveau-1924-1/"
+
+[[redirects]]
+from = "/en/piano-pleyel-1936-335.html"
+to = "/en/pianos/2026-piano-pleyel-1936-1/"
+
+[[redirects]]
+from = "/jp/piano-pleyel-1936-335.html"
+to = "/ja/pianos/2026-piano-pleyel-1936-1/"
+
+[[redirects]]
+from = "/jp/r060-901.html"
+to = "/ja/pianos/2022-piano-gaveau-1922-1/"
+
+[[redirects]]
+from = "/fr/piano-erard-1929-318.html"
+to = "/fr/pianos/2026-piano-erard-1929-1/"
+
+[[redirects]]
+from = "/fr/pianos/2007-piano-bechstein-1910-1/index.html"
+to = "/fr/pianos/2007-piano-bechstein-1910/"
+
+[[redirects]]
+from = "/fr/piano-pleyel-1929-236.html"
+to = "/fr/pianos/2026-piano-pleyel-1930/"
+
+[[redirects]]
+from = "/en/pianos/2026-piano-erard-1847/index.html"
+to = "/en/pianos/2003-piano-erard-1847/"
+
+[[redirects]]
+from = "/en/piano-grotrian-steinweg-1967-313.html"
+to = "/en/pianos/2026-piano-grotrian-steinweg-1967/"
+
+[[redirects]]
+from = "/fr/univers-du-piano/lexique-sur-le-piano/joues-des-touches/index.html"
+to = "/fr/univers-du-piano/lexique-du-piano/joues-des-touches/"
+
+[[redirects]]
+from = "/fr/pianos/2026-piano-pleyel-1927/index.html"
+to = "/fr/pianos/2026-piano-pleyel-modele-3-de-1927-style-gronkowski/"
+
+[[redirects]]
+from = "/fr/v100-756.html"
+to = "/fr/pianos/2026-piano-erard-1861/"
+
+[[redirects]]
+from = "/fr/piano-gaveau-1920-337.html"
+to = "/fr/pianos/2026-piano-gaveau-1920/"
+
+[[redirects]]
+from = "/fr/pianos/2026-piano-pleyel-1927-8/index.html"
+to = "/fr/pianos/2026-piano-pleyel-modele-3-de-1927-style-gronkowski/"
+
+[[redirects]]
+from = "/ja/actualites/2026-06-22-reussir-editions-debats-publique-old/index.html"
+to = "/ja/actualites/2026-06-22-reussir-editions-debats-publique/"
+
+[[redirects]]
+from = "/pianos/2007-piano-bechstein-1910/index.html"
+to = "/fr/pianos/2007-piano-bechstein-1910/"
+
+[[redirects]]
+from = "/fr/table-d-harmonie-du-piano-389.html"
+to = "/fr/univers-du-piano/lexique-du-piano/table-dharmonie-du-piano/"
+
+[[redirects]]
+from = "/fr/r055-772.html"
+to = "/fr/pianos/2018-piano-erard-1882-1/"
+
+[[redirects]]
+from = "/en/v111-783.html"
+to = "/en/pianos/2026-piano-pleyel-1938/"
+
+[[redirects]]
+from = "/fr/v102-765.html"
+to = "/fr/pianos/2026-piano-pleyel-1927-4/"
+
+[[redirects]]
+from = "/jp/piano-bechstein-1913-84.html"
+to = "/ja/pianos/2013-piano-bechstein-1913-1/"
+
+[[redirects]]
+from = "/en/piano-pleyel-1912-222.html"
+to = "/en/pianos/2007-piano-pleyel-1912/"
+
+[[redirects]]
+from = "/fr/piano-pleyel-1847-354.html"
+to = "/fr/pianos/2026-piano-pleyel-1847/"
+
+[[redirects]]
+from = "/organisations/burgasser/index.html"
+to = "/fr/manufactures-et-partenaires/burgasser/"
+
+[[redirects]]
+from = "/fr/piano-erard-1926-59.html"
+to = "/fr/pianos/2004-piano-erard-1926/"
+
+[[redirects]]
+from = "/fr/r061-902.html"
+to = "/fr/pianos/2021-piano-gaveau-1936/"
+
+[[redirects]]
+from = "/en/v101-760.html"
+to = "/en/pianos/2026-piano-erard-1917-1/"
+
+[[redirects]]
+from = "/fr/v108-780.html"
+to = "/fr/pianos/2026-piano-bluthner-1886/"
+
+[[redirects]]
+from = "/en/v128-852.html"
+to = "/en/pianos/2026-piano-gaveau/"
+
+[[redirects]]
+from = "/organisations/pleyel/index.html"
+to = "/fr/manufactures-et-partenaires/pleyel/"
+
+[[redirects]]
+from = "/fr/r058-899.html"
+to = "/fr/pianos/2021-piano-pleyel-1910-2/"
+
+[[redirects]]
+from = "/projets/2013-piano-erard-1862/index.html"
+to = "/fr/pianos/2013-piano-erard-1862/"
+
+[[redirects]]
+from = "/fr/organisations/burgasser/index.html"
+to = "/fr/manufactures-et-partenaires/burgasser/"
+
+[[redirects]]
+from = "/ja/pianos/2026-piano-bechstein-1927/index.html"
+to = "/ja/pianos/2010-piano-bechstein-1927/"
+
+[[redirects]]
+from = "/ja/pianos/2026-piano-erard-1926/index.html"
+to = "/ja/pianos/2004-piano-erard-1926/"
+
+[[redirects]]
+from = "/ja/pianos/2026-piano-bluthner-1900/index.html"
+to = "/ja/pianos/2018-piano-bluthner-1900/"
+
+[[redirects]]
+from = "/en/sommier-des-chevilles-386.html"
+to = "/en/the-world-of-the-piano/lexicon/pinblock/"
+
+[[redirects]]
+from = "/jp/piano-erard-1928-259.html"
+to = "/ja/pianos/2026-piano-erard-1928/"
+
+[[redirects]]
+from = "/jp/v105-770.html"
+to = "/ja/pianos/2026-piano-pleyel-1929-3/"
+
+[[redirects]]
+from = "/en/double-echappement-piano-373.html"
+to = "/en/the-world-of-the-piano/lexicon/double-escapement/"
+
+[[redirects]]
+from = "/fr/piano-steingraeber-1915-345.html"
+to = "/fr/pianos/1995-piano-steingraeber-1915/"
+
+[[redirects]]
+from = "/ja/pianos/2026-piano-steinway-1908/index.html"
+to = "/ja/pianos/2008-piano-steinway-1908/"
+
+[[redirects]]
+from = "/en/pianos/2026-piano-gabriel-gaveau-1920/index.html"
+to = "/en/pianos/2008-piano-gabriel-gaveau-1920/"
+
+[[redirects]]
+from = "/fr/univers-du-piano/lexique-sur-le-piano/table-dharmonie-du-piano/index.html"
+to = "/fr/univers-du-piano/lexique-du-piano/table-dharmonie-du-piano/"
+
+[[redirects]]
+from = "/fr/pianos/2026-piano-gaveau-1925/index.html"
+to = "/fr/pianos/2004-piano-gaveau-1925/"
+
+[[redirects]]
+from = "/jp/piano-pleyel-1922-325.html"
+to = "/ja/pianos/2026-piano-pleyel-1922/"
+
+[[redirects]]
+from = "/fr/pianos/2026-piano-erard-1913-1/index.html"
+to = "/fr/pianos/2005-piano-erard-1913-1/"
+
+[[redirects]]
+from = "/jp/piano-gaveau-1920-337.html"
+to = "/ja/pianos/2026-piano-gaveau-1920/"
+
+[[redirects]]
+from = "/en/piano-erard-1906-265.html"
+to = "/en/pianos/2026-piano-erard-1906/"
+
+[[redirects]]
+from = "/en/table-d-harmonie-du-piano-389.html"
+to = "/en/the-world-of-the-piano/lexicon/piano-soundboard/"
+
+[[redirects]]
+from = "/en/piano-schiedmayer-1873-238.html"
+to = "/en/pianos/2026-piano-schiedmayer-1873/"
+
+[[redirects]]
+from = "/fr/univers-du-piano/lexique-sur-le-piano/pianos-droit-a-cadre-en-bois-1860-1920/index.html"
+to = "/fr/univers-du-piano/lexique-du-piano/pianos-droit-a-cadre-en-bois-1860-1920/"
+
+[[redirects]]
+from = "/en/piano-pleyel-1922-325.html"
+to = "/en/pianos/2026-piano-pleyel-1922/"
+
+[[redirects]]
+from = "/jp/piano-gaveau-1947-326.html"
+to = "/ja/pianos/2026-piano-gaveau-1947/"
+
+[[redirects]]
+from = "/fr/piano-pleyel-1923-262.html"
+to = "/fr/pianos/2026-piano-pleyel-1923-1/"
+
+[[redirects]]
+from = "/fr/v116-804.html"
+to = "/fr/pianos/2026-piano-pleyel-2/"
+
+[[redirects]]
+from = "/fr/piano-erard-1882-230.html"
+to = "/fr/pianos/2010-piano-erard-1882/"
+
+[[redirects]]
+from = "/fr/piano-steinway-1911-227.html"
+to = "/fr/pianos/2002-piano-steinway-1911/"
+
+[[redirects]]
+from = "/ja/pianos/2026-piano-steinway-1907/index.html"
+to = "/ja/pianos/2021-piano-steinway-1907/"
+
+[[redirects]]
+from = "/en/piano-bluthner-1910-86.html"
+to = "/en/pianos/2026-piano-bluthner-1910/"
+
+[[redirects]]
+from = "/fr/organisations/transports-delacour-co/index.html"
+to = "/fr/manufactures-et-partenaires/transports-delacour-co/"
+
+[[redirects]]
+from = "/fr/piano-pleyel-1925-246.html"
+to = "/fr/pianos/2026-piano-pleyel-1925/"
+
+[[redirects]]
+from = "/en/piano-gaveau-1928-241.html"
+to = "/en/pianos/2026-piano-gaveau-1928/"
+
+[[redirects]]
+from = "/jp/piano-bechstein-1912-220.html"
+to = "/ja/pianos/2003-piano-bechstein-1912/"
+
+[[redirects]]
+from = "/en/piano-gaveau-1913-342.html"
+to = "/en/pianos/2026-piano-gaveau-1913/"
+
+[[redirects]]
+from = "/en/r054-881.html"
+to = "/en/pianos/2023-piano-pleyel-1916-1/"
+
+[[redirects]]
+from = "/en/mecanique-pleyel-a-double-echappement-272.html"
+to = "/en/the-world-of-the-piano/lexicon/pleyel-action-with-double-escapement/"
+
+[[redirects]]
+from = "/organisations/le-reseau-excellence/index.html"
+to = "/fr/manufactures-et-partenaires/le-reseau-excellence/"
+
+[[redirects]]
+from = "/fr/hygrometrie-375.html"
+to = "/fr/univers-du-piano/lexique-du-piano/hygrometrie/"
+
+[[redirects]]
+from = "/jp/piano-pleyel-1931-355.html"
+to = "/ja/pianos/2026-piano-pleyel-1931-1/"
+
+[[redirects]]
+from = "/en/piano-bluthner-1883-237.html"
+to = "/en/pianos/2017-piano-bluthner-1883/"
+
+[[redirects]]
+from = "/fr/univers-du-piano/lexique-sur-le-piano/mecanique-schwander/index.html"
+to = "/fr/univers-du-piano/lexique-du-piano/mecanique-schwander/"
+
+[[redirects]]
+from = "/jp/piano-gabriel-gaveau-1920-219.html"
+to = "/ja/pianos/2008-piano-gabriel-gaveau-1920/"
+
+[[redirects]]
+from = "/jp/piano-pleyel-1929-243.html"
+to = "/ja/pianos/2026-piano-pleyel-1929-1/"
+
+[[redirects]]
+from = "/jp/piano-erard-1913-225.html"
+to = "/ja/pianos/2005-piano-erard-1913-1/"
+
+[[redirects]]
+from = "/fr/piano-gaveau-1947-326.html"
+to = "/fr/pianos/2026-piano-gaveau-1947/"
+
+[[redirects]]
+from = "/en/piano-bechstein-1912-220.html"
+to = "/en/pianos/2003-piano-bechstein-1912/"
+
+[[redirects]]
+from = "/fr/v109-781.html"
+to = "/fr/pianos/2026-piano-erard-1857/"
+
+[[redirects]]
+from = "/jp/piano-pleyel-1923-262.html"
+to = "/ja/pianos/2026-piano-pleyel-1923-1/"
+
+[[redirects]]
+from = "/fr/univers-du-piano/lexique-sur-le-piano/cordes-croisees-du-piano/index.html"
+to = "/fr/univers-du-piano/lexique-du-piano/cordes-croisees-du-piano/"
+
+[[redirects]]
+from = "/univers-du-piano/questions-frequentes/tous-les-pianos-sont-ils-reparables/index.html"
+to = "/fr/univers-du-piano/questions-frequentes/tous-les-pianos-sont-ils-reparables/"
+
+[[redirects]]
+from = "/en/v115-803.html"
+to = "/en/pianos/2026-piano-pleyel-1/"
+
+[[redirects]]
+from = "/fr/piano-erard-1910-294.html"
+to = "/fr/pianos/2000-piano-erard-1910/"
+
+[[redirects]]
+from = "/en/piano-gaveau-1947-326.html"
+to = "/en/pianos/2026-piano-gaveau-1947/"
+
+[[redirects]]
+from = "/fr/pianos/2026-piano-pleyel-1910-2/index.html"
+to = "/fr/pianos/2021-piano-pleyel-1910-2/"
+
+[[redirects]]
+from = "/lexique-sur-le-piano/index.html"
+to = "/fr/univers-du-piano/lexique-du-piano/"
+
+[[redirects]]
+from = "/en/piano-erard-1928-259.html"
+to = "/en/pianos/2026-piano-erard-1928/"
+
+[[redirects]]
+from = "/jp/v132-884.html"
+to = "/ja/pianos/2026-piano-pleyel-1926-4/"
+
+[[redirects]]
+from = "/ja/pianos/2026-piano-pleyel-1916-1/index.html"
+to = "/ja/pianos/2023-piano-pleyel-1916-1/"
+
+[[redirects]]
+from = "/actualites/parution-presse/index.html"
+to = "/fr/actualites/presse/"
+
+[[redirects]]
+from = "/pianos/vendus/index.html"
+to = "/fr/pianos/vendus/"
+
+[[redirects]]
+from = "/fr/organisations/index.html"
+to = "/fr/manufactures-et-partenaires/"
+
+[[redirects]]
+from = "/fr/univers-du-piano/lexique-sur-le-piano/pilotes-dechappement-du-piano/index.html"
+to = "/fr/univers-du-piano/lexique-du-piano/pilotes-dechappement-du-piano/"
+
+[[redirects]]
+from = "/fr/pianos/2026-piano-erard-1915/index.html"
+to = "/fr/pianos/2008-piano-erard-1915/"
+
+[[redirects]]
+from = "/fr/pianos/2026-piano-czapka-1918-1/index.html"
+to = "/fr/pianos/2007-piano-czapka-1918/"
+
