@@ -1080,7 +1080,7 @@ to = "/ja/pianos/2006-piano-erard-1913/"
 
 [[redirects]]
 from = "/jp/piano-bluthner-1910-86.html"
-to = "/ja/pianos/2026-piano-bluthner-1910/"
+to = "/ja/pianos/2024-piano-bluthner-1910/"
 
 [[redirects]]
 from = "/en/piano-bosendorfer-1915-221.html"
@@ -2715,6 +2715,10 @@ from = "/fr/organisations/categories/partenaires/index.html"
 to = "/fr/manufactures-et-partenaires/categories/partenaires/"
 
 [[redirects]]
+from = "/ja/pianos/2026-piano-bluthner-1910/index.html"
+to = "/ja/pianos/2024-piano-bluthner-1910/"
+
+[[redirects]]
 from = "/ja/pianos/2026-piano-kriegelstein-1853/index.html"
 to = "/ja/pianos/2005-piano-kriegelstein-1853/"
 
@@ -3097,6 +3101,10 @@ to = "/fr/plan-du-site/"
 [[redirects]]
 from = "/en/v106-775.html"
 to = "/en/pianos/2026-piano-schiedmayer-1930/"
+
+[[redirects]]
+from = "/fr/pianos/2026-piano-bluthner-1910/index.html"
+to = "/fr/pianos/2024-piano-bluthner-1910/"
 
 [[redirects]]
 from = "/fr/piano-gabriel-gaveau-1920-322.html"
@@ -3531,6 +3539,10 @@ from = "/fr/organisations/bosendorfer/index.html"
 to = "/fr/manufactures-et-partenaires/bosendorfer/"
 
 [[redirects]]
+from = "/en/pianos/2026-piano-bluthner-1910/index.html"
+to = "/en/pianos/2024-piano-bluthner-1910/"
+
+[[redirects]]
 from = "/en/v131-883.html"
 to = "/en/pianos/2026-piano-pleyel-1924-1/"
 
@@ -3676,7 +3688,7 @@ to = "/en/pianos/2020-piano-pleyel-1926-2/"
 
 [[redirects]]
 from = "/fr/piano-bluthner-1910-86.html"
-to = "/fr/pianos/2026-piano-bluthner-1910/"
+to = "/fr/pianos/2024-piano-bluthner-1910/"
 
 [[redirects]]
 from = "/fr/piano-kriegelstein-1853-178.html"
@@ -4212,7 +4224,7 @@ to = "/ja/pianos/2021-piano-steinway-1907/"
 
 [[redirects]]
 from = "/en/piano-bluthner-1910-86.html"
-to = "/en/pianos/2026-piano-bluthner-1910/"
+to = "/en/pianos/2024-piano-bluthner-1910/"
 
 [[redirects]]
 from = "/fr/organisations/transports-delacour-co/index.html"
