@@ -152,7 +152,7 @@ to = "/ja/pianos/2026-piano-bechstein-1927-1/"
 
 [[redirects]]
 from = "/fr/piano-bechstein-1913-84.html"
-to = "/fr/pianos/2026-piano-bechstein-1913-1/"
+to = "/fr/pianos/2013-piano-bechstein-1913-1/"
 
 [[redirects]]
 from = "/ja/pianos/2026-piano-gaveau-1936/index.html"
@@ -445,6 +445,10 @@ to = "/en/pianos/2026-piano-pleyel-1930-3/"
 [[redirects]]
 from = "/pianos/index.html"
 to = "/fr/pianos/"
+
+[[redirects]]
+from = "/ja/pianos/2026-piano-bechstein-1913-1/index.html"
+to = "/ja/pianos/2013-piano-bechstein-1913-1/"
 
 [[redirects]]
 from = "/ja/pianos/2026-piano-erard-1847/index.html"
@@ -1927,6 +1931,10 @@ from = "/univers-du-piano/questions-frequentes/pourquoi-accorder-le-piano/index.
 to = "/fr/univers-du-piano/questions-frequentes/pourquoi-accorder-le-piano/"
 
 [[redirects]]
+from = "/fr/pianos/2026-piano-bechstein-1913-1/index.html"
+to = "/fr/pianos/2013-piano-bechstein-1913-1/"
+
+[[redirects]]
 from = "/fr/organisations/steinway/index.html"
 to = "/fr/manufactures-et-partenaires/steinway/"
 
@@ -2452,7 +2460,7 @@ to = "/fr/pianos/2005-piano-pleyel-1931/"
 
 [[redirects]]
 from = "/en/piano-bechstein-1913-84.html"
-to = "/en/pianos/2026-piano-bechstein-1913-1/"
+to = "/en/pianos/2013-piano-bechstein-1913-1/"
 
 [[redirects]]
 from = "/les-grandes-marques-de-pianos-marques-et-manufactures-de-pianos/index.html"
@@ -2871,6 +2879,10 @@ from = "/jp/piano-erard-1948-218.html"
 to = "/ja/pianos/2004-piano-erard-1948/"
 
 [[redirects]]
+from = "/en/pianos/2026-piano-bechstein-1913-1/index.html"
+to = "/en/pianos/2013-piano-bechstein-1913-1/"
+
+[[redirects]]
 from = "/fr/v101-760.html"
 to = "/fr/pianos/2026-piano-erard-1917-1/"
 
@@ -3156,7 +3168,7 @@ to = "/fr/pianos/2026-piano-pleyel-1927-4/"
 
 [[redirects]]
 from = "/jp/piano-bechstein-1913-84.html"
-to = "/ja/pianos/2026-piano-bechstein-1913-1/"
+to = "/ja/pianos/2013-piano-bechstein-1913-1/"
 
 [[redirects]]
 from = "/en/piano-pleyel-1912-222.html"
