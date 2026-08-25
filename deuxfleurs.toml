@@ -643,6 +643,10 @@ from = "/en/pianos/2007-piano-pleyel-1929-2/index.html"
 to = "/en/pianos/2000-piano-pleyel-1929-2/"
 
 [[redirects]]
+from = "/fr/actualites/2025-01-01-le-piano-de-concert-erard-de-la-collection-balleron-tamayo-ikeda-et-ina-kancheva-melodies-de-chopin/index.html"
+to = "/fr/actualites/2025-01-24-le-piano-de-concert-erard-de-la-collection-balleron-tamayo-ikeda-et-ina-kancheva-melodies-de-chopin/"
+
+[[redirects]]
 from = "/en/pianos/2026-piano-pleyel-1923-2/index.html"
 to = "/en/pianos/2000-piano-pleyel-1923-2/"
 
