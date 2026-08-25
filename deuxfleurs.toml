@@ -4055,6 +4055,10 @@ from = "/fr/piano-pleyel-1931-180.html"
 to = "/fr/pianos/2005-piano-pleyel-1931/"
 
 [[redirects]]
+from = "/fr/actualites/2026-01-01-le-piano-erard-1877-de-la-collection-balleron-avec-julie-fuchs-et-alphonse-cemin-soiree-satie-au-the/index.html"
+to = "/fr/actualites/2026-01-26-le-piano-erard-1877-de-la-collection-balleron-avec-julie-fuchs-et-alphonse-cemin-soiree-satie-au-the/"
+
+[[redirects]]
 from = "/en/piano-bechstein-1913-84.html"
 to = "/en/pianos/2000-piano-bechstein-1913-1/"
 
