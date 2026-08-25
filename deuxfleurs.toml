@@ -2859,6 +2859,10 @@ from = "/univers-du-piano/lexique-sur-le-piano/index.html"
 to = "/fr/univers-du-piano/lexique-du-piano/"
 
 [[redirects]]
+from = "/fr/actualites/2025-02-01-yulianna-avdeeva-le-worcklav-baroque-orchestra-et-lerard-2m45-1877-de-la-collection-balleron-a-la-se/index.html"
+to = "/fr/actualites/2025-01-30-yulianna-avdeeva-le-worcklav-baroque-orchestra-et-lerard-2m45-1877-de-la-collection-balleron-a-la-se/"
+
+[[redirects]]
 from = "/en/pianos/2026-piano-erard-1912/index.html"
 to = "/en/pianos/2000-piano-erard-1912/"
 
