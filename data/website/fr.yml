@@ -63,13 +63,14 @@ contents:
           url: >-
             https://www.tiktok.com/@pianosballeron
           external: true
-
+          image:
+            id: "1fbb5449-ed43-4dda-9375-b0d0ed98adbd"
 
 
   - kind: block
     template: call_to_action
     title: >-
-      Découvrez la collection balleron
+      Découvrez la Collection Balleron
     slug: >-
       decouvrez-la-collection-balleron
     ranks:
@@ -79,7 +80,7 @@ contents:
       active: true
       title: 
         value: >-
-          Découvrez la collection balleron
+          Découvrez la Collection Balleron
         heading: 2
       description: >-
         <p>La Collection Balleron est une initiative de Sylvie Fouanon, Maître  d'Art, entourée d'une équipe de professionnels au service de la musique.</p>
