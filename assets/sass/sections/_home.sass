@@ -8,11 +8,12 @@
             .block-title
                 @include h1
                 @include media-breakpoint-up(desktop)
-                    font-size: pxToRem(60)
-                    line-height: pxToRem(50)
-                    @include media-breakpoint-up(xl)
-                        @include h1
-                    
+                    @media (max-width: 1360px)
+                        font-size: pxToRem(80)
+                        line-height: pxToRem(70)
+                    @media (max-width: 1200px)
+                        font-size: pxToRem(60)
+                        line-height: pxToRem(50)                    
         
         .block-chapter
             .notes
