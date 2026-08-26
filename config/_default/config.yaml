@@ -50,7 +50,6 @@ params:
         display: true
         layout: inline
       options:
-        subtitle: false
         summary: false
     single:
       meta:
