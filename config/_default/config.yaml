@@ -15,6 +15,11 @@ params:
   breadcrumb:
     position: footer
 
+  categories:
+    single:
+      taxonomies:
+        display: true
+
   components:
     lightbox:
       in_hero:
