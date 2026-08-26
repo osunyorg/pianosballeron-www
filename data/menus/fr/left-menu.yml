@@ -12,8 +12,8 @@ items:
   file: content/fr/pages/prestations/_index.html
 - title: Pianos
   slug: pianos
-  target: "/fr/pianos/"
-  kind: page
+  target: "/pianos/a-vendre/"
+  kind: url
   new_tab: false
   children: []
   descendants_targets: []

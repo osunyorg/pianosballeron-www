@@ -63,7 +63,8 @@ contents:
           url: >-
             https://www.tiktok.com/@pianosballeron
           external: true
-
+          image:
+            id: "1fbb5449-ed43-4dda-9375-b0d0ed98adbd"
 
 
   - kind: block
