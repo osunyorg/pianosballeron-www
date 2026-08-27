@@ -36,8 +36,6 @@
                     width: columns(6)
 
                 &:not(.block-chapter--with-image)
-                    .chapter
-                        align-items: center
                     .text
                         display: flex
                         column-gap: var(--grid-gutter)
@@ -51,7 +49,16 @@
                 &.block-chapter--with-image
                     .top
                         padding-right: offset(1)
-            
+
+                    &.block-class-image-logo
+                        .chapter
+                            align-items: center 
+                            figure img
+                                margin-right: auto
+                                width: columns(2)
+                                @include media-breakpoint-up(xxl)
+                                    width: columns(2.5)
+
             .block-pages--grid.block-class-custom-grid
                 .pages
                     @include grid(2)
