@@ -79,20 +79,19 @@
                 object-fit: cover
 
     .block-summary
-        border-bottom: 1px solid var(--color-text)
-        padding-bottom: $spacing-2
         margin-bottom: 0
         .lead p
             text-transform: uppercase
-        + .blocks
-            .block-datatable:first-child
-                margin-top: 0
-                th
-                    font-weight: normal
-                tbody
-                    tr:first-child
-                        td
-                            border-top: none
+    .blocks
+        .block-datatable:first-child
+            border-top: 1px solid var(--color-text)
+            margin-top: $spacing-2
+            th
+                font-weight: normal
+            tbody
+                tr:first-child
+                    td
+                        border-top: none
     
     @include media-breakpoint-up(desktop)
         .hero
