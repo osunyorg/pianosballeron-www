@@ -55,7 +55,9 @@
                             align-items: center 
                             figure img
                                 margin-right: auto
-                                width: columns(2)
+                                width: columns(2.5)
+                                @include media-breakpoint-up(xl)
+                                    width: columns(2)
                                 @include media-breakpoint-up(xxl)
                                     width: columns(2.5)
 
