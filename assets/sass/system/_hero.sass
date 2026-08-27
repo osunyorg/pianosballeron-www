@@ -27,5 +27,9 @@
                 object-fit: cover
 
         @include media-breakpoint-down(desktop)
+            &.hero--image-portrait:where(:not(.has-breadcrumb-hero-end)), 
+            &.hero--image-square:where(:not(.has-breadcrumb-hero-end))
+                margin-bottom: 0
+
             figure
                 margin: 0
