@@ -1,17 +1,25 @@
 default:
 contents_reading_time:
-  seconds: 17
+  seconds: 18
   text: >-
     moins d'une minute
 contents:
   - kind: block
     template: links
-
-
+    title: >-
+      Réseaux sociaux
+    slug: >-
+      reseaux-sociaux
     ranks:
       base: 2
+      self: 2
+    html_class: "block-class-socials"
     top:
-      active: false
+      active: true
+      title: 
+        value: >-
+          Réseaux sociaux
+        heading: 2
 
     data:
 
@@ -22,31 +30,13 @@ contents:
       links:
         - 
           title: >-
-            Instagram
-
-          url: >-
-            https://instagram.com/atelier_pianos_balleron
-          external: true
-          image:
-            id: "8dd539d4-3ec1-403a-a5f3-3d655565d47a"
-        - 
-          title: >-
             Facebook
 
           url: >-
             https://www.facebook.com/PianosBalleron
           external: true
           image:
-            id: "cbc4b6f5-0c1f-4506-b7a3-0156fd3bf31b"
-        - 
-          title: >-
-            Youtube
-
-          url: >-
-            https://www.youtube.com/@PIANOSBALLERONParis
-          external: true
-          image:
-            id: "8fbdcb6c-82e1-4b2f-b50b-695845f2a7fe"
+            id: "149a603d-04e7-4e7a-aebc-a6ad4e3664bc"
         - 
           title: >-
             LinkedIn
@@ -55,7 +45,25 @@ contents:
             https://www.linkedin.com/in/sylvie-fouanon/
           external: true
           image:
-            id: "0e94a8d4-c31f-4b60-b898-7a00fe50b4f3"
+            id: "799d8c8e-d408-4cc8-94fc-4ac39f52ed86"
+        - 
+          title: >-
+            Youtube
+
+          url: >-
+            https://www.youtube.com/@PIANOSBALLERONParis
+          external: true
+          image:
+            id: "102ffeb2-af48-476b-a65f-8c3dd46662d2"
+        - 
+          title: >-
+            Instagram
+
+          url: >-
+            https://instagram.com/atelier_pianos_balleron
+          external: true
+          image:
+            id: "580e821f-fe9c-44d1-8a6b-c78e91684712"
         - 
           title: >-
             TikTok
@@ -64,7 +72,7 @@ contents:
             https://www.tiktok.com/@pianosballeron
           external: true
           image:
-            id: "1fbb5449-ed43-4dda-9375-b0d0ed98adbd"
+            id: "1ca8dd16-247c-42ff-a675-96f41735af0d"
 
 
   - kind: block
