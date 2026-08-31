@@ -36,7 +36,7 @@ contents:
             https://www.facebook.com/PianosBalleron
           external: true
           image:
-            id: "149a603d-04e7-4e7a-aebc-a6ad4e3664bc"
+            id: "429d30d3-b1d0-42d0-af34-873da7d40d28"
         - 
           title: >-
             LinkedIn
@@ -45,7 +45,7 @@ contents:
             https://www.linkedin.com/in/sylvie-fouanon/
           external: true
           image:
-            id: "799d8c8e-d408-4cc8-94fc-4ac39f52ed86"
+            id: "62a52f79-091c-496f-a4e1-3bb05741b7a8"
         - 
           title: >-
             Youtube
@@ -54,7 +54,7 @@ contents:
             https://www.youtube.com/@PIANOSBALLERONParis
           external: true
           image:
-            id: "102ffeb2-af48-476b-a65f-8c3dd46662d2"
+            id: "2379a35b-e716-48e9-910f-2d469dfdf809"
         - 
           title: >-
             Instagram
@@ -63,7 +63,7 @@ contents:
             https://instagram.com/atelier_pianos_balleron
           external: true
           image:
-            id: "580e821f-fe9c-44d1-8a6b-c78e91684712"
+            id: "7eee8b95-df13-48f0-b4e4-4695ada9c3e0"
         - 
           title: >-
             TikTok
@@ -72,7 +72,7 @@ contents:
             https://www.tiktok.com/@pianosballeron
           external: true
           image:
-            id: "1ca8dd16-247c-42ff-a675-96f41735af0d"
+            id: "7b0a3702-13f2-49a1-bb52-21058aebd8a7"
 
 
   - kind: block
