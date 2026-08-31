@@ -1,6 +1,26 @@
 .hero
     @include media-breakpoint-up(desktop)
         padding-bottom: space(20)
+        &.hero--image-square,
+        &.hero--image-portrait
+            .hero-text
+                padding-bottom: var(--grid-gutter)
+                width: columns(9)
+                h1
+                    span
+                        @include h2
+                        color: var(--color-text)
+                        margin-top: space(14)
+                &::after
+                    background: var(--color-text)
+                    content: ''
+                    height: 1px
+                    left: var(--grid-gutter-negative)
+                    margin-top: var(--grid-gutter)
+                    position: absolute
+                    right: var(--grid-gutter-negative)
+                    width: 100%
+
         .single-meta.hero-meta
             row-gap: $spacing-3
 
@@ -33,3 +53,10 @@
 
             figure
                 margin: 0
+
+    @include media-breakpoint-down(desktop)
+        .hero-text
+            margin-bottom: var(--grid-gutter) !important
+            h1
+                span
+                    @include h3

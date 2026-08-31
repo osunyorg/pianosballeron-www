@@ -2,3 +2,10 @@
     &--grid
         @include in-page-without-sidebar
             row-gap: $spacing-5
+        article
+            .media
+                margin-bottom: var(--grid-gutter)
+
+.page
+    a::after
+        content: none !important

@@ -61,24 +61,37 @@ footer#document-footer
 
 // footer's blocks
 .footer-contents
-    .block-links.block--option-icons-true
+    .block-class-socials
+        border-top: 1px solid var(--color-text)
+        padding-top: var(--grid-gutter)
+        .block-title
+            @include h5
         .links
             > li
                 a
                     @include meta
                     color: var(--color-text-alt)
-                    text-transform: uppercase
                     &::after
                         content: none
+
         @include media-breakpoint-down(desktop)
             .links
+                row-gap: var(--grid-gutter)
                 > li
                     align-items: center
                     flex-direction: row
 
         @include media-breakpoint-up(desktop)
+            .block-content
+                display: flex
+                gap: var(--grid-gutter)
+            .block-title
+                width: columns(4)
             .links
-                @include grid(4)
+                display: flex
+                justify-content: flex-end
+                gap: space(17)
+                width: columns(8)
                 > li
                     align-items: center
                     flex-direction: row
