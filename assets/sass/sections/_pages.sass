@@ -1,11 +1,30 @@
 .pages
     &--grid
         @include in-page-without-sidebar
-            row-gap: $spacing-5
+            row-gap: space(8)
         article
             .media
                 margin-bottom: var(--grid-gutter)
 
+        @include media-breakpoint-down(desktop)
+            > li + li
+                margin-top: space(8)
+
 .page
     a::after
         content: none !important
+
+.pages__section 
+    .hero
+        .hero-text
+            padding-bottom: var(--grid-gutter)
+            width: columns(9)
+            &::after
+                background: var(--color-text)
+                content: ''
+                height: 1px
+                left: var(--grid-gutter-negative)
+                margin-top: var(--grid-gutter)
+                position: absolute
+                right: var(--grid-gutter-negative)
+                width: calc(100% + var(--grid-gutter))

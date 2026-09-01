@@ -30,6 +30,12 @@ params:
     single:
       backlinks: true
 
+  persons:
+    single:
+      meta:
+        options:
+          taxonomies: false
+
   posts:
     index:
       taxonomies:

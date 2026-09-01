@@ -93,6 +93,15 @@
                     td
                         border-top: none
     
+    @include media-breakpoint-down(desktop)
+        .hero
+            .hero-text
+                h1
+                    span
+                        margin-top: var(--grid-gutter)
+            .projects-meta
+                row-gap: var(--grid-gutter)
+
     @include media-breakpoint-up(desktop)
         .hero
             .content

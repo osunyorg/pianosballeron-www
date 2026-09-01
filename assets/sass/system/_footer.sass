@@ -61,6 +61,8 @@ footer#document-footer
 
 // footer's blocks
 .footer-contents
+    .block:first-child
+        margin-top: 0
     .block-class-socials
         border-top: 1px solid var(--color-text)
         padding-top: var(--grid-gutter)
@@ -92,6 +94,7 @@ footer#document-footer
                 display: flex
                 justify-content: flex-end
                 gap: space(17)
+                line-height: 1
                 width: columns(8)
                 > li
                     align-items: center
