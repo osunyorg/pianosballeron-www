@@ -61,8 +61,11 @@ footer#document-footer
 
 // footer's blocks
 .footer-contents
-    .block:first-child
-        margin-top: 0
+    .block
+        &:first-child
+            margin-top: 0
+        &:last-child
+            margin-bottom: 0
 
     // socials networks inline
     .block-class-socials
@@ -94,8 +97,9 @@ footer#document-footer
             .links
                 align-items: flex-start
                 display: flex
+                flex-wrap: wrap
                 justify-content: flex-end
-                gap: space(17)
+                gap: var(--grid-gutter) space(17)
                 line-height: 1
                 width: columns(8)
                 > li
@@ -110,14 +114,7 @@ footer#document-footer
                 background: var(--color-text)
                 color: var(--color-background)
                 .link-content
-                    bottom: 0
                     padding: var(--grid-gutter)
-                    position: absolute
-                    display: flex
-                    flex-direction: column
-                    justify-content: flex-end
-                    top: 0
-                    z-index: 9
                     a
                         @include h3
                         font-weight: normal
@@ -139,17 +136,33 @@ footer#document-footer
                 .media
                     img
                         aspect-ratio: 770/670
-                &::after
-                    background: var(--color-text)
-                    background: linear-gradient(0deg,rgba(0, 0, 0, 1) 25%, rgba(255, 255, 255, 0) 100%)
-                    bottom: 0
-                    content: ''
-                    height: 100%
-                    left: 0
-                    position: absolute
-                    right: 0
                 &:hover
                     p
                         b:only-child
                             background: var(--color-background)
                             color: var(--color-text)
+
+            @include media-breakpoint-up(desktop)
+                > li
+                    .link-content
+                        bottom: 0
+                        position: absolute
+                        display: flex
+                        flex-direction: column
+                        justify-content: flex-end
+                        top: 0
+                        z-index: 9
+                    &::after
+                        background: var(--color-text)
+                        background: linear-gradient(0deg,rgba(0, 0, 0, 1) 25%, rgba(255, 255, 255, 0) 100%)
+                        bottom: 0
+                        content: ''
+                        height: 100%
+                        left: 0
+                        position: absolute
+                        right: 0
+
+            @include media-breakpoint-down(desktop)
+                > li
+                    .link-content
+                        padding-top: space(10)
