@@ -1539,6 +1539,10 @@ from = "/projets/a-vendre/index.html"
 to = "/fr/pianos/a-vendre/"
 
 [[redirects]]
+from = "/ja/2026/635af3735471caea6540ae602725ea9286c2add6pdf/index.html"
+to = "/ja/fichiers/2026/635af3735471caea6540ae602725ea9286c2add6pdf/"
+
+[[redirects]]
 from = "/fr/v126-855.html"
 to = "/fr/pianos/2000-piano-pleyel-1929-4/"
 
@@ -1945,6 +1949,10 @@ to = "/ja/pianos/2000-piano-bosendorfer-1980/"
 [[redirects]]
 from = "/organisations/gaveau/index.html"
 to = "/fr/manufactures-et-partenaires/gaveau/"
+
+[[redirects]]
+from = "/en/2026/635af3735471caea6540ae602725ea9286c2add6pdf/index.html"
+to = "/en/files/2026/635af3735471caea6540ae602725ea9286c2add6pdf/"
 
 [[redirects]]
 from = "/en/r061-902.html"
@@ -2541,6 +2549,10 @@ to = "/en/pianos/2000-piano-pleyel-1930/"
 [[redirects]]
 from = "/jp/v102-765.html"
 to = "/ja/pianos/2000-piano-pleyel-1927-3/"
+
+[[redirects]]
+from = "/ja/2026/sylvie-fouanon-chopin-magazine-tokyopdf/index.html"
+to = "/ja/fichiers/2026/sylvie-fouanon-chopin-magazine-tokyopdf/"
 
 [[redirects]]
 from = "/en/piano-gaveau-1924-91.html"
@@ -4109,6 +4121,10 @@ to = "/ja/pianos/2006-piano-gaveau-1927/"
 [[redirects]]
 from = "/jp/piano-erard-1918-171.html"
 to = "/ja/pianos/2009-piano-erard-1918/"
+
+[[redirects]]
+from = "/en/2026/sylvie-fouanon-chopin-magazine-tokyopdf/index.html"
+to = "/en/files/2026/sylvie-fouanon-chopin-magazine-tokyopdf/"
 
 [[redirects]]
 from = "/fr/piano-pleyel-1928-334.html"
