@@ -110,8 +110,13 @@ footer#document-footer
                 background: var(--color-text)
                 color: var(--color-background)
                 .link-content
-                    position: absolute
                     bottom: 0
+                    padding: var(--grid-gutter)
+                    position: absolute
+                    display: flex
+                    flex-direction: column
+                    justify-content: flex-end
+                    top: 0
                     z-index: 9
                     a
                         @include h3
@@ -120,23 +125,31 @@ footer#document-footer
                             bottom: unset
                             position: relative
                             right: unset
-                    p:last-child
+                    p
+                        @include body-text
+                        + p
+                            margin-top: $spacing-3
                         b:only-child
                             @include meta
                             border: 1px solid var(--color-background)
-                            padding: space(3) space(7)
+                            display: table
+                            padding: space(4) space(7)
                             text-transform: uppercase
-                            margin-top: $spacing-3
-                            // display: block
+                            transition: all $default-duration ease
                 .media
                     img
                         aspect-ratio: 770/670
                 &::after
                     background: var(--color-text)
-                    background: linear-gradient(0deg,rgba(0, 0, 0, 1) 0%, rgba(255, 255, 255, 0) 100%)
+                    background: linear-gradient(0deg,rgba(0, 0, 0, 1) 25%, rgba(255, 255, 255, 0) 100%)
                     bottom: 0
                     content: ''
                     height: 100%
                     left: 0
                     position: absolute
                     right: 0
+                &:hover
+                    p
+                        b:only-child
+                            background: var(--color-background)
+                            color: var(--color-text)
