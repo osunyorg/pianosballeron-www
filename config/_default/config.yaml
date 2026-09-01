@@ -78,3 +78,8 @@ params:
         layouts:
           grid:
             desktop:  930
+    blocks:
+      links:
+        cards:
+          tablet:   600
+          desktop:  930
