@@ -1,6 +1,6 @@
 default:
 contents_reading_time:
-  seconds: 18
+  seconds: 23
   text: >-
     moins d'une minute
 contents:
@@ -76,37 +76,42 @@ contents:
 
 
   - kind: block
-    template: call_to_action
-    title: >-
-      Découvrez la Collection Balleron
-    slug: >-
-      decouvrez-la-collection-balleron
+    template: links
+
+
     ranks:
       base: 2
-      self: 2
+    html_class: "block-class-links-nav"
     top:
-      active: true
-      title: 
-        value: >-
-          Découvrez la Collection Balleron
-        heading: 2
-      description: >-
-        <p>La Collection Balleron est une initiative de Sylvie Fouanon, Maître  d'Art, entourée d'une équipe de professionnels au service de la musique.</p>
+      active: false
+
     data:
-      layout: accent_background
-      text: >-
-        <p>La Collection Balleron est une initiative de Sylvie Fouanon, Maître  d'Art, entourée d'une équipe de professionnels au service de la musique.</p>
-      image:
-        id: "03e02c19-6807-44e5-9673-e76e3612d779"
 
+      layout: cards
+      options:
+        icons: false
 
-      buttons:
+      links:
         - 
           title: >-
-            Voir le site
+            Découvrez la collection balleron
+          description: >-
+            <p>La Collection Balleron est une initiative de Sylvie Fouanon, Maître  d'Art, entourée d'une équipe de professionnels au service de la musique.</p><p><b>Voir le site</b></p>
           url: >-
             https://www.collectionballeron.fr/
-          target_blank: true
+          external: true
+          image:
+            id: "03e02c19-6807-44e5-9673-e76e3612d779"
+        - 
+          title: >-
+            Labels, distinctions et engagements
+          description: >-
+            <p>L'Atelier collabore régulièrement avec d'autres professionnels et des institutions prestigieuses.</p><p><b>Voir les distinctions</b></p>
+          url: >-
+            /fr/labels-et-distinctions/
+          external: false
+          image:
+            id: "26162436-a4f2-41af-82eb-1362063fec34"
 
 
 
