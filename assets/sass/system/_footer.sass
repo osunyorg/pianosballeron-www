@@ -63,6 +63,8 @@ footer#document-footer
 .footer-contents
     .block:first-child
         margin-top: 0
+
+    // socials networks inline
     .block-class-socials
         border-top: 1px solid var(--color-text)
         padding-top: var(--grid-gutter)
@@ -99,3 +101,42 @@ footer#document-footer
                 > li
                     align-items: center
                     flex-direction: row
+
+    // two links for labels and collection
+    .block-class-links-nav
+        .links
+            @include grid(2, md)
+            > li
+                background: var(--color-text)
+                color: var(--color-background)
+                .link-content
+                    position: absolute
+                    bottom: 0
+                    z-index: 9
+                    a
+                        @include h3
+                        font-weight: normal
+                        &::after
+                            bottom: unset
+                            position: relative
+                            right: unset
+                    p:last-child
+                        b:only-child
+                            @include meta
+                            border: 1px solid var(--color-background)
+                            padding: space(3) space(7)
+                            text-transform: uppercase
+                            margin-top: $spacing-3
+                            // display: block
+                .media
+                    img
+                        aspect-ratio: 770/670
+                &::after
+                    background: var(--color-text)
+                    background: linear-gradient(0deg,rgba(0, 0, 0, 1) 0%, rgba(255, 255, 255, 0) 100%)
+                    bottom: 0
+                    content: ''
+                    height: 100%
+                    left: 0
+                    position: absolute
+                    right: 0
