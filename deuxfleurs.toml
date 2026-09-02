@@ -935,10 +935,6 @@ from = "/en/piano-erard-1915-216.html"
 to = "/en/pianos/2008-piano-erard-1915/"
 
 [[redirects]]
-from = "/ja/pianos/2025-piano-pleyel-1927-5/index.html"
-to = "/ja/pianos/2000-piano-pleyel-1927-5/"
-
-[[redirects]]
 from = "/fr/univers-du-piano/lexique-sur-le-piano/fabrication-des-bouclettes-francaises/index.html"
 to = "/fr/univers-du-piano/lexique-du-piano/fabrication-des-bouclettes-francaises/"
 
@@ -1173,6 +1169,10 @@ to = "/fr/pianos/2010-piano-erard-1882/"
 [[redirects]]
 from = "/organisations/kriegelstein/index.html"
 to = "/fr/manufactures-et-partenaires/kriegelstein/"
+
+[[redirects]]
+from = "/en/pianos/2000-piano-pleyel-1927-6/index.html"
+to = "/en/pianos/2025-piano-pleyel-1927-6/"
 
 [[redirects]]
 from = "/jp/piano-gaveau-1927-339.html"
@@ -1635,10 +1635,6 @@ from = "/fr/piano-gaveau-1912-299.html"
 to = "/fr/pianos/2006-piano-gaveau-1912/"
 
 [[redirects]]
-from = "/en/pianos/2025-piano-pleyel-1927-6/index.html"
-to = "/en/pianos/2000-piano-pleyel-1927-6/"
-
-[[redirects]]
 from = "/en/piano-bosendorfer-1980-58.html"
 to = "/en/pianos/1016-piano-bosendorfer-1980/"
 
@@ -1648,7 +1644,7 @@ to = "/en/pianos/2000-piano-seiler-1939/"
 
 [[redirects]]
 from = "/fr/v119-816.html"
-to = "/fr/pianos/2000-piano-pleyel-1927-6/"
+to = "/fr/pianos/2025-piano-pleyel-1927-6/"
 
 [[redirects]]
 from = "/fr/actualites/2026-08-14-festival-de-paques-aix-en-provence/index.html"
@@ -2288,7 +2284,7 @@ to = "/fr/pianos/2008-piano-bosendorfer-1915/"
 
 [[redirects]]
 from = "/en/v119-816.html"
-to = "/en/pianos/2000-piano-pleyel-1927-6/"
+to = "/en/pianos/2025-piano-pleyel-1927-6/"
 
 [[redirects]]
 from = "/fr/pianos/2026-piano-pleyel-1928-3/index.html"
@@ -2589,6 +2585,10 @@ to = "/ja/pianos/2015-piano-gaveau-1924/"
 [[redirects]]
 from = "/en/piano-pleyel-1932-244.html"
 to = "/en/pianos/2000-piano-pleyel-1932/"
+
+[[redirects]]
+from = "/fr/pianos/2000-piano-pleyel-1927-6/index.html"
+to = "/fr/pianos/2025-piano-pleyel-1927-6/"
 
 [[redirects]]
 from = "/pianos/2025-piano-gaveau-1932/index.html"
@@ -2967,6 +2967,10 @@ from = "/fr/v129-854.html"
 to = "/fr/pianos/2000-piano-pleyel-1930-5/"
 
 [[redirects]]
+from = "/ja/pianos/2000-piano-pleyel-1927-5/index.html"
+to = "/ja/pianos/2025-piano-pleyel-1927-5/"
+
+[[redirects]]
 from = "/fr/univers-du-piano/lexique-sur-le-piano/pilotes-du-piano/index.html"
 to = "/fr/univers-du-piano/lexique-du-piano/pilotes-du-piano/"
 
@@ -3156,7 +3160,7 @@ to = "/ja/actualites/2025-06-01-sylvie-fouanon-restauratrice-de-pianos-anciens-a
 
 [[redirects]]
 from = "/jp/v119-816.html"
-to = "/ja/pianos/2000-piano-pleyel-1927-5/"
+to = "/ja/pianos/2025-piano-pleyel-1927-5/"
 
 [[redirects]]
 from = "/en/mecanique-baionnette-391.html"
@@ -3328,7 +3332,7 @@ to = "/en/pianos/2000-piano-pleyel-1929-2/"
 
 [[redirects]]
 from = "/en/pianos/2026-piano-pleyel-1927-6/index.html"
-to = "/en/pianos/2000-piano-pleyel-1927-6/"
+to = "/en/pianos/2025-piano-pleyel-1927-6/"
 
 [[redirects]]
 from = "/fr/pianos/2026-piano-pleyel-1927-5/index.html"
@@ -4280,7 +4284,7 @@ to = "/fr/manufactures-et-partenaires/les-grands-ateliers-de-france/"
 
 [[redirects]]
 from = "/fr/pianos/2026-piano-pleyel-1927-6/index.html"
-to = "/fr/pianos/2000-piano-pleyel-1927-6/"
+to = "/fr/pianos/2025-piano-pleyel-1927-6/"
 
 [[redirects]]
 from = "/univers-du-piano/index.html"
@@ -4293,10 +4297,6 @@ to = "/en/pianos/2000-piano-pleyel-1936-1/"
 [[redirects]]
 from = "/fr/pianos/2014-piano-bechstein-1935/index.html"
 to = "/fr/pianos/2000-piano-bechstein-1935/"
-
-[[redirects]]
-from = "/fr/pianos/2025-piano-pleyel-1927-6/index.html"
-to = "/fr/pianos/2000-piano-pleyel-1927-6/"
 
 [[redirects]]
 from = "/ja/pianos/2006-piano-pleyel-1886/index.html"
@@ -4896,7 +4896,7 @@ to = "/fr/univers-du-piano/lexique-du-piano/hygrometrie/"
 
 [[redirects]]
 from = "/ja/pianos/2026-piano-pleyel-1927-5/index.html"
-to = "/ja/pianos/2000-piano-pleyel-1927-5/"
+to = "/ja/pianos/2025-piano-pleyel-1927-5/"
 
 [[redirects]]
 from = "/jp/piano-pleyel-1931-355.html"
