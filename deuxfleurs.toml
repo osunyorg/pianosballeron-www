@@ -420,7 +420,7 @@ to = "/ja/pianos/2018-piano-erard-1882-1/"
 
 [[redirects]]
 from = "/en/pianos/2026-piano-kriegelstein-1853/index.html"
-to = "/en/pianos/2005-piano-kriegelstein-1853/"
+to = "/en/pianos/2004-piano-kriegelstein-1853/"
 
 [[redirects]]
 from = "/en/pointes-d-enfoncement-167.html"
@@ -821,6 +821,10 @@ to = "/ja/pianos/2000-piano-pleyel-1930-1/"
 [[redirects]]
 from = "/jp/piano-pleyel-1908-307.html"
 to = "/ja/pianos/2002-piano-pleyel-1908-1/"
+
+[[redirects]]
+from = "/ja/pianos/2005-piano-kriegelstein-1853/index.html"
+to = "/ja/pianos/2004-piano-kriegelstein-1853/"
 
 [[redirects]]
 from = "/ja/pianos/2018-piano-pleyel-1938/index.html"
@@ -1779,10 +1783,6 @@ from = "/ja/pianos/2018-piano-bluthner-1900/index.html"
 to = "/ja/pianos/2000-piano-bluthner-1900/"
 
 [[redirects]]
-from = "/ja/pianos/2026-piano-gabriel-gaveau-1920/index.html"
-to = "/ja/pianos/2008-piano-gabriel-gaveau-1920/"
-
-[[redirects]]
 from = "/ja/pianos/2026-piano-gaveau-1912/index.html"
 to = "/ja/pianos/2006-piano-gaveau-1912/"
 
@@ -2008,7 +2008,7 @@ to = "/en/pianos/2025-piano-bluthner-1886/"
 
 [[redirects]]
 from = "/en/piano-kriegelstein-1853-178.html"
-to = "/en/pianos/2005-piano-kriegelstein-1853/"
+to = "/en/pianos/2004-piano-kriegelstein-1853/"
 
 [[redirects]]
 from = "/en/pilotes-du-piano-174.html"
@@ -2200,7 +2200,7 @@ to = "/ja/pianos/2000-piano-pleyel-1927-4/"
 
 [[redirects]]
 from = "/jp/piano-kriegelstein-1853-178.html"
-to = "/ja/pianos/2005-piano-kriegelstein-1853/"
+to = "/ja/pianos/2004-piano-kriegelstein-1853/"
 
 [[redirects]]
 from = "/fr/pianos/2026-piano-pleyel-1927-7/index.html"
@@ -2373,6 +2373,10 @@ to = "/fr/manufactures-et-partenaires/ibach/"
 [[redirects]]
 from = "/univers-du-piano/questions-frequentes/pourquoi-restaurer-un-piano-ancien/index.html"
 to = "/fr/univers-du-piano/questions-frequentes/pourquoi-restaurer-un-piano-ancien/"
+
+[[redirects]]
+from = "/fr/pianos/2005-piano-kriegelstein-1853/index.html"
+to = "/fr/pianos/2004-piano-kriegelstein-1853/"
 
 [[redirects]]
 from = "/fr/pianos/2026-piano-gaveau-1932/index.html"
@@ -2843,10 +2847,6 @@ from = "/en/piano-pleyel-3bis-1911-pianos-balleron-485.html"
 to = "/en/pianos/2000-piano-pleyel-1911-1/"
 
 [[redirects]]
-from = "/en/piano-gabriel-gaveau-1920-219.html"
-to = "/en/pianos/2008-piano-gabriel-gaveau-1920/"
-
-[[redirects]]
 from = "/ja/pianos/2026-piano-bechstein-1913/index.html"
 to = "/ja/pianos/2000-piano-bechstein-1913/"
 
@@ -3133,6 +3133,10 @@ to = "/fr/pianos/2000-piano-pleyel-1928-5/"
 [[redirects]]
 from = "/fr/pianos/2026-piano-schiedmayer-1873/index.html"
 to = "/fr/pianos/2000-piano-schiedmayer-1873/"
+
+[[redirects]]
+from = "/en/pianos/2005-piano-kriegelstein-1853/index.html"
+to = "/en/pianos/2004-piano-kriegelstein-1853/"
 
 [[redirects]]
 from = "/fr/univers-du-piano/lexique-sur-le-piano/hygrometrie/index.html"
@@ -3492,7 +3496,7 @@ to = "/ja/pianos/2025-piano-bluthner-1910/"
 
 [[redirects]]
 from = "/ja/pianos/2026-piano-kriegelstein-1853/index.html"
-to = "/ja/pianos/2005-piano-kriegelstein-1853/"
+to = "/ja/pianos/2004-piano-kriegelstein-1853/"
 
 [[redirects]]
 from = "/en/pianos/2026-piano-pleyel-1929/index.html"
@@ -3944,7 +3948,7 @@ to = "/fr/pianos/2002-piano-steinway-1911/"
 
 [[redirects]]
 from = "/fr/pianos/2026-piano-kriegelstein-1853/index.html"
-to = "/fr/pianos/2005-piano-kriegelstein-1853/"
+to = "/fr/pianos/2004-piano-kriegelstein-1853/"
 
 [[redirects]]
 from = "/fr/piano-pleyel-1929-243.html"
@@ -4383,10 +4387,6 @@ from = "/fr/piano-gaveau-1930-251.html"
 to = "/fr/pianos/2000-piano-gaveau-1930/"
 
 [[redirects]]
-from = "/fr/piano-gabriel-gaveau-1920-219.html"
-to = "/fr/pianos/2008-piano-gabriel-gaveau-1920/"
-
-[[redirects]]
 from = "/fr/pianos/2026-piano-steinway-1907/index.html"
 to = "/fr/pianos/2022-piano-steinway-1907/"
 
@@ -4688,7 +4688,7 @@ to = "/fr/pianos/2025-piano-bluthner-1910/"
 
 [[redirects]]
 from = "/fr/piano-kriegelstein-1853-178.html"
-to = "/fr/pianos/2005-piano-kriegelstein-1853/"
+to = "/fr/pianos/2004-piano-kriegelstein-1853/"
 
 [[redirects]]
 from = "/fr/pianos/2015-piano-pleyel-1930-1/index.html"
@@ -4873,10 +4873,6 @@ to = "/fr/pianos/2000-piano-pleyel-1929/"
 [[redirects]]
 from = "/ja/pianos/2026-piano-steinway-1911/index.html"
 to = "/ja/pianos/2002-piano-steinway-1911/"
-
-[[redirects]]
-from = "/fr/pianos/2026-piano-gabriel-gaveau-1920/index.html"
-to = "/fr/pianos/2008-piano-gabriel-gaveau-1920/"
 
 [[redirects]]
 from = "/en/pianos/2005-piano-erard-1935/index.html"
@@ -5291,10 +5287,6 @@ from = "/ja/pianos/2026-piano-steinway-1908/index.html"
 to = "/ja/pianos/2008-piano-steinway-1908/"
 
 [[redirects]]
-from = "/en/pianos/2026-piano-gabriel-gaveau-1920/index.html"
-to = "/en/pianos/2008-piano-gabriel-gaveau-1920/"
-
-[[redirects]]
 from = "/fr/univers-du-piano/lexique-sur-le-piano/table-dharmonie-du-piano/index.html"
 to = "/fr/univers-du-piano/lexique-du-piano/table-dharmonie-du-piano/"
 
@@ -5481,10 +5473,6 @@ to = "/fr/univers-du-piano/lexique-du-piano/mecanique-schwander/"
 [[redirects]]
 from = "/ja/pianos/2021-piano-gaveau-1936/index.html"
 to = "/ja/pianos/2020-piano-gaveau-1936/"
-
-[[redirects]]
-from = "/jp/piano-gabriel-gaveau-1920-219.html"
-to = "/ja/pianos/2008-piano-gabriel-gaveau-1920/"
 
 [[redirects]]
 from = "/en/pianos/2026-piano-pleyel-1886/index.html"
