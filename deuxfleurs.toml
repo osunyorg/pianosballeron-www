@@ -56,7 +56,7 @@ to = "/ja/pianos/2017-piano-pleyel-1911-1/"
 
 [[redirects]]
 from = "/fr/pianos/2026-piano-pleyel-1932/index.html"
-to = "/fr/pianos/2000-piano-pleyel-1932/"
+to = "/fr/pianos/2005-piano-pleyel-1932/"
 
 [[redirects]]
 from = "/fr/piano-steinway-1905-231.html"
@@ -927,10 +927,6 @@ from = "/fr/piano-bechstein-1927-258.html"
 to = "/fr/pianos/2000-piano-bechstein-1927/"
 
 [[redirects]]
-from = "/fr/pianos/2005-piano-pleyel-1932/index.html"
-to = "/fr/pianos/2000-piano-pleyel-1932/"
-
-[[redirects]]
 from = "/jp/piano-steinway-1908-228.html"
 to = "/ja/pianos/2008-piano-steinway-1908/"
 
@@ -1033,6 +1029,10 @@ to = "/ja/pianos/2000-piano-pleyel-1927-7/"
 [[redirects]]
 from = "/en/pianos/2024-piano-pleyel-1906-1/index.html"
 to = "/en/pianos/2025-piano-pleyel-1906-1/"
+
+[[redirects]]
+from = "/ja/pianos/2000-piano-pleyel-1932/index.html"
+to = "/ja/pianos/2005-piano-pleyel-1932/"
 
 [[redirects]]
 from = "/ja/pianos/2026-piano-pleyel-2/index.html"
@@ -1484,7 +1484,7 @@ to = "/fr/univers-du-piano/lexique-du-piano/etouffoir-du-piano/"
 
 [[redirects]]
 from = "/ja/pianos/2026-piano-pleyel-1932/index.html"
-to = "/ja/pianos/2000-piano-pleyel-1932/"
+to = "/ja/pianos/2005-piano-pleyel-1932/"
 
 [[redirects]]
 from = "/fr/v132-884.html"
@@ -1736,7 +1736,7 @@ to = "/fr/univers-du-piano/lexique-du-piano/attrapes/"
 
 [[redirects]]
 from = "/jp/piano-pleyel-1932-244.html"
-to = "/ja/pianos/2000-piano-pleyel-1932/"
+to = "/ja/pianos/2005-piano-pleyel-1932/"
 
 [[redirects]]
 from = "/ja/pianos/2026-piano-erard-1935/index.html"
@@ -2204,7 +2204,7 @@ to = "/fr/pianos/2000-piano-bechstein-1927/"
 
 [[redirects]]
 from = "/en/pianos/2026-piano-pleyel-1932/index.html"
-to = "/en/pianos/2000-piano-pleyel-1932/"
+to = "/en/pianos/2005-piano-pleyel-1932/"
 
 [[redirects]]
 from = "/fr/univers-du-piano/lexique-sur-le-piano/dieses-en-ebene-du-piano/index.html"
@@ -2483,10 +2483,6 @@ from = "/organisations/categories/partenaires/index.html"
 to = "/fr/manufactures-et-partenaires/categories/partenaires/"
 
 [[redirects]]
-from = "/ja/pianos/2005-piano-pleyel-1932/index.html"
-to = "/ja/pianos/2000-piano-pleyel-1932/"
-
-[[redirects]]
 from = "/fr/v133-898.html"
 to = "/fr/pianos/2026-piano-bluthner-1939/"
 
@@ -2612,7 +2608,7 @@ to = "/ja/pianos/2015-piano-gaveau-1924/"
 
 [[redirects]]
 from = "/en/piano-pleyel-1932-244.html"
-to = "/en/pianos/2000-piano-pleyel-1932/"
+to = "/en/pianos/2005-piano-pleyel-1932/"
 
 [[redirects]]
 from = "/fr/pianos/2000-piano-pleyel-1927-6/index.html"
@@ -2689,10 +2685,6 @@ to = "/ja/pianos/2000-piano-erard-1929/"
 [[redirects]]
 from = "/en/pianos/2026-piano-pleyel-1926-3/index.html"
 to = "/en/pianos/2000-piano-pleyel-1926-3/"
-
-[[redirects]]
-from = "/en/pianos/2005-piano-pleyel-1932/index.html"
-to = "/en/pianos/2000-piano-pleyel-1932/"
 
 [[redirects]]
 from = "/jp/v117-813.html"
@@ -3644,7 +3636,7 @@ to = "/en/pianos/2000-piano-erard-1929/"
 
 [[redirects]]
 from = "/fr/piano-pleyel-1932-244.html"
-to = "/fr/pianos/2000-piano-pleyel-1932/"
+to = "/fr/pianos/2005-piano-pleyel-1932/"
 
 [[redirects]]
 from = "/jp/v129-854.html"
@@ -4787,6 +4779,10 @@ from = "/ja/pianos/2000-piano-grotrian-steinweg-1967/index.html"
 to = "/ja/pianos/1999-piano-grotrian-steinweg-1967/"
 
 [[redirects]]
+from = "/fr/pianos/2000-piano-pleyel-1932/index.html"
+to = "/fr/pianos/2005-piano-pleyel-1932/"
+
+[[redirects]]
 from = "/ja/pianos/2000-piano-gaveau-1927-1/index.html"
 to = "/ja/pianos/2008-piano-gaveau-1927-1/"
 
@@ -4981,6 +4977,10 @@ to = "/fr/pianos/2000-piano-schiedmayer-1873/"
 [[redirects]]
 from = "/fr/univers-du-piano/lexique-sur-le-piano/cordes-croisees-du-piano/index.html"
 to = "/fr/univers-du-piano/lexique-du-piano/cordes-croisees-du-piano/"
+
+[[redirects]]
+from = "/en/pianos/2000-piano-pleyel-1932/index.html"
+to = "/en/pianos/2005-piano-pleyel-1932/"
 
 [[redirects]]
 from = "/fr/pianos/2003-piano-pleyel-1928-3/index.html"
