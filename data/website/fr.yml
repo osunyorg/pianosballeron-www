@@ -39,13 +39,13 @@ contents:
             id: "429d30d3-b1d0-42d0-af34-873da7d40d28"
         - 
           title: >-
-            LinkedIn
+            Instagram
 
           url: >-
-            https://www.linkedin.com/in/sylvie-fouanon/
+            https://instagram.com/atelier_pianos_balleron
           external: true
           image:
-            id: "62a52f79-091c-496f-a4e1-3bb05741b7a8"
+            id: "7eee8b95-df13-48f0-b4e4-4695ada9c3e0"
         - 
           title: >-
             Youtube
@@ -57,15 +57,6 @@ contents:
             id: "2379a35b-e716-48e9-910f-2d469dfdf809"
         - 
           title: >-
-            Instagram
-
-          url: >-
-            https://instagram.com/atelier_pianos_balleron
-          external: true
-          image:
-            id: "7eee8b95-df13-48f0-b4e4-4695ada9c3e0"
-        - 
-          title: >-
             TikTok
 
           url: >-
@@ -73,6 +64,15 @@ contents:
           external: true
           image:
             id: "7b0a3702-13f2-49a1-bb52-21058aebd8a7"
+        - 
+          title: >-
+            LinkedIn
+
+          url: >-
+            https://www.linkedin.com/in/sylvie-fouanon/
+          external: true
+          image:
+            id: "62a52f79-091c-496f-a4e1-3bb05741b7a8"
 
 
   - kind: block
