@@ -1,7 +1,8 @@
 .page__home
     .hero
-        h1
-            max-width: 12ch
+        @include media-breakpoint-up(desktop)
+            .hero-text
+                width: columns(9)
 
     .blocks
         .block:not(.block-posts, .block-links)
