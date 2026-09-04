@@ -1523,6 +1523,10 @@ from = "/fr/univers-du-piano/lexique-sur-le-piano/barres-de-table-ou-barettes/in
 to = "/fr/univers-du-piano/lexique-du-piano/barres-de-table-ou-barettes/"
 
 [[redirects]]
+from = "/politique-de-confidentialite/index.html"
+to = "/fr/politique-de-confidentialite/"
+
+[[redirects]]
 from = "/en/r053-882.html"
 to = "/en/pianos/2018-piano-pleyel-1927-2/"
 
