@@ -12,6 +12,7 @@ projects:
   next: 次のピアノ
   none: ピアノはありません
   previous: 前のピアノ
+  reference: 参照
   see_all: 全てのピアノを見る
   see_all_in_category: "「{{ .Title }}」の全ピアノを見る"
   title: ピアノ

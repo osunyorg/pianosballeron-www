@@ -12,6 +12,7 @@ projects:
   next: Next piano
   none: Aucun piano
   previous: Previous piano
+  reference: Référence
   see_all: See all pianos
   see_all_in_category: See all pianos “{{ .Title }}”
   title: Pianos

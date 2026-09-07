@@ -1,0 +1,11 @@
+{{ $subtitle := "" }}
+{{ with .item.Params.subtitle }}
+  {{ $subtitle = printf "<span>%s</span> %s" ( i18n "projects.reference" ) . }}
+{{ end }}
+
+{{ partial "commons/item/heading.html" (dict
+  "item" .item
+  "level" .level
+  "options" .options
+  "subtitle" $subtitle
+) }}
