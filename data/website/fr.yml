@@ -94,16 +94,6 @@ contents:
       links:
         - 
           title: >-
-            Découvrez la collection balleron
-          description: >-
-            <p>La Collection Balleron est une initiative de Sylvie Fouanon, Maître  d'Art, entourée d'une équipe de professionnels au service de la musique.</p><p><b>Voir le site</b></p>
-          url: >-
-            https://www.collectionballeron.fr/
-          external: true
-          image:
-            id: "1c6f429c-5cbb-43bd-a94b-a87b7922b9b1"
-        - 
-          title: >-
             Labels, distinctions et engagements
           description: >-
             <p>L'Atelier collabore régulièrement avec d'autres professionnels et des institutions prestigieuses.</p><p><b>Voir les distinctions</b></p>
@@ -112,6 +102,16 @@ contents:
           external: false
           image:
             id: "04b724ee-ed55-427b-8a06-ee31513f8506"
+        - 
+          title: >-
+            Découvrez la collection balleron
+          description: >-
+            <p>La Collection Balleron est une initiative de Sylvie Fouanon, Maître  d'Art, entourée d'une équipe de professionnels au service de la musique.</p><p><b>Voir le site</b></p>
+          url: >-
+            https://www.collectionballeron.fr/
+          external: true
+          image:
+            id: "1c6f429c-5cbb-43bd-a94b-a87b7922b9b1"
 
 
 
