@@ -83,3 +83,8 @@ params:
         cards:
           tablet:   600
           desktop:  930
+      gallery:
+        carousel:
+          mobile:   400
+          tablet:   600
+          desktop:  650
