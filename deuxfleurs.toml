@@ -1883,6 +1883,10 @@ from = "/fr/pianos/2000-piano-bluthner-1905/index.html"
 to = "/fr/pianos/2002-piano-bluthner-1905/"
 
 [[redirects]]
+from = "/fr/manufactures-et-partenaires/index.html"
+to = "/fr/organisations/"
+
+[[redirects]]
 from = "/ja/pianos/2017-piano-gaveau-1924/index.html"
 to = "/ja/pianos/2015-piano-gaveau-1924/"
 
@@ -3144,7 +3148,7 @@ to = "/fr/pianos/2018-piano-bluthner-modele-2-annee-1900-restauration-vente-en-2
 
 [[redirects]]
 from = "/organisations/index.html"
-to = "/fr/manufactures-et-partenaires/"
+to = "/fr/organisations/"
 
 [[redirects]]
 from = "/ja/pianos/2026-piano-bluthner-1883/index.html"
@@ -4921,10 +4925,6 @@ to = "/fr/actualites/presse/"
 [[redirects]]
 from = "/pianos/vendus/index.html"
 to = "/fr/pianos/vendus/"
-
-[[redirects]]
-from = "/fr/organisations/index.html"
-to = "/fr/manufactures-et-partenaires/"
 
 [[redirects]]
 from = "/en/pianos/2000-piano-schiedmayer-1873/index.html"
