@@ -1,17 +1,25 @@
 default:
 contents_reading_time:
-  seconds: 15
+  seconds: 10
   text: >-
     moins d'une minute
 contents:
   - kind: block
     template: links
-
-
+    title: >-
+      Réseaux sociaux
+    slug: >-
+      reseaux-sociaux
     ranks:
       base: 2
+      self: 2
+    html_class: "block-class-socials"
     top:
-      active: false
+      active: true
+      title: 
+        value: >-
+          Réseaux sociaux
+        heading: 2
 
     data:
 
@@ -22,22 +30,22 @@ contents:
       links:
         - 
           title: >-
+            Facebook
+
+          url: >-
+            https://www.facebook.com/PianosBalleron
+          external: true
+          image:
+            id: "429d30d3-b1d0-42d0-af34-873da7d40d28"
+        - 
+          title: >-
             Instagram
 
           url: >-
             https://instagram.com/atelier_pianos_balleron
           external: true
           image:
-            id: "8dd539d4-3ec1-403a-a5f3-3d655565d47a"
-        - 
-          title: >-
-            LinkedIn
-
-          url: >-
-            https://www.linkedin.com/company/pianos-balleron/
-          external: true
-          image:
-            id: "0e94a8d4-c31f-4b60-b898-7a00fe50b4f3"
+            id: "7eee8b95-df13-48f0-b4e4-4695ada9c3e0"
         - 
           title: >-
             Youtube
@@ -46,50 +54,63 @@ contents:
             https://www.youtube.com/@PIANOSBALLERONParis
           external: true
           image:
-            id: "b578d425-8ebd-482a-a6c8-ba19201e2643"
+            id: "2379a35b-e716-48e9-910f-2d469dfdf809"
         - 
           title: >-
-            Facebook
+            TikTok
 
           url: >-
-            https://www.facebook.com/PianosBalleron/
+            https://www.tiktok.com/@pianosballeron
           external: true
           image:
-            id: "7b2b49e3-0bc5-46b5-81bb-998f121a1350"
+            id: "7b0a3702-13f2-49a1-bb52-21058aebd8a7"
+        - 
+          title: >-
+            LinkedIn
+
+          url: >-
+            https://www.linkedin.com/in/sylvie-fouanon/
+          external: true
+          image:
+            id: "62a52f79-091c-496f-a4e1-3bb05741b7a8"
 
 
   - kind: block
-    template: call_to_action
-    title: >-
-      Découvrez la collection balleron
-    slug: >-
-      decouvrez-la-collection-balleron
+    template: links
+
+
     ranks:
       base: 2
-      self: 2
+    html_class: "block-class-links-nav"
     top:
-      active: true
-      title: 
-        value: >-
-          Découvrez la collection balleron
-        heading: 2
-      description: >-
-        <p>La Collection Balleron est une initiative de Sylvie Fouanon, Maître  d'Art, entourée d'une équipe de professionnels au service de la musique.</p>
+      active: false
+
     data:
-      layout: accent_background
-      text: >-
-        <p>La Collection Balleron est une initiative de Sylvie Fouanon, Maître  d'Art, entourée d'une équipe de professionnels au service de la musique.</p>
-      image:
-        id: "03e02c19-6807-44e5-9673-e76e3612d779"
 
+      layout: cards
+      options:
+        icons: false
 
-      buttons:
+      links:
         - 
           title: >-
-            Voir le site
+            認定、受賞歴、および取り組み
+          description: >-
+            <p>当アトリエは、他の専門家や著名な機関と定期的に協力しています。</p><p><b>受賞歴を見る</b></p>
+
+          external: false
+          image:
+            id: "04b724ee-ed55-427b-8a06-ee31513f8506"
+        - 
+          title: >-
+            「バロロン」コレクションをご覧ください
+          description: >-
+            <p>「コレクション・バレロン」は、芸術家（Maître d'Art）のシルヴィ・フアノンが主導し、音楽に貢献する専門家チームが支えるプロジェクトです。</p><p><b>ウェブサイトを見る</b></p>
           url: >-
             https://www.collectionballeron.fr/
-          target_blank: true
+          external: true
+          image:
+            id: "6b382b00-d63b-4c3f-94a1-71ac5b8dc61a"
 
 
 

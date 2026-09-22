@@ -1,0 +1,40 @@
+---
+title: Informations légales
+items:
+- title: Partners
+  slug: partners
+  target: "/en/partners/"
+  kind: page
+  new_tab: false
+  children: []
+  descendants_targets: []
+  path: "/pages/partners"
+  file: content/en/pages/partners/_index.html
+- title: Legal terms
+  slug: legal-terms
+  target: "/en/legal-terms/"
+  kind: page
+  new_tab: false
+  children: []
+  descendants_targets: []
+  path: "/pages/legal-terms"
+  file: content/en/pages/legal-terms/_index.html
+- title: Contact
+  slug: contact
+  target: "/en/contact/"
+  kind: page
+  new_tab: false
+  children: []
+  descendants_targets: []
+  path: "/pages/contact"
+  file: content/en/pages/contact/_index.html
+- title: Sitemap
+  slug: sitemap
+  target: "/en/sitemap/"
+  kind: page
+  new_tab: false
+  children: []
+  descendants_targets: []
+  path: "/pages/sitemap"
+  file: content/en/pages/sitemap/_index.html
+
