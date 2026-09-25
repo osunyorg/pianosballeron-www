@@ -1,7 +1,7 @@
 ---
 title: Menu de droite
 items:
-- title: 紹介
+- title: 私たちについて
   slug: ''
   target: "/ja/about/"
   kind: page
